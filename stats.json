@@ -1,0 +1,19 @@
+{
+  "total_skills": 4361,
+  "selected_skills": 600,
+  "pattern_distribution": {
+    "Generator": 557,
+    "Unclassified": 2765,
+    "Pipeline": 257,
+    "Tool Wrapper": 177,
+    "Reviewer": 353,
+    "Inversion": 252
+  },
+  "selected_distribution": {
+    "Tool Wrapper": 120,
+    "Generator": 120,
+    "Reviewer": 120,
+    "Inversion": 120,
+    "Pipeline": 120
+  }
+}

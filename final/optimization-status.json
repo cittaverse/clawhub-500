@@ -1,0 +1,670 @@
+{
+  "project": "ClawHub 500 精选计划",
+  "timestamp": "2026-03-21T02:14:11.074465Z",
+  "total_benchmarks": 50,
+  "optimization_complete": {
+    "P0": 10,
+    "P1": 20,
+    "P2": 20,
+    "total": 50
+  },
+  "tasks_completed": {
+    "design_pattern_annotation": 50,
+    "checklist_externalization": 30,
+    "template_supplement": 30,
+    "failure_handling": 30,
+    "total": 140
+  },
+  "benchmarks": [
+    {
+      "name": "capability-evolver",
+      "url": "https://clawhub.ai/autogame-17/capability-evolver",
+      "pattern": "Reviewer",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "gog",
+      "url": "https://clawhub.ai/steipete/gog",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "self-improving-agent",
+      "url": "https://clawhub.ai/pskoett/self-improving-agent",
+      "pattern": "Reviewer",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "agent-browser",
+      "url": "https://clawhub.ai/browser/agent-browser",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "wacli",
+      "url": "https://clawhub.ai/steipete/wacli",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "composio",
+      "url": "https://clawhub.ai/composio/composio",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "playwright-cli",
+      "url": "https://clawhub.ai/gumadeiras/playwright-cli",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "firecrawl",
+      "url": "https://clawhub.ai/firecrawl/firecrawl-cli",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "exa",
+      "url": "https://clawhub.ai/fardeenxyz/exa",
+      "pattern": "Tool Wrapper",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "2slides-skills",
+      "url": "https://clawhub.ai/javainthinking/2slides-skills",
+      "pattern": "Generator",
+      "priority": "P0",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "ai-ppt-generator",
+      "url": "https://clawhub.ai/ide-rea/ai-ppt-generator",
+      "pattern": "Generator",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "report-generator",
+      "url": "https://clawhub.ai/report-generator",
+      "pattern": "Generator",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "skill-vetter",
+      "url": "https://clawhub.ai/skill-vetter",
+      "pattern": "Reviewer",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "agent-audit",
+      "url": "https://clawhub.ai/sharbelayy/agent-audit",
+      "pattern": "Reviewer",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "ai-shield-audit",
+      "url": "https://clawhub.ai/laurentaia/ai-shield-audit",
+      "pattern": "Reviewer",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "adhd-founder-planner",
+      "url": "https://clawhub.ai/jankutschera/adhd-founder-planner",
+      "pattern": "Inversion",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "agent-estimation",
+      "url": "https://clawhub.ai/hjw21century/agent-estimation",
+      "pattern": "Inversion",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "agent-mode-upgrades",
+      "url": "https://clawhub.ai/maverick-software/agent-mode-upgrades",
+      "pattern": "Pipeline",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "n8n-workflow-automation",
+      "url": "https://clawhub.ai/n8n/n8n-workflow-automation",
+      "pattern": "Pipeline",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "openclaw-weekly",
+      "url": "https://clawhub.ai/skills-weekly",
+      "pattern": "Pipeline",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "agent-guardrails",
+      "url": "https://clawhub.ai/olmmlo-cmd/agent-guardrails",
+      "pattern": "Reviewer",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "ai-sentinel",
+      "url": "https://clawhub.ai/amandiwakar/ai-sentinel",
+      "pattern": "Reviewer",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "secureclaw",
+      "url": "https://clawhub.ai/secureclaw",
+      "pattern": "Reviewer",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "ontology",
+      "url": "https://clawhub.ai/ontology",
+      "pattern": "Pipeline",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "agent-os",
+      "url": "https://clawhub.ai/cryptocana/agent-os",
+      "pattern": "Pipeline",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "memory-lancedb",
+      "url": "https://clawhub.ai/memory-lancedb",
+      "pattern": "Tool Wrapper",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "larry",
+      "url": "https://clawhub.ai/OllieWazza/larry",
+      "pattern": "Generator",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "qmd",
+      "url": "https://clawhub.ai/qmd",
+      "pattern": "Tool Wrapper",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "humanizer",
+      "url": "https://clawhub.ai/biostartechnology/humanizer",
+      "pattern": "Generator",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "byerover",
+      "url": "https://clawhub.ai/byteroverinc/byterover",
+      "pattern": "Pipeline",
+      "priority": "P1",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "✅",
+        "template": "✅",
+        "failure_handling": "✅"
+      },
+      "status": "complete"
+    },
+    {
+      "name": "mission-control",
+      "url": "https://clawhub.ai/jontsai/command-center",
+      "pattern": "Generator",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "gws",
+      "url": "https://clawhub.ai/gws",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "brave-browser-api",
+      "url": "https://clawhub.ai/brave-browser-api",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "x-research-skill",
+      "url": "https://clawhub.ai/rohunvora/x-research-skill",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "whatsapp-cli",
+      "url": "https://clawhub.ai/wacli",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "x-impact-checker",
+      "url": "https://clawhub.ai/tonkotsuboy/x-impact-checker",
+      "pattern": "Reviewer",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-context",
+      "url": "https://clawhub.ai/andreagriffiths11/agent-context",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-cost-monitor",
+      "url": "https://clawhub.ai/neal-collab/agent-cost-monitor",
+      "pattern": "Reviewer",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-council",
+      "url": "https://clawhub.ai/itsahedge/agent-council",
+      "pattern": "Pipeline",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-failure-registry",
+      "url": "https://clawhub.ai/unleashedbelial/agent-failure-registry",
+      "pattern": "Reviewer",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-identity-kit",
+      "url": "https://clawhub.ai/ryancampbell/agent-identity-kit",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-media",
+      "url": "https://clawhub.ai/nevo-david/agent-media",
+      "pattern": "Generator",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-passport-system",
+      "url": "https://clawhub.ai/aeoess/agent-passport-system",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agent-wellness",
+      "url": "https://clawhub.ai/alexyuui/agent-wellness",
+      "pattern": "Inversion",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agentbench",
+      "url": "https://clawhub.ai/exe215/agentbench",
+      "pattern": "Reviewer",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agentic-spicy-food",
+      "url": "https://clawhub.ai/nowloady/agentic-spicy-food",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agentpayy",
+      "url": "https://clawhub.ai/horizonflowhq/ai-agentpayy",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agentplace",
+      "url": "https://clawhub.ai/himanshunextbase/agentplace",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agentskills-io",
+      "url": "https://clawhub.ai/killerapp/agentskills-io",
+      "pattern": "Generator",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    },
+    {
+      "name": "agentwallet-sdk",
+      "url": "https://clawhub.ai/up2itnow/agentwallet-sdk",
+      "pattern": "Tool Wrapper",
+      "priority": "P2",
+      "optimization": {
+        "design_pattern": "✅",
+        "checklist": "⏳",
+        "template": "⏳",
+        "failure_handling": "⏳"
+      },
+      "status": "in_progress"
+    }
+  ]
+}

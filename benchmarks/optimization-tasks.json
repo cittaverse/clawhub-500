@@ -1,0 +1,1402 @@
+[
+  {
+    "skill": "composio-connect",
+    "pattern": "Tool Wrapper",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "composio-connect",
+    "pattern": "Tool Wrapper",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "composio-connect",
+    "pattern": "Tool Wrapper",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "composio-connect",
+    "pattern": "Tool Wrapper",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "exa-tool",
+    "pattern": "Tool Wrapper",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "exa-tool",
+    "pattern": "Tool Wrapper",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "exa-tool",
+    "pattern": "Tool Wrapper",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "exa-tool",
+    "pattern": "Tool Wrapper",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "security-scanner",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "security-scanner",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "security-scanner",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "security-scanner",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "adhd-founder-planner",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "adhd-founder-planner",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "adhd-founder-planner",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "adhd-founder-planner",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "tutti",
+    "pattern": "Pipeline",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "tutti",
+    "pattern": "Pipeline",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "tutti",
+    "pattern": "Pipeline",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "tutti",
+    "pattern": "Pipeline",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "bug-audit",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "bug-audit",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "bug-audit",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "bug-audit",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "visual-concept",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "visual-concept",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "visual-concept",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "visual-concept",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "solana-skills",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "solana-skills",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "solana-skills",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "solana-skills",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "og-board-individual",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "og-board-individual",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "og-board-individual",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "og-board-individual",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "vulnerability-scanner",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "vulnerability-scanner",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "vulnerability-scanner",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "vulnerability-scanner",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "betbud-prediction-market-creation",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "betbud-prediction-market-creation",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "betbud-prediction-market-creation",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "betbud-prediction-market-creation",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "lelamp-room",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "lelamp-room",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "lelamp-room",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "lelamp-room",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "reef-negotiation",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "reef-negotiation",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "reef-negotiation",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "reef-negotiation",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "neo-graphql-ts-generator",
+    "pattern": "Tool Wrapper",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "neo-graphql-ts-generator",
+    "pattern": "Tool Wrapper",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "neo-graphql-ts-generator",
+    "pattern": "Tool Wrapper",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "neo-graphql-ts-generator",
+    "pattern": "Tool Wrapper",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "lead-storage",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "lead-storage",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "lead-storage",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "lead-storage",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "sell-evoweb-ai",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "sell-evoweb-ai",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "sell-evoweb-ai",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "sell-evoweb-ai",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "sam-tts",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "sam-tts",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "sam-tts",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "sam-tts",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "charts",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "charts",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "charts",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "charts",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "sharepoint-by-altf1be",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "sharepoint-by-altf1be",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "sharepoint-by-altf1be",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "sharepoint-by-altf1be",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "clean-pytest",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "clean-pytest",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "clean-pytest",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "clean-pytest",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "antivirus",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "antivirus",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "antivirus",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "antivirus",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "pyright-lsp",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "pyright-lsp",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "pyright-lsp",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "pyright-lsp",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "sentient-memory",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "sentient-memory",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "sentient-memory",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "sentient-memory",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "skill-safety-checker",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "skill-safety-checker",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "skill-safety-checker",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "skill-safety-checker",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "m44-internal-testing",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "m44-internal-testing",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "m44-internal-testing",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "m44-internal-testing",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "consilium",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "consilium",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "consilium",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "consilium",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "symbiont",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "symbiont",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "symbiont",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "symbiont",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "cybercentry-cyber-security-consultant",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "cybercentry-cyber-security-consultant",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "cybercentry-cyber-security-consultant",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "cybercentry-cyber-security-consultant",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "moonfunsdk",
+    "pattern": "Pipeline",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "moonfunsdk",
+    "pattern": "Pipeline",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "moonfunsdk",
+    "pattern": "Pipeline",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "moonfunsdk",
+    "pattern": "Pipeline",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "talkspresso",
+    "pattern": "Tool Wrapper",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "talkspresso",
+    "pattern": "Tool Wrapper",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "talkspresso",
+    "pattern": "Tool Wrapper",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "talkspresso",
+    "pattern": "Tool Wrapper",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "academic-research-hub",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "academic-research-hub",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "academic-research-hub",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "academic-research-hub",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "deterministic-controller",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "deterministic-controller",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "deterministic-controller",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "deterministic-controller",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "visual-prompt-engine",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "visual-prompt-engine",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "visual-prompt-engine",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "visual-prompt-engine",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "meta-tags-optimizer",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "meta-tags-optimizer",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "meta-tags-optimizer",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "meta-tags-optimizer",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "asdasdas123",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "asdasdas123",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "asdasdas123",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "asdasdas123",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "lb-motion-skill",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "lb-motion-skill",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "lb-motion-skill",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "lb-motion-skill",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "skill-auto-attach",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "skill-auto-attach",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "skill-auto-attach",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "skill-auto-attach",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "solo-scaffold",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "solo-scaffold",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "solo-scaffold",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "solo-scaffold",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "web2labs-studio",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "web2labs-studio",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "web2labs-studio",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "web2labs-studio",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "email-manager-ai",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "email-manager-ai",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "email-manager-ai",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "email-manager-ai",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "lofy-life-coach",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "lofy-life-coach",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "lofy-life-coach",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "lofy-life-coach",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "idx-cma-report",
+    "pattern": "Generator",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "idx-cma-report",
+    "pattern": "Generator",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "idx-cma-report",
+    "pattern": "Generator",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "idx-cma-report",
+    "pattern": "Generator",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "google-maps-reviews-api-skill",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "google-maps-reviews-api-skill",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "google-maps-reviews-api-skill",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "google-maps-reviews-api-skill",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "on-page-seo-auditor",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "on-page-seo-auditor",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "on-page-seo-auditor",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "on-page-seo-auditor",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "skill-releaser",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "skill-releaser",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "skill-releaser",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "skill-releaser",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "sovereign-seo-audit",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "sovereign-seo-audit",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "sovereign-seo-audit",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "sovereign-seo-audit",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "1sec-security",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "1sec-security",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "1sec-security",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "1sec-security",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "sonic-kvm-testbed",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "sonic-kvm-testbed",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "sonic-kvm-testbed",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "sonic-kvm-testbed",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "truthcheck",
+    "pattern": "Reviewer",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "truthcheck",
+    "pattern": "Reviewer",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "truthcheck",
+    "pattern": "Reviewer",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "truthcheck",
+    "pattern": "Reviewer",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  },
+  {
+    "skill": "market-pulse",
+    "pattern": "Inversion",
+    "task": "design_pattern",
+    "status": "pending",
+    "notes": "需要标注具体设计模式"
+  },
+  {
+    "skill": "market-pulse",
+    "pattern": "Inversion",
+    "task": "checklist",
+    "status": "pending",
+    "notes": "需要外置检查清单到 references/"
+  },
+  {
+    "skill": "market-pulse",
+    "pattern": "Inversion",
+    "task": "template",
+    "status": "pending",
+    "notes": "需要补充模板文件到 assets/"
+  },
+  {
+    "skill": "market-pulse",
+    "pattern": "Inversion",
+    "task": "failure_handling",
+    "status": "pending",
+    "notes": "需要定义失败处理流程"
+  }
+]

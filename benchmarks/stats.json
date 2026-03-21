@@ -1,0 +1,17 @@
+{
+  "total_benchmarks": 50,
+  "pattern_distribution": {
+    "Tool Wrapper": 4,
+    "Reviewer": 15,
+    "Inversion": 8,
+    "Pipeline": 2,
+    "Generator": 21
+  },
+  "total_tasks": 200,
+  "tasks_by_type": {
+    "design_pattern": 50,
+    "checklist": 50,
+    "template": 50,
+    "failure_handling": 50
+  }
+}

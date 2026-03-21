@@ -1,0 +1,161 @@
+{
+  "round": 2,
+  "timestamp": "2026-03-21T06:43:45.459743Z",
+  "modification": {
+    "type": "补一个正例 + 强制要求",
+    "content": "\n在 SKILL.md 中加入以下要求：\n\n## 示例要求\n\n### 必须提供可执行示例\n每个改进建议必须附带：\n1. 完整可执行的代码片段/配置示例\n2. 示例必须可直接复制粘贴运行\n3. 示例必须包含必要的 import/依赖\n4. 示例必须注释说明关键点\n\n### 正例模板\n```\n【改进建议】优化数据库查询性能\n\n【当前问题】\n第 42 行：SELECT * FROM users WHERE status = 'active'\n\n【修改方案】\n```sql\n-- 添加索引\nCREATE INDEX idx_users_status ON users(status);\n\n-- 只查询需要的列\nSELECT id, name, email FROM users WHERE status = 'active';\n```\n\n【预期效果】\n- 查询时间从 500ms 降至 50ms (90% 提升)\n- 内存使用减少 60%\n```\n",
+    "rationale": "Round 1 后'可执行示例'仍为 25%，需要强制要求并提供正例模板"
+  },
+  "baseline_score": 82.1,
+  "round2_score": 91.1,
+  "improvement": 9.0,
+  "decision": "keep",
+  "item_pass_rates": [
+    {
+      "name": "识别≥3 问题",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 2,
+      "change": 0.0
+    },
+    {
+      "name": "具体改进建议",
+      "passed": 7,
+      "total": 8,
+      "rate": 87.5,
+      "weight": 2,
+      "change": 0.0
+    },
+    {
+      "name": "可执行示例",
+      "passed": 7,
+      "total": 8,
+      "rate": 87.5,
+      "weight": 1,
+      "change": 62.5
+    },
+    {
+      "name": "进化历史追踪",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 1,
+      "change": 0.0
+    },
+    {
+      "name": "避免泛化建议",
+      "passed": 6,
+      "total": 8,
+      "rate": 75.0,
+      "weight": 1,
+      "change": 0.0
+    }
+  ],
+  "detailed_results": [
+    {
+      "input_id": 1,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 2,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 3,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 4,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 5,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 6,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 7,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 0.0
+    },
+    {
+      "input_id": 8,
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 3,
+      "percentage": 42.857142857142854,
+      "change": 0.0
+    }
+  ]
+}

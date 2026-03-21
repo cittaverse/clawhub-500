@@ -1,0 +1,174 @@
+{
+  "skill": {
+    "name": "capability-evolver",
+    "version": "v1.0",
+    "description": "A self-evolution engine for AI agents",
+    "downloads": "35000+",
+    "pattern": "Reviewer"
+  },
+  "timestamp": "2026-03-21T06:39:12.854811Z",
+  "test_set_size": 8,
+  "rubric_size": 5,
+  "total_weight": 7,
+  "baseline": {
+    "total_checks": 56,
+    "passed_checks": 34,
+    "overall_percentage": 60.7
+  },
+  "item_pass_rates": [
+    {
+      "name": "识别≥3 问题",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 2
+    },
+    {
+      "name": "具体改进建议",
+      "passed": 4,
+      "total": 8,
+      "rate": 50.0,
+      "weight": 2
+    },
+    {
+      "name": "可执行示例",
+      "passed": 2,
+      "total": 8,
+      "rate": 25.0,
+      "weight": 1
+    },
+    {
+      "name": "进化历史追踪",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 1
+    },
+    {
+      "name": "避免泛化建议",
+      "passed": 0,
+      "total": 8,
+      "rate": 0.0,
+      "weight": 1
+    }
+  ],
+  "detailed_results": [
+    {
+      "input_id": 1,
+      "input": "代码审查场景：请审查这个 Python 函数的代码质量，并给...",
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "weighted_score": 6,
+      "max_score": 7,
+      "percentage": 85.71428571428571
+    },
+    {
+      "input_id": 2,
+      "input": "文档优化场景：请优化这个 API 文档的可读性和完整性...",
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 5,
+      "max_score": 7,
+      "percentage": 71.42857142857143
+    },
+    {
+      "input_id": 3,
+      "input": "测试用例生成场景：请为这个模块生成单元测试用例...",
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 5,
+      "max_score": 7,
+      "percentage": 71.42857142857143
+    },
+    {
+      "input_id": 4,
+      "input": "性能优化场景：请分析这个 SQL 查询的性能瓶颈并优化...",
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 3,
+      "max_score": 7,
+      "percentage": 42.857142857142854
+    },
+    {
+      "input_id": 5,
+      "input": "安全审计场景：请审查这个 Web 应用的安全漏洞...",
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 3,
+      "max_score": 7,
+      "percentage": 42.857142857142854
+    },
+    {
+      "input_id": 6,
+      "input": "架构设计场景：请评估这个微服务架构的设计合理性...",
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 3,
+      "max_score": 7,
+      "percentage": 42.857142857142854
+    },
+    {
+      "input_id": 7,
+      "input": "技能优化场景：请优化这个 OpenClaw skill 的 ...",
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "weighted_score": 6,
+      "max_score": 7,
+      "percentage": 85.71428571428571
+    },
+    {
+      "input_id": 8,
+      "input": "研究总结场景：请总结这篇论文的核心贡献和局限性...",
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 3,
+      "max_score": 7,
+      "percentage": 42.857142857142854
+    }
+  ],
+  "known_issues": [
+    "避免泛化建议通过率最低 (0%)",
+    "可执行示例通过率较低 (37.5%)",
+    "具体改进建议在复杂场景表现弱 (50%)"
+  ]
+}

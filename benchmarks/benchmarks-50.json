@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "composio-connect",
+    "url": "https://clawskills.sh/skills/samotheos-composio-connect",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "模式代表 (Tool Wrapper)",
+    "description": "Connect 850+ apps (Gmail, Slack, GitHub, Calendar, Notion, Jira, and more) to OpenClaw via Composio and mcporter.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "exa-tool",
+    "url": "https://clawskills.sh/skills/claireaicodes-exa-tool",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "模式代表 (Tool Wrapper)",
+    "description": "Exa MCP integration for advanced search, research, and crawling.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "security-scanner",
+    "url": "https://clawskills.sh/skills/dmx64-security-scanner",
+    "pattern": "Reviewer",
+    "benchmark_reason": "模式代表 (Reviewer)",
+    "description": "Automated security scanning and vulnerability detection for web applications, APIs, and infrastructure.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "adhd-founder-planner",
+    "url": "https://clawskills.sh/skills/jankutschera-adhd-founder-planner",
+    "pattern": "Inversion",
+    "benchmark_reason": "模式代表 (Inversion)",
+    "description": "This skill should be used when the user asks to 'plan my day', 'help me plan today', 'morning planning', 'what.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "tutti",
+    "url": "https://clawskills.sh/skills/nutt-adam-tutti",
+    "pattern": "Pipeline",
+    "benchmark_reason": "精选补充",
+    "description": "Orchestrate multiple AI coding agents (Claude Code, Codex, Aider) from a single config — launch teams, run workflows, track capacity, and manage handoffs.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "bug-audit",
+    "url": "https://clawskills.sh/skills/abczsl520-bug-audit",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Dynamic bug hunting for Node.js projects — profiles each project, then selects from 9 audit modules. 200+ real-world pitfalls.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "visual-concept",
+    "url": "https://clawskills.sh/skills/leegitw-visual-concept",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "Transform technical insights into visual concept guides — symbolic imagery, color arcs, and creative direction for video.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "solana-skills",
+    "url": "https://clawskills.sh/skills/spendit-ai-solana-skills",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Solana wallet operations - create wallets, check balances, send SOL/tokens, swap via Jupiter, launch tokens on Pump.fun.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "og-board-individual",
+    "url": "https://clawskills.sh/skills/jatin-31-og-board-individual",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "Use when you need to work with tasks: view tasks, list tasks, update task status, add blockers, artifacts, and worklogs.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "vulnerability-scanner",
+    "url": "https://clawskills.sh/skills/brandonwise-vulnerability-scanner",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Advanced vulnerability analysis for OWASP 2025, supply chain security, attack surface mapping, and risk prioritization.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "betbud-prediction-market-creation",
+    "url": "https://clawskills.sh/skills/samj12-betbud-prediction-market-creation",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "lelamp-room",
+    "url": "https://clawskills.sh/skills/e-ndorfin-lelamp-room",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Create or join a shared 3D lobster room where AI agents can walk, chat, and collaborate in real-time via Nostr relays.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "reef-negotiation",
+    "url": "https://clawskills.sh/skills/staybased-reef-negotiation",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "Negotiate rates, scope, and terms using Chris Voss's FBI-proven frameworks adapted for freelance and consulting deals.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "neo-graphql-ts-generator",
+    "url": "https://clawskills.sh/skills/martinforsulu-neo-graphql-ts-generator",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "精选补充",
+    "description": "Automatically generates TypeScript types from GraphQL schema files with CLI integration for developers and AI agents.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "lead-storage",
+    "url": "https://clawskills.sh/skills/vishalgojha-lead-storage",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Persist validated lead objects through write-only storage operations after Supervisor provides explicit confirmation.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "sell-evoweb-ai",
+    "url": "https://clawskills.sh/skills/galizki-sell-evoweb-ai",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Create AI-First Website with GEO (Generative Engine Optimization) and marketing rules to convert visitors into leads.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "sam-tts",
+    "url": "https://clawskills.sh/skills/fourthdensity-sam-tts",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Generate retro robotic speech audio using SAM (Software Automatic Mouth), the classic C64 text-to-speech synthesizer.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "charts",
+    "url": "https://clawskills.sh/skills/ryandeangraves-charts",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Generate professional technical analysis charts with candlesticks, Fibonacci retracement, moving averages (SMA 20/50)",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "sharepoint-by-altf1be",
+    "url": "https://clawskills.sh/skills/abdelkrim-sharepoint-by-altf1be",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Secure SharePoint file operations and Office document intelligence via Microsoft Graph API — certificate auth, Sites.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "clean-pytest",
+    "url": "https://clawskills.sh/skills/marcoracer-clean-pytest",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Write clean, maintainable pytest tests using Fake-based testing, contract testing, and dependency injection patterns.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "antivirus",
+    "url": "https://clawskills.sh/skills/thomaslwang-antivirus",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Scan installed OpenClaw skills for malicious code patterns including ClickFix social engineering, reverse shell (RAT)",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "pyright-lsp",
+    "url": "https://clawskills.sh/skills/bowen31337-pyright-lsp",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Python language server (Pyright) providing static type checking, code intelligence, and LSP diagnostics for .py and .",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "sentient-memory",
+    "url": "https://clawskills.sh/skills/otherpowers-sentient-memory",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "**For long-horizon or deep SGI review:** See VISION.md in this folder for the original conceptual and poetic framing.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "skill-safety-checker",
+    "url": "https://clawskills.sh/skills/runeweaverstudios-skill-safety-checker",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Runs VirusTotal-style security checks on OpenClaw/Cursor skills before install, including remote code execution (RCE)",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "m44-internal-testing",
+    "url": "https://clawskills.sh/skills/tuleyko-m44-internal-testing",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Install and set up DataHive in a deterministic headless-friendly flow: (1) check/install browser (Chrome or Chromium)",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "consilium",
+    "url": "https://clawskills.sh/skills/morozsm-consilium",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "Your personal board of AI advisors — the only skill that uses truly different AI models (not one model role-playing).",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "symbiont",
+    "url": "https://clawskills.sh/skills/jaschadub-symbiont",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "**Purpose**: This guide helps AI assistants quickly build secure, compliant Symbiont agents following best practices.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "cybercentry-cyber-security-consultant",
+    "url": "https://clawskills.sh/skills/cybercentry-cybercentry-cyber-security-consultant",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "Cybercentry Cyber Security Consultant on ACP - Instant expert-level cyber security advisory powered by @centry_agent.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "moonfunsdk",
+    "url": "https://clawskills.sh/skills/moonnfunofficial-moonfunsdk",
+    "pattern": "Pipeline",
+    "benchmark_reason": "精选补充",
+    "description": "Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "talkspresso",
+    "url": "https://clawskills.sh/skills/baron-talkspresso-talkspresso",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "精选补充",
+    "description": "Manage a Talkspresso business (services, appointments, products, clients, earnings, calendar) using the Talkspresso.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "academic-research-hub",
+    "url": "https://clawskills.sh/skills/anisafifi-academic-research-hub",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Use this skill when users need to search academic papers, download research documents, extract citations, or gather.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "deterministic-controller",
+    "url": "https://clawskills.sh/skills/variable190-deterministic-controller",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Deterministic, evidence-gated controller templates for OpenClaw (HEARTBEAT/ACTIVITIES + sprint template + poll cron.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "visual-prompt-engine",
+    "url": "https://clawskills.sh/skills/abdullah4ai-visual-prompt-engine",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Generate diverse, non-repetitive image prompts powered by real visual references from Dribbble and design platforms.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "meta-tags-optimizer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-meta-tags-optimizer",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Use when the user asks to \"optimize title tag\", \"write meta description\", \"improve CTR\", \"Open Graph tags\", \"social.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "asdasdas123",
+    "url": "https://clawskills.sh/skills/linhui1010-asdasdas123",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "!! Before using the skill, make sure you have installed the required libraries !! Write viral, persuasive, engaging.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "lb-motion-skill",
+    "url": "https://clawskills.sh/skills/leonaaardob-lb-motion-skill",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Complete Motion.dev documentation - modern animation library for React, JavaScript, and Vue (formerly Framer Motion)",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "skill-auto-attach",
+    "url": "https://clawskills.sh/skills/elodyzen-skill-auto-attach",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "This skill monitors the OpenClaw workspace for file changes and automatically attaches new or updated documentation.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "solo-scaffold",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-scaffold",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Generate complete project from PRD + stack template — directory structure, configs, CLAUDE.md, git repo, and GitHub.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "web2labs-studio",
+    "url": "https://clawskills.sh/skills/vinlow-web2labs-studio",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Edit my recording, turn a long video into shorts, generate captions and thumbnails, estimate cost before processing.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "email-manager-ai",
+    "url": "https://clawskills.sh/skills/mkpareek0315-email-manager-ai",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "When user asks to write email, draft reply, manage inbox, email template, follow up email, cold email, professional.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "lofy-life-coach",
+    "url": "https://clawskills.sh/skills/harrey401-lofy-life-coach",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Personal accountability system for the Lofy AI assistant — morning briefings, evening reviews, weekly reports, goal.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "idx-cma-report",
+    "url": "https://clawskills.sh/skills/danielfoch-idx-cma-report",
+    "pattern": "Generator",
+    "benchmark_reason": "精选补充",
+    "description": "Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "google-maps-reviews-api-skill",
+    "url": "https://clawskills.sh/skills/phheng-google-maps-reviews-api-skill",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "This skill is designed to help users automatically extract reviews from Google Maps via the Google Maps Reviews API.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "on-page-seo-auditor",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-on-page-seo-auditor",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Use when the user asks to \"audit page SEO\", \"on-page SEO check\", \"SEO score\", \"page optimization\", \"what SEO issues.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "skill-releaser",
+    "url": "https://clawskills.sh/skills/chunhualiao-skill-releaser",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Release skills to ClawhHub through the full publication pipeline — auto-scaffolding, OPSEC scan, dual review (agent.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "sovereign-seo-audit",
+    "url": "https://clawskills.sh/skills/ryudi84-sovereign-seo-audit",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Comprehensive SEO auditor that analyzes technical SEO, on-page optimization, content quality, and site architecture.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "1sec-security",
+    "url": "https://clawskills.sh/skills/cutmob-1sec-security",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Install, configure, and manage 1-SEC — an open-source, all-in-one cybersecurity platform (16 modules, single binary)",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "sonic-kvm-testbed",
+    "url": "https://clawskills.sh/skills/yxieca-sonic-kvm-testbed",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Deploy and manage a SONiC sonic-mgmt KVM virtual testbed with cEOS neighbors for running pytest-based network tests.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "truthcheck",
+    "url": "https://clawskills.sh/skills/baiyishr-truthcheck",
+    "pattern": "Reviewer",
+    "benchmark_reason": "精选补充",
+    "description": "Verify claims, fact-check content, check URL trustworthiness, and trace claims to their origin using the TruthCheck.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  },
+  {
+    "name": "market-pulse",
+    "url": "https://clawskills.sh/skills/lopushok9-market-pulse",
+    "pattern": "Inversion",
+    "benchmark_reason": "精选补充",
+    "description": "Use when user asks about crypto prices, DeFi yields, market sentiment, fear and greed index, stock prices, upcoming.",
+    "optimization": {
+      "design_pattern": {
+        "status": "pending",
+        "notes": "需要标注具体设计模式"
+      },
+      "checklist": {
+        "status": "pending",
+        "notes": "需要外置检查清单到 references/"
+      },
+      "template": {
+        "status": "pending",
+        "notes": "需要补充模板文件到 assets/"
+      },
+      "failure_handling": {
+        "status": "pending",
+        "notes": "需要定义失败处理流程"
+      }
+    }
+  }
+]

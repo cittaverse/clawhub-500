@@ -1,0 +1,168 @@
+{
+  "round": 3,
+  "timestamp": "2026-03-21T06:48:43.275437Z",
+  "modification": {
+    "type": "加一个反例 + 自动检查",
+    "content": "\n在 SKILL.md 中加入反例和自动检查：\n\n## 反例警示\n\n### 泛化建议示例 (禁止)\n❌ \"优化代码结构\"\n❌ \"改进性能表现\"\n❌ \"增强安全性\"\n\n### 具体建议示例 (推荐)\n✅ \"第 42 行：将 SELECT * 改为 SELECT id, name, email，减少 60% 数据传输\"\n✅ \"第 58 行：添加 try-except 捕获 FileNotFoundError，避免程序崩溃\"\n✅ \"第 73 行：使用 list comprehension 替代 for 循环，提升 30% 速度\"\n\n## 输出前自动检查\n\n在输出前自检：\n- [ ] 每个建议是否包含具体位置（文件：行号）？\n- [ ] 每个建议是否引用了原文？\n- [ ] 每个建议是否给出了修改方案？\n- [ ] 每个建议是否量化了预期效果？\n\n任一为否 → 重新生成建议\n",
+    "rationale": "Round 2 后'避免泛化建议'仍为 75%，需要反例警示 + 自动检查机制"
+  },
+  "baseline_score": 91.1,
+  "round3_score": 94.6,
+  "improvement": 3.5,
+  "decision": "keep",
+  "item_pass_rates": [
+    {
+      "name": "识别≥3 问题",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 2,
+      "change": 0.0
+    },
+    {
+      "name": "具体改进建议",
+      "passed": 7,
+      "total": 8,
+      "rate": 87.5,
+      "weight": 2,
+      "change": 0.0
+    },
+    {
+      "name": "可执行示例",
+      "passed": 7,
+      "total": 8,
+      "rate": 87.5,
+      "weight": 1,
+      "change": 0.0
+    },
+    {
+      "name": "进化历史追踪",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 1,
+      "change": 0.0
+    },
+    {
+      "name": "避免泛化建议",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 1,
+      "change": 25.0
+    }
+  ],
+  "detailed_results": [
+    {
+      "input_id": 1,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 2,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 3,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 4,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 5,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 6,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 0.0
+    },
+    {
+      "input_id": 7,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 8,
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "weighted_score": 4,
+      "percentage": 57.14285714285714,
+      "change": 14.285714285714285
+    }
+  ],
+  "stop_conditions": {
+    "连续 3 轮无提升": false,
+    "总通过率>90%": true,
+    "核心项全部通过": false,
+    "时间耗尽": false
+  },
+  "should_stop": true
+}

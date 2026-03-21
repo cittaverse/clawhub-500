@@ -1,0 +1,204 @@
+name: ClawHub 500 Continuous Optimization
+
+on:
+  schedule:
+    # 每 6 小时健康检查
+    - cron: '0 */6 * * *'
+    # 每周日质量重评
+    - cron: '0 0 * * 0'
+    # 每周日版本发布
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式'
+        required: true
+        default: 'health-check'
+        type: choice
+        options:
+          - health-check
+          - quality-reevaluation
+          - release
+          - skill-iteration
+
+env:
+  PYTHON_VERSION: '3.11'
+  PIP_CACHE_DIR: ${{ github.workspace }}/.cache/pip
+
+jobs:
+  # 每 6 小时健康检查
+  health-check:
+    if: github.event.schedule == '0 */6 * * *' || github.event.inputs.mode == 'health-check'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+      
+      - name: Run health check
+        run: |
+          python scripts/health-check.py \
+            --output data/health-$(date +%Y-%m-%d-%H).json \
+            --tavily-key ${{ secrets.TAVILY_API_KEY }} \
+            --virustotal-key ${{ secrets.VIRUSTOTAL_API_KEY }}
+      
+      - name: Generate watchlist
+        run: |
+          python scripts/generate-watchlist.py \
+            --input data/health-$(date +%Y-%m-%d-%H).json \
+            --output data/watchlist-$(date +%Y-%m-%d).md
+      
+      - name: Create/Update Issue
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: 'Health Check $(date +%Y-%m-%d %H:00 UTC)'
+          content-filepath: data/watchlist-$(date +%Y-%m-%d).md
+          labels: automated, health-check
+      
+      - name: Auto-fix common issues
+        run: |
+          python scripts/auto-fix.py \
+            --input data/health-$(date +%Y-%m-%d-%H).json \
+            --output data/auto-fix-$(date +%Y-%m-%d).md
+      
+      - name: Commit auto-fixes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '[Auto-Fix] $(date +%Y-%m-%d %H:00 UTC)'
+          file_pattern: 'data/*.md skills/**/*.md'
+
+  # 每周日质量重评
+  quality-reevaluation:
+    if: github.event.schedule == '0 0 * * 0' || github.event.inputs.mode == 'quality-reevaluation'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+      
+      - name: Run AI reevaluation
+        run: |
+          python scripts/weekly-reevaluation.py \
+            --output data/reevaluation-$(date +%Y-%m-%d).json \
+            --openai-key ${{ secrets.OPENAI_API_KEY }}
+      
+      - name: Generate upgrade/downgrade recommendations
+        run: |
+          python scripts/generate-changes.py \
+            --input data/reevaluation-$(date +%Y-%m-%d).json \
+            --output data/changes-$(date +%Y-%m-%d).md
+      
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: 'Monthly Quality Update $(date +%Y-%m)'
+          body-path: data/changes-$(date +%Y-%m-%d).md
+          labels: automated, quality-update
+          auto-approve: true
+      
+      - name: Auto-merge if score > 90
+        run: |
+          python scripts/auto-merge-pr.py \
+            --pr-number ${{ steps.pr.outputs.pull-request-number }} \
+            --threshold 90
+
+  # 每周日版本发布
+  release:
+    if: github.event.schedule == '0 0 * * 0' || github.event.inputs.mode == 'release'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+      
+      - name: AI release decision
+        id: release
+        run: |
+          python scripts/ai-release-decision.py \
+            --output release-decision.json \
+            --openai-key ${{ secrets.OPENAI_API_KEY }}
+      
+      - name: Generate changelog
+        run: |
+          python scripts/generate-changelog.py \
+            --input release-decision.json \
+            --output CHANGELOG.md
+      
+      - name: Create release
+        if: steps.release.outputs.should_release == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v$(date +%Y.%m)
+          name: 'Auto-Release v$(date +%Y.%m)'
+          body_path: CHANGELOG.md
+          generate_release_notes: true
+      
+      - name: Update methodology
+        run: |
+          python scripts/update-methodology.py \
+            --input release-decision.json \
+            --output data/METHODOLOGY-UPDATE.md
+      
+      - name: Create methodology PR
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: 'Methodology Update Q$(date +%q) $(date +%Y)'
+          body-path: data/METHODOLOGY-UPDATE.md
+          labels: methodology, quarterly
+
+  # 技能迭代优化（按需触发）
+  skill-iteration:
+    if: github.event.inputs.mode == 'skill-iteration'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      
+      - name: Run skill iteration
+        run: |
+          python scripts/skill-iteration.py \
+            --skill ${{ github.event.inputs.skill_name }} \
+            --test-set ${{ github.event.inputs.test_set }} \
+            --rubric ${{ github.event.inputs.rubric }} \
+            --max-rounds ${{ github.event.inputs.max_rounds || 10 }} \
+            --output data/iteration-$(date +%Y-%m-%d).json \
+            --openai-key ${{ secrets.OPENAI_API_KEY }}
+      
+      - name: Generate changelog
+        run: |
+          python scripts/update-changelog.py \
+            --input data/iteration-$(date +%Y-%m-%d).json \
+            --output skills/${{ github.event.inputs.skill_name }}/CHANGELOG.md
+      
+      - name: Create iteration PR
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: 'Skill Iteration: ${{ github.event.inputs.skill_name }}'
+          body-path: data/iteration-$(date +%Y-%m-%d).md
+          labels: iteration, automated

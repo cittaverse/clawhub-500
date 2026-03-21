@@ -1,0 +1,352 @@
+[
+  {
+    "name": "capability-evolver",
+    "url": "https://clawhub.ai/autogame-17/capability-evolver",
+    "pattern": "Reviewer",
+    "benchmark_reason": "高下载量 (35K+)",
+    "description": "AI self-evolution engine that allows agents to autonomously review their own session logs and improve their behavior over time. Currently the most downloaded skill on the platform."
+  },
+  {
+    "name": "gog",
+    "url": "https://clawhub.ai/steipete/gog",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量 (33.8K)",
+    "description": "Gmail, Calendar, Drive, Docs, Sheets, and Contacts in one skill. The single most powerful skill on the platform."
+  },
+  {
+    "name": "self-improving-agent",
+    "url": "https://clawhub.ai/pskoett/self-improving-agent",
+    "pattern": "Reviewer",
+    "benchmark_reason": "高下载量 (32K/260K)",
+    "description": "Captures learnings, errors, and corrections to enable continuous improvement."
+  },
+  {
+    "name": "agent-browser",
+    "url": "https://clawhub.ai/browser/agent-browser",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量 (153K stars)",
+    "description": "A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages."
+  },
+  {
+    "name": "wacli",
+    "url": "https://clawhub.ai/steipete/wacli",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量",
+    "description": "A Swiss-army CLI tool for agent automation that covers a wide range of utility tasks."
+  },
+  {
+    "name": "composio",
+    "url": "https://clawhub.ai/composio/composio",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "模式代表 (Tool Wrapper)",
+    "description": "A single skill that connects 860+ apps to your agent through composio's auth layer. Gmail, slack, github, notion, jira, linear, and most of the tools people actually use."
+  },
+  {
+    "name": "playwright-cli",
+    "url": "https://clawhub.ai/gumadeiras/playwright-cli",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "模式代表 (Tool Wrapper)",
+    "description": "Browser automation CLI optimized for AI agents with accessibility tree snapshots and ref-based element selection."
+  },
+  {
+    "name": "firecrawl",
+    "url": "https://clawhub.ai/firecrawl/firecrawl-cli",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "模式代表 (Tool Wrapper)",
+    "description": "Scrape, crawl, search, and run browser sessions on any website."
+  },
+  {
+    "name": "exa",
+    "url": "https://clawhub.ai/fardeenxyz/exa",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "模式代表 (Tool Wrapper)",
+    "description": "Free web search for AI agents using Exa API."
+  },
+  {
+    "name": "2slides-skills",
+    "url": "https://clawhub.ai/javainthinking/2slides-skills",
+    "pattern": "Generator",
+    "benchmark_reason": "模式代表 (Generator)",
+    "description": "AI-powered presentation generation using 2slides API."
+  },
+  {
+    "name": "ai-ppt-generator",
+    "url": "https://clawhub.ai/ide-rea/ai-ppt-generator",
+    "pattern": "Generator",
+    "benchmark_reason": "模式代表 (Generator)",
+    "description": "AI-powered PPT format generation tool."
+  },
+  {
+    "name": "report-generator",
+    "url": "https://clawhub.ai/report-generator",
+    "pattern": "Generator",
+    "benchmark_reason": "模式代表 (Generator)",
+    "description": "Generates structured technical reports in Markdown."
+  },
+  {
+    "name": "skill-vetter",
+    "url": "https://clawhub.ai/skill-vetter",
+    "pattern": "Reviewer",
+    "benchmark_reason": "模式代表 (Reviewer)",
+    "description": "Security-first skill vetting for AI agents. Use before installing any skill from ClawHub, GitHub, or other sources."
+  },
+  {
+    "name": "agent-audit",
+    "url": "https://clawhub.ai/sharbelayy/agent-audit",
+    "pattern": "Reviewer",
+    "benchmark_reason": "模式代表 (Reviewer)",
+    "description": "Audit your AI agent setup for performance, cost, and ROI."
+  },
+  {
+    "name": "ai-shield-audit",
+    "url": "https://clawhub.ai/laurentaia/ai-shield-audit",
+    "pattern": "Reviewer",
+    "benchmark_reason": "模式代表 (Reviewer)",
+    "description": "Security audit engine for OpenClaw configurations."
+  },
+  {
+    "name": "adhd-founder-planner",
+    "url": "https://clawhub.ai/jankutschera/adhd-founder-planner",
+    "pattern": "Inversion",
+    "benchmark_reason": "模式代表 (Inversion)",
+    "description": "This skill should be used when the user asks to 'plan my day', 'help me plan today', 'morning planning'."
+  },
+  {
+    "name": "agent-estimation",
+    "url": "https://clawhub.ai/hjw21century/agent-estimation",
+    "pattern": "Inversion",
+    "benchmark_reason": "模式代表 (Inversion)",
+    "description": "Accurately estimate AI agent work effort using the agent's own operational units (tool-call rounds)."
+  },
+  {
+    "name": "agent-mode-upgrades",
+    "url": "https://clawhub.ai/maverick-software/agent-mode-upgrades",
+    "pattern": "Pipeline",
+    "benchmark_reason": "模式代表 (Pipeline)",
+    "description": "A comprehensive upgrade to OpenClaw's agentic capabilities with persistent state, automatic planning, approval."
+  },
+  {
+    "name": "n8n-workflow-automation",
+    "url": "https://clawhub.ai/n8n/n8n-workflow-automation",
+    "pattern": "Pipeline",
+    "benchmark_reason": "模式代表 (Pipeline)",
+    "description": "Connects OpenClaw with n8n workflow automation platform."
+  },
+  {
+    "name": "openclaw-weekly",
+    "url": "https://clawhub.ai/skills-weekly",
+    "pattern": "Pipeline",
+    "benchmark_reason": "模式代表 (Pipeline)",
+    "description": "Weekly OpenClaw skills discovery and automation pipeline."
+  },
+  {
+    "name": "agent-guardrails",
+    "url": "https://clawhub.ai/olmmlo-cmd/agent-guardrails",
+    "pattern": "Reviewer",
+    "benchmark_reason": "安全相关",
+    "description": "Stop AI agents from secretly bypassing your rules."
+  },
+  {
+    "name": "ai-sentinel",
+    "url": "https://clawhub.ai/amandiwakar/ai-sentinel",
+    "pattern": "Reviewer",
+    "benchmark_reason": "安全相关",
+    "description": "Prompt injection detection and security scanning for OpenClaw agents."
+  },
+  {
+    "name": "secureclaw",
+    "url": "https://clawhub.ai/secureclaw",
+    "pattern": "Reviewer",
+    "benchmark_reason": "安全相关",
+    "description": "Security layer for OpenClaw agents."
+  },
+  {
+    "name": "ontology",
+    "url": "https://clawhub.ai/ontology",
+    "pattern": "Pipeline",
+    "benchmark_reason": "创新设计",
+    "description": "Typed knowledge graph for structured agent memory and composable skills."
+  },
+  {
+    "name": "agent-os",
+    "url": "https://clawhub.ai/cryptocana/agent-os",
+    "pattern": "Pipeline",
+    "benchmark_reason": "创新设计",
+    "description": "Persistent agent operating system for OpenClaw."
+  },
+  {
+    "name": "memory-lancedb",
+    "url": "https://clawhub.ai/memory-lancedb",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "Permanent agent memory using LanceDB vector store."
+  },
+  {
+    "name": "larry",
+    "url": "https://clawhub.ai/OllieWazza/larry",
+    "pattern": "Generator",
+    "benchmark_reason": "创新设计",
+    "description": "AI TikTok Growth Engine — 8M views in 1 week."
+  },
+  {
+    "name": "qmd",
+    "url": "https://clawhub.ai/qmd",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "Token Killer — 96% savings. QMD CLI by Tobi, CEO of Shopify."
+  },
+  {
+    "name": "humanizer",
+    "url": "https://clawhub.ai/biostartechnology/humanizer",
+    "pattern": "Generator",
+    "benchmark_reason": "创新设计",
+    "description": "Anti-AI-Slop Humanizer — Kill The Robot Voice."
+  },
+  {
+    "name": "byerover",
+    "url": "https://clawhub.ai/byteroverinc/byterover",
+    "pattern": "Pipeline",
+    "benchmark_reason": "创新设计",
+    "description": "Persistent Memory for OpenClaw agents."
+  },
+  {
+    "name": "mission-control",
+    "url": "https://clawhub.ai/jontsai/command-center",
+    "pattern": "Generator",
+    "benchmark_reason": "创新设计",
+    "description": "CEO Morning Briefing — Daily Dashboard for AI workforce."
+  },
+  {
+    "name": "gws",
+    "url": "https://clawhub.ai/gws",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量",
+    "description": "Google Workspace skills — Gmail, Calendar, Drive, Docs, Sheets."
+  },
+  {
+    "name": "brave-browser-api",
+    "url": "https://clawhub.ai/brave-browser-api",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量",
+    "description": "Internet access for AI agents via Brave Search API."
+  },
+  {
+    "name": "x-research-skill",
+    "url": "https://clawhub.ai/rohunvora/x-research-skill",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量",
+    "description": "Personal Twitter Analyst for AI agents."
+  },
+  {
+    "name": "whatsapp-cli",
+    "url": "https://clawhub.ai/wacli",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "高下载量",
+    "description": "WhatsApp Superpowers for AI agents."
+  },
+  {
+    "name": "x-impact-checker",
+    "url": "https://clawhub.ai/tonkotsuboy/x-impact-checker",
+    "pattern": "Reviewer",
+    "benchmark_reason": "创新设计",
+    "description": "Hack The Algorithm — X/Twitter impact checker."
+  },
+  {
+    "name": "agent-context",
+    "url": "https://clawhub.ai/andreagriffiths11/agent-context",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "A persistent local-only memory system for AI coding agents."
+  },
+  {
+    "name": "agent-cost-monitor",
+    "url": "https://clawhub.ai/neal-collab/agent-cost-monitor",
+    "pattern": "Reviewer",
+    "benchmark_reason": "创新设计",
+    "description": "Real-time token usage and cost tracking across all your OpenClaw agents."
+  },
+  {
+    "name": "agent-council",
+    "url": "https://clawhub.ai/itsahedge/agent-council",
+    "pattern": "Pipeline",
+    "benchmark_reason": "创新设计",
+    "description": "Complete toolkit for creating autonomous AI agents and managing."
+  },
+  {
+    "name": "agent-failure-registry",
+    "url": "https://clawhub.ai/unleashedbelial/agent-failure-registry",
+    "pattern": "Reviewer",
+    "benchmark_reason": "创新设计",
+    "description": "Search the Agent Failure Registry for known agent failures, solutions, and lessons learned."
+  },
+  {
+    "name": "agent-identity-kit",
+    "url": "https://clawhub.ai/ryancampbell/agent-identity-kit",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "A portable identity system for AI agents."
+  },
+  {
+    "name": "agent-media",
+    "url": "https://clawhub.ai/nevo-david/agent-media",
+    "pattern": "Generator",
+    "benchmark_reason": "创新设计",
+    "description": "Generate AI-powered videos and images from the terminal."
+  },
+  {
+    "name": "agent-passport-system",
+    "url": "https://clawhub.ai/aeoess/agent-passport-system",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "Give AI agents cryptographic identity, scoped delegation, values governance, and deliberative consensus."
+  },
+  {
+    "name": "agent-wellness",
+    "url": "https://clawhub.ai/alexyuui/agent-wellness",
+    "pattern": "Inversion",
+    "benchmark_reason": "创新设计",
+    "description": "Give your AI agent an inner life — journaling, mood tracking, decompression after intensive tasks."
+  },
+  {
+    "name": "agentbench",
+    "url": "https://clawhub.ai/exe215/agentbench",
+    "pattern": "Reviewer",
+    "benchmark_reason": "创新设计",
+    "description": "Benchmark your OpenClaw agent across 40 real-world tasks."
+  },
+  {
+    "name": "agentic-spicy-food",
+    "url": "https://clawhub.ai/nowloady/agentic-spicy-food",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "The premier Agent-ready food delivery skill."
+  },
+  {
+    "name": "agentpayy",
+    "url": "https://clawhub.ai/horizonflowhq/ai-agentpayy",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "The Economic OS for OpenClaw."
+  },
+  {
+    "name": "agentplace",
+    "url": "https://clawhub.ai/himanshunextbase/agentplace",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "AI Agent Marketplace for OpenClaw."
+  },
+  {
+    "name": "agentskills-io",
+    "url": "https://clawhub.ai/killerapp/agentskills-io",
+    "pattern": "Generator",
+    "benchmark_reason": "创新设计",
+    "description": "Create, validate, and publish Agent Skills following best practices."
+  },
+  {
+    "name": "agentwallet-sdk",
+    "url": "https://clawhub.ai/up2itnow/agentwallet-sdk",
+    "pattern": "Tool Wrapper",
+    "benchmark_reason": "创新设计",
+    "description": "Non-custodial wallet SDK for autonomous AI agents."
+  }
+]

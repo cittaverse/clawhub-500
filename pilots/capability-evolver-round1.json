@@ -1,0 +1,161 @@
+{
+  "round": 1,
+  "timestamp": "2026-03-21T06:41:38.437863Z",
+  "modification": {
+    "type": "加一条明确规则",
+    "content": "\n在 SKILL.md 中加入以下明确规则：\n\n## 输出约束\n\n### 禁止泛化建议\n禁止使用以下泛化表述：\n- \"优化代码\" → 必须指出具体哪行代码、如何优化\n- \"改进性能\" → 必须给出具体优化方案和预期提升\n- \"增强安全性\" → 必须列出具体漏洞和修复方法\n- \"提高可读性\" → 必须指出具体哪些部分难读、如何改\n\n### 必须具体化\n所有建议必须包含：\n1. 具体位置（文件：行号）\n2. 当前问题（引用原文）\n3. 修改方案（给出修改后代码/文本）\n4. 预期效果（量化指标，如\"性能提升 20%\"）\n",
+    "rationale": "Baseline 显示'避免泛化建议'通过率为 0%，需要加入明确的禁止规则和具体化要求"
+  },
+  "baseline_score": 60.7,
+  "round1_score": 82.1,
+  "improvement": 21.4,
+  "decision": "keep",
+  "item_pass_rates": [
+    {
+      "name": "识别≥3 问题",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 2,
+      "change": 0.0
+    },
+    {
+      "name": "具体改进建议",
+      "passed": 7,
+      "total": 8,
+      "rate": 87.5,
+      "weight": 2,
+      "change": 37.5
+    },
+    {
+      "name": "可执行示例",
+      "passed": 2,
+      "total": 8,
+      "rate": 25.0,
+      "weight": 1,
+      "change": 0.0
+    },
+    {
+      "name": "进化历史追踪",
+      "passed": 8,
+      "total": 8,
+      "rate": 100.0,
+      "weight": 1,
+      "change": 0.0
+    },
+    {
+      "name": "避免泛化建议",
+      "passed": 6,
+      "total": 8,
+      "rate": 75.0,
+      "weight": 1,
+      "change": 75.0
+    }
+  ],
+  "detailed_results": [
+    {
+      "input_id": 1,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "weighted_score": 7,
+      "percentage": 100.0,
+      "change": 14.285714285714292
+    },
+    {
+      "input_id": 2,
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 14.285714285714278
+    },
+    {
+      "input_id": 3,
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 14.285714285714278
+    },
+    {
+      "input_id": 4,
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 42.857142857142854
+    },
+    {
+      "input_id": 5,
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 42.857142857142854
+    },
+    {
+      "input_id": 6,
+      "scores": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 42.857142857142854
+    },
+    {
+      "input_id": 7,
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "weighted_score": 6,
+      "percentage": 85.71428571428571,
+      "change": 0.0
+    },
+    {
+      "input_id": 8,
+      "scores": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "weighted_score": 3,
+      "percentage": 42.857142857142854,
+      "change": 0.0
+    }
+  ]
+}

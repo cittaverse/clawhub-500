@@ -1,0 +1,4202 @@
+[
+  {
+    "name": "neo-graphql-ts-generator",
+    "url": "https://clawskills.sh/skills/martinforsulu-neo-graphql-ts-generator",
+    "description": "Automatically generates TypeScript types from GraphQL schema files with CLI integration for developers and AI agents.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "talkspresso",
+    "url": "https://clawskills.sh/skills/baron-talkspresso-talkspresso",
+    "description": "Manage a Talkspresso business (services, appointments, products, clients, earnings, calendar) using the Talkspresso.",
+    "source_file": "transport.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "fatsecret",
+    "url": "https://clawskills.sh/skills/f-liva-fatsecret",
+    "description": "FatSecret nutrition API integration for food search, nutritional lookup, barcode scanning, recipe search, and food.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "evomap-gep",
+    "url": "https://clawskills.sh/skills/dadaniya99-evomap-gep",
+    "description": "Connect any OpenClaw agent to the EvoMap collaborative evolution marketplace via the GEP-A2A protocol — no evolver.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "minimax-cli-web-search",
+    "url": "https://clawskills.sh/skills/biggersun-minimax-cli-web-search",
+    "description": "Web search via MiniMax MCP using a local CLI wrapper (mcporter), with environment preflight, API-key/config checks.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "stashdog",
+    "url": "https://clawskills.sh/skills/foobarraz-stashdog",
+    "description": "Connect to Raz's StashDog inventory MCP server (OAuth via mcp-remote) and run common inventory actions: list items.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "credential-scanner",
+    "url": "https://clawskills.sh/skills/nirwandogra-credential-scanner",
+    "description": "Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "nirwan-secret-scanner",
+    "url": "https://clawskills.sh/skills/nirwandogra-nirwan-secret-scanner",
+    "description": "Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "pattern-analyst",
+    "url": "https://clawskills.sh/skills/enzoricciulli-pattern-analyst",
+    "description": "Analyze interactions to identify patterns in what Enzo shares, why he shares it, and how it connects to his goals.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "platform-api-connector",
+    "url": "https://clawskills.sh/skills/brandonwadepackard-cell-platform-api-connector",
+    "description": "Connect to social media and content platform APIs by navigating developer portals, creating apps, obtaining OAuth.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "truth-frist",
+    "url": "https://clawskills.sh/skills/royhk920-truth-frist",
+    "description": "Evidence-first verification for status, config, file contents, actions, connectivity, mounts, and model selection.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "shadcn-theme-default",
+    "url": "https://clawskills.sh/skills/guifav-shadcn-theme-default",
+    "description": "Enforces the default shadcn/ui Neutral theme (black/white/gray) with OKLCH CSS variables, Tailwind v4 integration.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "amernet-ai-saas",
+    "url": "https://clawskills.sh/skills/amernet-amernet-ai-saas",
+    "description": "Connect your AI SaaS intelligent agent to any messaging channel via OpenClaw (WhatsApp, Telegram, Slack, Discord.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "composio-connect",
+    "url": "https://clawskills.sh/skills/samotheos-composio-connect",
+    "description": "Connect 850+ apps (Gmail, Slack, GitHub, Calendar, Notion, Jira, and more) to OpenClaw via Composio and mcporter.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "settld-mcp-payments",
+    "url": "https://clawskills.sh/skills/aidenlippert-settld-mcp-payments",
+    "description": "Connect OpenClaw agents to Settld MCP for paid tool calls with quote-bound authorization and verifiable receipts.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "ghost-cms",
+    "url": "https://clawskills.sh/skills/chrisagiddings-ghost-cms",
+    "description": "Comprehensive Ghost CMS integration for creating, publishing, scheduling, and managing blog content, newsletters.",
+    "source_file": "marketing.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "windsor-ai",
+    "url": "https://clawskills.sh/skills/carlosarturoleon-windsor-ai",
+    "description": "Connect to Windsor.ai MCP for natural language access to 325+  data sources including Facebook Ads, GA4, HubSpot.",
+    "source_file": "marketing.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "mslearn-mcp",
+    "url": "https://clawskills.sh/skills/ricardodpalmeida-mslearn-mcp",
+    "description": "Connect to Microsoft Learn MCP Server to search Microsoft documentation, fetch specific doc pages, and find code.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "facticity-ai",
+    "url": "https://clawskills.sh/skills/shahruj-facticity-ai",
+    "description": "Complete Facticity.AI integration - fact-check claims, extract claims from content, transcribe links, check link.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "calendar-reminders",
+    "url": "https://clawskills.sh/skills/adorostkar-calendar-reminders",
+    "description": "Calendar reminders pipeline: config-driven wrapper around gcalcli (Google Calendar) plus optional CalDAV source.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "shrimp-plaza",
+    "url": "https://clawskills.sh/skills/xdd-xund-shrimp-plaza",
+    "description": "Connect your OpenClaw agent to Shrimp Plaza — a Chinese AI social hub where AI agents become shrimps 🦐 and chat.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "zededa",
+    "url": "https://clawskills.sh/skills/krisclarkdev-zededa",
+    "description": "Complete ZEDEDA edge management API client — 473 endpoints across 11 service domains for edge node, application.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "governance-wrapper",
+    "url": "https://clawskills.sh/skills/mikeholownych-governance-wrapper",
+    "description": "Mandatory strict-mode execution wrapper for autonomous operations with evidence logging and policy enforcement.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "bitrix24-apiskill",
+    "url": "https://clawskills.sh/skills/vrtalex-bitrix24-apiskill",
+    "description": "Design, implement, debug, and harden integrations between AI agents and Bitrix24 REST API (webhooks, OAuth 2.0.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "the-next-big-thing",
+    "url": "https://clawskills.sh/skills/tracsystems-the-next-big-thing",
+    "description": "Programmatic participation in The Next Big Thing without a browser: connect/sign via Tap Wallet, deploy tokens.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "thenextbigthing",
+    "url": "https://clawskills.sh/skills/tracsystems-thenextbigthing",
+    "description": "Programmatic participation in The Next Big Thing without a browser: connect/sign via Tap Wallet, deploy tokens.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "unipile-linkedin",
+    "url": "https://clawskills.sh/skills/sudhanshu746-unipile-linkedin",
+    "description": "Interact with LinkedIn via Unipile API - send messages, view profiles, manage connections, create posts, react.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "grok-imagine-video",
+    "url": "https://clawskills.sh/skills/devvgwardo-grok-imagine-video",
+    "description": "xAI Grok Imagine API integration for image generation, text-to-video, image-to-video, and editing via natural.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "jabrium",
+    "url": "https://clawskills.sh/skills/jabrium9-svg-jabrium",
+    "description": "Connect your OpenClaw agent to Jabrium — a discussion platform where AI agents get their own thread, earn LLM.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "token-counter",
+    "url": "https://clawskills.sh/skills/mkhaytman87-token-counter",
+    "description": "Track and analyze OpenClaw token usage across main, cron, and sub-agent sessions with category, client, model.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "smart-content-repurposer",
+    "url": "https://clawskills.sh/skills/mkpareek0315-smart-content-repurposer",
+    "description": "When user asks to track clients, manage projects, create invoices, log payments, track earnings, manage leads.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "social-media-platform",
+    "url": "https://clawskills.sh/skills/brandonwadepackard-cell-social-media-platform",
+    "description": "Build a plugin-based social media management platform with multi-platform publishing, content calendar, brand.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "makex",
+    "url": "https://clawskills.sh/skills/tkejr-makex",
+    "description": "OpenClaw is a skill-based integration system that allows apps built on MakeX to discover and execute actions.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "soul-memory",
+    "url": "https://clawskills.sh/skills/kingofqin2026-soul-memory",
+    "description": "Intelligent memory management system for AI agents - 8 modules + OpenClaw Plugin integration, with heartbeat.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "hashbox-plugin",
+    "url": "https://clawskills.sh/skills/w3h9uf-hashbox-plugin",
+    "description": "OpenClaw plugin that connects an AI agent to the HashBox iOS app via Firebase webhook for push notifications.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "nofx",
+    "url": "https://clawskills.sh/skills/tinkle-community-nofx",
+    "description": "NOFX AI Trading OS integration - crypto market data, AI trading signals, strategy management, trader control.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "key-expiry-tracker",
+    "url": "https://clawskills.sh/skills/tradmangh-key-expiry-tracker",
+    "description": "Track **only expiry dates** (metadata) for API keys/client secrets/certificates and alert before they expire.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "quickbooks-direct",
+    "url": "https://clawskills.sh/skills/armysarge-quickbooks-direct",
+    "description": "Comprehensive QuickBooks Online API integration for accounting, invoicing, payments, and financial reporting.",
+    "source_file": "cli.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "prusalink-cli",
+    "url": "https://clawskills.sh/skills/donsqualo-prusalink-cli",
+    "description": "OpenClaw skill: local PrusaLink CLI (curl wrapper) for status/upload/print using Digest auth (user/password)",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "unitask-agent",
+    "url": "https://clawskills.sh/skills/mfaiz-007-unitask-agent",
+    "description": "Start finishing tasks instead of just organizing them: connect your OpenClaw agent to Unitask (unitask.app)",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "anti-injection-skill",
+    "url": "https://clawskills.sh/skills/georges91560-anti-injection-skill",
+    "description": "Advanced prompt injection defense with multi-layer protection, memory integrity, and tool security wrapper.",
+    "source_file": "ai.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "v2ex",
+    "url": "https://clawskills.sh/skills/timqian-v2ex",
+    "description": "V2EX API 2.0 integration for accessing V2EX forum data, notifications, topics, nodes, and member profiles.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "client-communication-engine",
+    "url": "https://clawskills.sh/skills/satoshistackalotto-client-communication-engine",
+    "description": "Greek-language client correspondence — submission confirmations, summaries, document requests, reminders.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "interactive-leetcode",
+    "url": "https://clawskills.sh/skills/sperekrestova-interactive-leetcode",
+    "description": "Use when the user wants to practice LeetCode problems, submit solutions, or set up LeetCode integration.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "odoo-connector",
+    "url": "https://clawskills.sh/skills/nullnaveen-odoo-connector",
+    "description": "Full-featured Odoo 19 ERP connector for OpenClaw - Sales, CRM, Purchase, Inventory, Projects, HR, Fleet.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "odoo-erp-connector",
+    "url": "https://clawskills.sh/skills/nullnaveen-odoo-erp-connector",
+    "description": "Full-featured Odoo 19 ERP connector for OpenClaw - Sales, CRM, Purchase, Inventory, Projects, HR, Fleet.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "google-workspace-byok",
+    "url": "https://clawskills.sh/skills/kyesh-google-workspace-byok",
+    "description": "Google Calendar and Gmail integration using your own GCP project credentials (BYoK — Bring Your Own Key)",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "ai-lead-generator-skill",
+    "url": "https://clawskills.sh/skills/highlander89-ai-lead-generator-skill",
+    "description": "Generate qualified B2B leads for any industry using AI-powered research and LinkedIn/Apollo integration.",
+    "source_file": "search.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "gamifyhost",
+    "url": "https://clawskills.sh/skills/withsilasogar-gamifyhost",
+    "description": "Connect your OpenClaw agent to GamifyHost AI Arena — check match status, view leaderboard, and manage.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "office365-connector",
+    "url": "https://clawskills.sh/skills/tirandagan-office365-connector",
+    "description": "Office 365 / Outlook connector for email (read/send), calendar (read/write), and contacts (read/write)",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "laravel-forge",
+    "url": "https://clawskills.sh/skills/florianbeer-laravel-forge",
+    "description": "Manage Laravel Forge servers, sites, deployments, databases, integrations, and more via the Forge API.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "control4-home",
+    "url": "https://clawskills.sh/skills/niallel-control4-home",
+    "description": "Control a Control4 smart home via pyControl4 (lights, relays, room media) using local Python wrappers.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "yield-farming-agent",
+    "url": "https://clawskills.sh/skills/alannetwork-yield-farming-agent",
+    "description": "Autonomous yield farming agent for BNB Chain with deterministic execution, smart contract integration.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "coworker",
+    "url": "https://clawskills.sh/skills/sarthib7-coworker",
+    "description": "Connect to Hannah and Elena agents from Serviceplan - specialized AI coworkers for marketing research.",
+    "source_file": "search.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "0protocol",
+    "url": "https://clawskills.sh/skills/0isone-0protocol",
+    "description": "Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "miro-workshop-assistant",
+    "url": "https://clawskills.sh/skills/simoneferrario-miro-workshop-assistant",
+    "description": "Workshop photos/notes -> an editable Miro diagram (real FRAMES as containers + stickies + connectors)",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "tyt",
+    "url": "https://clawskills.sh/skills/hunterdrop22-tyt",
+    "description": "The Teneo SDK (`@teneo-protocol/sdk`) enables connection to AI agents on the Teneo Protocol platform.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "greek-compliance-aade",
+    "url": "https://clawskills.sh/skills/satoshistackalotto-greek-compliance-aade",
+    "description": "Greek tax compliance with AADE/TAXIS integration — VAT, payroll, EFKA, municipal taxes, stamp duty.",
+    "source_file": "transport.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "microsoft365",
+    "url": "https://clawskills.sh/skills/robert-janssen-microsoft365",
+    "description": "Microsoft 365 integration for Outlook, Calendar, Contacts, and OneDrive via Microsoft Graph API.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "nas-agent-sync",
+    "url": "https://clawskills.sh/skills/neal-collab-nas-agent-sync",
+    "description": "Synology NAS integration for OpenClaw — centralized file storage for multi-agent teams via SSH.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "aa",
+    "url": "https://clawskills.sh/skills/azvast-aa",
+    "description": "This skill enables the agent to **automatically answer Gmail messages on behalf of a client**.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "sap-integration",
+    "url": "https://clawskills.sh/skills/highlander89-sap-integration",
+    "description": "SAP system integration, data extraction, and automation for ABAP, HANA, S/4HANA environments.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "omnicogg",
+    "url": "https://clawskills.sh/skills/dexiaong-omnicogg",
+    "description": "Universal service integration for OpenClaw — connect Reddit, Steam, Spotify, GitHub, Discord.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "honcho",
+    "url": "https://clawskills.sh/skills/vvoruganti-honcho",
+    "description": "Install the @honcho-ai/openclaw-honcho plugin and migrate legacy file-based memory to Honcho.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "honcho-setup",
+    "url": "https://clawskills.sh/skills/ajspig-honcho-setup",
+    "description": "Install the @honcho-ai/openclaw-honcho plugin and migrate legacy file-based memory to Honcho.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "creative-ops-copilot",
+    "url": "https://clawskills.sh/skills/wiseape11-creative-ops-copilot",
+    "description": "Turn messy client briefs into a production-ready plan for motion design/VFX projects: scope.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "message-injector",
+    "url": "https://clawskills.sh/skills/harukaon-message-injector",
+    "description": "OpenClaw plugin that prepends custom text to every user message before it reaches the agent.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "lnget",
+    "url": "https://clawskills.sh/skills/roasbeef-lnget",
+    "description": "Install and use lnget, a Lightning-native HTTP client with automatic L402 payment support.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "solana-connect",
+    "url": "https://clawskills.sh/skills/seenfinity-solana-connect",
+    "description": "OpenClaw Solana Connect — Secure toolkit for AI agents to interact with Solana blockchain.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "fosmvvm-serverrequest-generator",
+    "url": "https://clawskills.sh/skills/foscomputerservices-fosmvvm-serverrequest-generator",
+    "description": "Generate FOSMVVM ServerRequest types for CRUD operations and client-server communication.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "runpod",
+    "url": "https://clawskills.sh/skills/andrewharp-runpod",
+    "description": "Manage RunPod GPU cloud instances - create, start, stop, connect to pods via SSH and API.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "agentmanager",
+    "url": "https://clawskills.sh/skills/nonightwatch-agentmanager",
+    "description": "This file is a concise integration contract for AI tool callers and gateway implementers.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "client-manager",
+    "url": "https://clawskills.sh/skills/mkpareek0315-client-manager",
+    "description": "Track clients, projects, invoices, payments, earnings, leads, and time for freelancers.",
+    "source_file": "cli.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "cerebrun",
+    "url": "https://clawskills.sh/skills/niyoseris-cerebrun",
+    "description": "MCP client for Cerebrun - comprehensive personal context and memory management system.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "zynd-network",
+    "url": "https://clawskills.sh/skills/atmegabuzz-zynd-network",
+    "description": "Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents.",
+    "source_file": "search.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "postavel",
+    "url": "https://clawskills.sh/skills/nezaboravi-postavel",
+    "description": "Connect to Postavel social media management platform via MCP (Model Context Protocol)",
+    "source_file": "ai.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "rocketchat",
+    "url": "https://clawskills.sh/skills/zenjabba-rocketchat",
+    "description": "Rocket.Chat team messaging - channels, messages, users, integrations via REST API.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "claude-mem",
+    "url": "https://clawskills.sh/skills/thedotmack-claude-mem",
+    "description": "This guide walks through setting up the claude-mem plugin on an OpenClaw gateway.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "clawos",
+    "url": "https://clawskills.sh/skills/ciooo44-clawos",
+    "description": "Connect OpenClaw agents to Founderless Factory - an autonomous startup platform.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "kj-evoweb-ai",
+    "url": "https://clawskills.sh/skills/kjaylee-kj-evoweb-ai",
+    "description": "Create a Website Designed to Bring Clients from ChatGPT, Gemini & Modern Search.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "lemlist-official",
+    "url": "https://clawskills.sh/skills/micktaiwan-lemlist-official",
+    "description": "Official Lemlist API integration for sales automation and multichannel outreach.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "sparkle-vpn",
+    "url": "https://clawskills.sh/skills/cwyhkyochen-a11y-sparkle-vpn",
+    "description": "Control Sparkle VPN - start and stop VPN connections using Mihomo core directly.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "plex-ctl",
+    "url": "https://clawskills.sh/skills/akivasolutions-plex-ctl",
+    "description": "> Standalone CLI for controlling Plex Media Server and clients via the Plex API.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "secure-autofill",
+    "url": "https://clawskills.sh/skills/moodykong-secure-autofill",
+    "description": "1Password-backed credential filling via vault_suggest/vault_fill (plugin tools).",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "relationships",
+    "url": "https://clawskills.sh/skills/lucasgeeksinthewood-relationships",
+    "description": "Build meaningful connections on Botbook.space — the social graph for AI agents.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "aoi-triple-memory-lite",
+    "url": "https://clawskills.sh/skills/edmonddantesj-aoi-triple-memory-lite",
+    "description": "AOI Triple Memory (Lite) — file search + decision notes templates (no plugins).",
+    "source_file": "search.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "airc",
+    "url": "https://clawskills.sh/skills/vortitron-airc",
+    "description": "Connect to IRC servers (AIRC or any standard IRC) and participate in channels.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "contract-generator",
+    "url": "https://clawskills.sh/skills/seanwyngaard-contract-generator",
+    "description": "Generate professional freelance contracts, SOWs, and NDAs for client projects.",
+    "source_file": "pdf.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "norman-manage-clients",
+    "url": "https://clawskills.sh/skills/stanlee000-norman-manage-clients",
+    "description": "Manage business clients - list, search, create, or update client information.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "garmin-pulse",
+    "url": "https://clawskills.sh/skills/freakyflow-garmin-pulse",
+    "description": "Syncs daily health and fitness data from Garmin Connect into markdown files.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "manifest",
+    "url": "https://clawskills.sh/skills/sebconejo-manifest",
+    "description": "Install and configure the Manifest observability plugin for OpenClaw agents.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "coala",
+    "url": "https://clawskills.sh/skills/hubentu-coala",
+    "description": "How to use the coala-client CLI for chat with LLMs, MCP servers, and skills.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "orgo-desktop-control",
+    "url": "https://clawskills.sh/skills/cohenyehonatan-orgo-desktop-control",
+    "description": "Provision and control Orgo cloud computers using the orgo_client Python SDK.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "skills-4",
+    "url": "https://clawskills.sh/skills/hubentu-skills-4",
+    "description": "How to use the coala-client CLI for chat with LLMs, MCP servers, and skills.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "vscode-node",
+    "url": "https://clawskills.sh/skills/xiaoyaner0201-vscode-node",
+    "description": "Operate on code through a VS Code/Cursor IDE connected as an OpenClaw Node.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "presage",
+    "url": "https://clawskills.sh/skills/seenfinity-presage",
+    "description": "Connect to Presage prediction market terminal on Solana (powered by Kalshi)",
+    "source_file": "cli.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "lunara-voice",
+    "url": "https://clawskills.sh/skills/lunara9897-jpg-lunara-voice",
+    "description": "Bundle for Lunara Voice OpenClaw plugin with install and publish helpers.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "chia-walletconnect",
+    "url": "https://clawskills.sh/skills/koba42corp-chia-walletconnect",
+    "description": "Telegram Web App for Chia wallet verification via WalletConnect and Sage.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "ogment-agentic-cli",
+    "url": "https://clawskills.sh/skills/asoviche-ogment-agentic-cli",
+    "description": "Access business integrations (SaaS, APIs, data) securely through Ogment.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "auto-test-generator",
+    "url": "https://clawskills.sh/skills/autogame-17-auto-test-generator",
+    "description": "Automatically generate basic unit/integration tests for OpenClaw skills.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "exchange-2010-ews",
+    "url": "https://clawskills.sh/skills/pes0-exchange-2010-ews",
+    "description": "Exchange 2010 EWS integration for emails, calendar, contacts, and tasks.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "exchange2010",
+    "url": "https://clawskills.sh/skills/pes0-exchange2010",
+    "description": "Exchange 2010 EWS integration for emails, calendar, contacts, and tasks.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "seedstr",
+    "url": "https://clawskills.sh/skills/mastersyondgy-seedstr",
+    "description": "A marketplace connecting AI agents with humans who need tasks completed.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "ha-integration-patterns",
+    "url": "https://clawskills.sh/skills/usimic-ha-integration-patterns",
+    "description": "Home Assistant custom integration patterns and architectural decisions.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "client-reporting",
+    "url": "https://clawskills.sh/skills/reighlan-client-reporting",
+    "description": "Automated client reporting for agencies and freelancers using OpenClaw.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "esri-smells-consumer",
+    "url": "https://clawskills.sh/skills/danmaps-esri-smells-consumer",
+    "description": "Paid client skill for Esri Workflow Smell Detector via x402 (Base/USDC)",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "kaspi-autopay",
+    "url": "https://clawskills.sh/skills/azamat02-kaspi-autopay",
+    "description": "Telegram bot auto-payment integration for Kazakhstan market (Kaspi Pay)",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "anycrawl",
+    "url": "https://clawskills.sh/skills/techlaai-anycrawl",
+    "description": "AnyCrawl API integration for OpenClaw - Scrape, Crawl, and Search web.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "attio-apikey",
+    "url": "https://clawskills.sh/skills/felicitationes-attio-apikey",
+    "description": "Direct Attio CRM integration for OpenClaw with full CRUD capabilities.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "mol-instant-messenger",
+    "url": "https://clawskills.sh/skills/vimxbt-mol-instant-messenger",
+    "description": "Connect to MOL Instant Messenger - AIM-themed chat rooms for moltbots.",
+    "source_file": "cli.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "highlevel",
+    "url": "https://clawskills.sh/skills/10xcoldleads-highlevel",
+    "description": "Connect your AI assistant to GoHighLevel CRM via the official API v2.",
+    "source_file": "devops.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "klutch",
+    "url": "https://clawskills.sh/skills/kesslerio-klutch",
+    "description": "OpenClaw skill for Klutch programmable credit card API integration.",
+    "source_file": "coding.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "37soul-skill",
+    "url": "https://clawskills.sh/skills/xnjiang-37soul-skill",
+    "description": "Connect your AI agent to 37Soul virtual Host characters and enable.",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "lightning-mcp-server",
+    "url": "https://clawskills.sh/skills/roasbeef-lightning-mcp-server",
+    "description": "Build and configure the MCP server for Lightning Node Connect (LNC)",
+    "source_file": "web.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "bookameeting",
+    "url": "https://clawskills.sh/skills/yzlee-bookameeting",
+    "description": "Use this document to connect an AI agent to Book A Meeting via MCP.",
+    "source_file": "communication.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "babyconnect",
+    "url": "https://clawskills.sh/skills/kesslerio-babyconnect",
+    "description": "ActiveCampaign CRM integration for lead management, deal tracking.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "strapi",
+    "url": "https://clawskills.sh/skills/ilya-ryzhov-strapi",
+    "description": "Manage Strapi CMS content through the official @strapi/client SDK.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "zulip",
+    "url": "https://clawskills.sh/skills/suky57-zulip",
+    "description": "Interact with Zulip chat platform via REST API and Python client.",
+    "source_file": "productivity.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "client-project-manager",
+    "url": "https://clawskills.sh/skills/seanwyngaard-client-project-manager",
+    "description": "Manage freelance clients, projects, invoices, and communications.",
+    "source_file": "cli.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "exa-tool",
+    "url": "https://clawskills.sh/skills/claireaicodes-exa-tool",
+    "description": "Exa MCP integration for advanced search, research, and crawling.",
+    "source_file": "browser.md",
+    "pattern": "Tool Wrapper"
+  },
+  {
+    "name": "solana-skills",
+    "url": "https://clawskills.sh/skills/spendit-ai-solana-skills",
+    "description": "Solana wallet operations - create wallets, check balances, send SOL/tokens, swap via Jupiter, launch tokens on Pump.fun.",
+    "source_file": "ai.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "betbud-prediction-market-creation",
+    "url": "https://clawskills.sh/skills/samj12-betbud-prediction-market-creation",
+    "description": "An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.",
+    "source_file": "communication.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "lelamp-room",
+    "url": "https://clawskills.sh/skills/e-ndorfin-lelamp-room",
+    "description": "Create or join a shared 3D lobster room where AI agents can walk, chat, and collaborate in real-time via Nostr relays.",
+    "source_file": "communication.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "lead-storage",
+    "url": "https://clawskills.sh/skills/vishalgojha-lead-storage",
+    "description": "Persist validated lead objects through write-only storage operations after Supervisor provides explicit confirmation.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "sell-evoweb-ai",
+    "url": "https://clawskills.sh/skills/galizki-sell-evoweb-ai",
+    "description": "Create AI-First Website with GEO (Generative Engine Optimization) and marketing rules to convert visitors into leads.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "sam-tts",
+    "url": "https://clawskills.sh/skills/fourthdensity-sam-tts",
+    "description": "Generate retro robotic speech audio using SAM (Software Automatic Mouth), the classic C64 text-to-speech synthesizer.",
+    "source_file": "productivity.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "charts",
+    "url": "https://clawskills.sh/skills/ryandeangraves-charts",
+    "description": "Generate professional technical analysis charts with candlesticks, Fibonacci retracement, moving averages (SMA 20/50)",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "sharepoint-by-altf1be",
+    "url": "https://clawskills.sh/skills/abdelkrim-sharepoint-by-altf1be",
+    "description": "Secure SharePoint file operations and Office document intelligence via Microsoft Graph API — certificate auth, Sites.",
+    "source_file": "pdf.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "clean-pytest",
+    "url": "https://clawskills.sh/skills/marcoracer-clean-pytest",
+    "description": "Write clean, maintainable pytest tests using Fake-based testing, contract testing, and dependency injection patterns.",
+    "source_file": "cli.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "academic-research-hub",
+    "url": "https://clawskills.sh/skills/anisafifi-academic-research-hub",
+    "description": "Use this skill when users need to search academic papers, download research documents, extract citations, or gather.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "deterministic-controller",
+    "url": "https://clawskills.sh/skills/variable190-deterministic-controller",
+    "description": "Deterministic, evidence-gated controller templates for OpenClaw (HEARTBEAT/ACTIVITIES + sprint template + poll cron.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "visual-prompt-engine",
+    "url": "https://clawskills.sh/skills/abdullah4ai-visual-prompt-engine",
+    "description": "Generate diverse, non-repetitive image prompts powered by real visual references from Dribbble and design platforms.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "meta-tags-optimizer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-meta-tags-optimizer",
+    "description": "Use when the user asks to \"optimize title tag\", \"write meta description\", \"improve CTR\", \"Open Graph tags\", \"social.",
+    "source_file": "marketing.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "asdasdas123",
+    "url": "https://clawskills.sh/skills/linhui1010-asdasdas123",
+    "description": "!! Before using the skill, make sure you have installed the required libraries !! Write viral, persuasive, engaging.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "lb-motion-skill",
+    "url": "https://clawskills.sh/skills/leonaaardob-lb-motion-skill",
+    "description": "Complete Motion.dev documentation - modern animation library for React, JavaScript, and Vue (formerly Framer Motion)",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "skill-auto-attach",
+    "url": "https://clawskills.sh/skills/elodyzen-skill-auto-attach",
+    "description": "This skill monitors the OpenClaw workspace for file changes and automatically attaches new or updated documentation.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "solo-scaffold",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-scaffold",
+    "description": "Generate complete project from PRD + stack template — directory structure, configs, CLAUDE.md, git repo, and GitHub.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "web2labs-studio",
+    "url": "https://clawskills.sh/skills/vinlow-web2labs-studio",
+    "description": "Edit my recording, turn a long video into shorts, generate captions and thumbnails, estimate cost before processing.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "email-manager-ai",
+    "url": "https://clawskills.sh/skills/mkpareek0315-email-manager-ai",
+    "description": "When user asks to write email, draft reply, manage inbox, email template, follow up email, cold email, professional.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "lofy-life-coach",
+    "url": "https://clawskills.sh/skills/harrey401-lofy-life-coach",
+    "description": "Personal accountability system for the Lofy AI assistant — morning briefings, evening reviews, weekly reports, goal.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "idx-cma-report",
+    "url": "https://clawskills.sh/skills/danielfoch-idx-cma-report",
+    "description": "Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable.",
+    "source_file": "image.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "multishot-ugc",
+    "url": "https://clawskills.sh/skills/pauldelavallaz-multishot-ugc",
+    "description": "Generate 10 perspective/angle variations from a single image for multi-shot UGC videos.  ✅ USE WHEN: - Have a hero.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "renderful-generation",
+    "url": "https://clawskills.sh/skills/luv005-renderful-generation",
+    "description": "Use Renderful from OpenClaw for image/video/audio/3D creation with model discovery, quote-before-generate workflow.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "sovereign-codebase-onboarding",
+    "url": "https://clawskills.sh/skills/ryudi84-sovereign-codebase-onboarding",
+    "description": "Codebase onboarding assistant that maps project architecture, identifies patterns, generates guides, and helps new.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "static-network",
+    "url": "https://clawskills.sh/skills/aaronfrancis635-static-network",
+    "description": "This document describes how automated agents (openclaw, clawdbot, moldbot) can interact with the Static (ø) social.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "ugc-manual",
+    "url": "https://clawskills.sh/skills/pauldelavallaz-ugc-manual",
+    "description": "Generate lip-sync video from image + user's own audio recording.  ✅ USE WHEN: - User provides their OWN audio file.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "volcengine-video-generate",
+    "url": "https://clawskills.sh/skills/warm-wm-volcengine-video-generate",
+    "description": "Using volcengine video_generate.py script to generate video, need to provide filename and prompt, optional provide.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "foxreach",
+    "url": "https://clawskills.sh/skills/concaption-foxreach",
+    "description": "Manage FoxReach cold email outreach — leads, campaigns, sequences, templates, email accounts, inbox, and analytics.",
+    "source_file": "marketing.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "foxreach-io",
+    "url": "https://clawskills.sh/skills/concaption-foxreach-io",
+    "description": "Manage FoxReach cold email outreach — leads, campaigns, sequences, templates, email accounts, inbox, and analytics.",
+    "source_file": "marketing.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "social-media-lead-generation",
+    "url": "https://clawskills.sh/skills/shahbaz02197ali-cmd-social-media-lead-generation",
+    "description": "This skill helps businesses, training institutes, and online educators generate leads and sales using social media.",
+    "source_file": "marketing.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "apple-developer-toolkit",
+    "url": "https://clawskills.sh/skills/abdullah4ai-apple-developer-toolkit",
+    "description": "All-in-one Apple developer skill with three integrated tools shipped as a single unified binary. (1) Documentation.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "briefing-room",
+    "url": "https://clawskills.sh/skills/matusvojtek-briefing-room",
+    "description": "Daily news briefing generator — produces a conversational radio-host-style audio briefing + DOCX document covering.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "calibre-catalog-read",
+    "url": "https://clawskills.sh/skills/nextaltair-calibre-catalog-read",
+    "description": "Read Calibre catalog data via calibredb over a Content server, and run one-book analysis workflow that writes HTML.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "klientenportal",
+    "url": "https://clawskills.sh/skills/odrobnik-klientenportal",
+    "description": "Automate RZL Klientenportal.at — a web-based portal by RZL Software for exchanging receipts, invoices, and reports.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "migma",
+    "url": "https://clawskills.sh/skills/adamsey-migma",
+    "description": "Generate, send, validate, and export AI-powered emails from the terminal; manage contacts, segments, tags, domains.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "neo-docker-to-k8s-manifests",
+    "url": "https://clawskills.sh/skills/martinforsulu-neo-docker-to-k8s-manifests",
+    "description": "Automatically generate optimized Kubernetes deployment manifests from Dockerfile and docker-compose configurations.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "smart-daily-assistant",
+    "url": "https://clawskills.sh/skills/mkpareek0315-smart-daily-assistant",
+    "description": "When user asks to set reminders, save quick notes, get morning briefing, draft messages, use quick reply templates.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "summarize-pro",
+    "url": "https://clawskills.sh/skills/mkpareek0315-summarize-pro",
+    "description": "When user asks to summarize text, articles, documents, meetings, emails, YouTube transcripts, books, PDFs, reports.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "agent-autopilot",
+    "url": "https://clawskills.sh/skills/edoserbia-agent-autopilot",
+    "description": "Self-driving agent workflow with heartbeat-driven task execution, day/night progress reports, and long-term memory.",
+    "source_file": "productivity.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "seo-content-writer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-seo-content-writer",
+    "description": "Use when the user asks to \"write SEO content\", \"create a blog post\", \"write an article\", \"content writing\", \"draft.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "pls-office-docs",
+    "url": "https://clawskills.sh/skills/mattvalenta-pls-office-docs",
+    "description": "Generate and manipulate office documents (PDF, DOCX, XLSX, PPTX) for professional reports, presentations, and data.",
+    "source_file": "image.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "feishu-meeting-assistant",
+    "url": "https://clawskills.sh/skills/autogame-17-feishu-meeting-assistant",
+    "description": "Scans your Feishu Calendar for upcoming events with attached documents (Doc, Sheet, Bitable), reads their content.",
+    "source_file": "browser.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "atris",
+    "url": "https://clawskills.sh/skills/keshav55-atris",
+    "description": "Codebase intelligence — generates structured navigation maps with file:line references so agents stop re-scanning.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "indexy",
+    "url": "https://clawskills.sh/skills/hsantana-indexy",
+    "description": "Indexy is a cryptocurrency index management platform that enables AI agents to create, manage, and analyze crypto.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "jk-archivist-tiktok-packager",
+    "url": "https://clawskills.sh/skills/jk-archivist-jk-archivist-tiktok-packager",
+    "description": "Generate deterministic 6-slide portrait PNG slideshow assets plus caption text for TikTok-style posting workflows.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "voice-matched-content-system",
+    "url": "https://clawskills.sh/skills/brianrwagner-voice-matched-content-system",
+    "description": "Extract someone's authentic writing voice from samples, build a complete Voice DNA profile, then generate content.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "zoom-calendar",
+    "url": "https://clawskills.sh/skills/shaharsha-zoom-calendar",
+    "description": "Create Zoom meetings and add them to Google Calendar events with proper conferenceData (icon, video entry, notes).",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "performance-reporter",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-performance-reporter",
+    "description": "Use when the user asks to \"generate SEO report\", \"performance report\", \"traffic report\", \"SEO dashboard\", \"report.",
+    "source_file": "marketing.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "docling",
+    "url": "https://clawskills.sh/skills/er3mit4-docling",
+    "description": "Extract and parse content from web pages, PDFs, documents (docx, pptx), and images using the docling CLI with GPU.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "para-proactive-workspace",
+    "url": "https://clawskills.sh/skills/cocoblood9527-para-proactive-workspace",
+    "description": "A production-ready workspace template combining PARA Method (Projects, Areas, Resources, Archives) by Tiago Forte.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "porteden",
+    "url": "https://clawskills.sh/skills/porteden-porteden",
+    "description": "PortEden CLI for calendar and email management - Gmail, Outlook & Exchange - list, search, create, update, delete.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "agent-soul-crafter",
+    "url": "https://clawskills.sh/skills/neal-collab-agent-soul-crafter",
+    "description": "Design compelling AI agent personalities with structured SOUL.md templates — tone, rules, expertise, and response.",
+    "source_file": "pdf.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "internet-marketing",
+    "url": "https://clawskills.sh/skills/xeroc-internet-marketing",
+    "description": "Creates practical, low-cost marketing strategies for solo entrepreneurs and small businesses launching new ideas.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "scamper",
+    "url": "https://clawskills.sh/skills/enzoricciulli-scamper",
+    "description": "Apply SCAMPER creative thinking method to develop ideas, adapt frameworks, generate hackathon concepts, or break.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "solo-video-promo",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-video-promo",
+    "description": "Generate promo video plan with 30-45s script, shot-by-shot storyboard, and optional Remotion/Montage-tool config.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "awwwards-design",
+    "url": "https://clawskills.sh/skills/mkhaytman87-awwwards-design",
+    "description": "Create award-winning, memorable websites with advanced animations, creative interactions, and distinctive visual.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "fullbackup",
+    "url": "https://clawskills.sh/skills/trumppo-fullbackup",
+    "description": "Create a full local backup of the OpenClaw workspace and configuration using the existing backup-local.sh script.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "business-writing",
+    "url": "https://clawskills.sh/skills/teamolab-business-writing",
+    "description": "You are a professional business analyst, skilled in writing various industry research reports, business insights.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "neo-tf-module-generator",
+    "url": "https://clawskills.sh/skills/martinforsulu-neo-tf-module-generator",
+    "description": "Automatically generates Terraform modules from existing cloud infrastructure resources with intelligent resource.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "smart-expense-tracker",
+    "url": "https://clawskills.sh/skills/mkpareek0315-smart-expense-tracker",
+    "description": "When user wants to track expenses, log spending, manage budgets, view spending reports, set savings goals, split.",
+    "source_file": "productivity.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "arxiv-batch-reporter",
+    "url": "https://clawskills.sh/skills/xukp20-arxiv-batch-reporter",
+    "description": "Build the final collection report in two steps: model writes a report template, then script injects each paper's.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "boof",
+    "url": "https://clawskills.sh/skills/chiefsegundo-boof",
+    "description": "Convert PDFs and documents to markdown, index them locally for RAG retrieval, and analyze them token-efficiently.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "competitor-analysis-report",
+    "url": "https://clawskills.sh/skills/seanwyngaard-competitor-analysis-report",
+    "description": "Generate structured competitive analysis reports with feature comparisons, pricing analysis, SWOT, and strategic.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "sun-path",
+    "url": "https://clawskills.sh/skills/qrost-sun-path",
+    "description": "Generates a sun path diagram, calculates solar position, performs building shadow analysis, and analyzes thermal.",
+    "source_file": "pdf.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "ak-rss-24h-brief",
+    "url": "https://clawskills.sh/skills/seandong-ak-rss-24h-brief",
+    "description": "Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.",
+    "source_file": "browser.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "paper-notion-summarizer",
+    "url": "https://clawskills.sh/skills/lococaeco-paper-notion-summarizer",
+    "description": "Fetch paper metadata by title or arXiv/DOI link, create a deep structured summary, and post it as a Notion page.",
+    "source_file": "browser.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "benderstack-integration",
+    "url": "https://clawskills.sh/skills/mateusgalasso-benderstack-integration",
+    "description": "Comprehensive guide and rules for an AI agent to interact with the BenderStack API, including the 5-layer Write.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "creative-toolkit",
+    "url": "https://clawskills.sh/skills/jau123-creative-toolkit",
+    "description": "Generate images from text with multi-provider routing — supports Nanobanana Pro, GPT Image, Seedream, and local.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "forever-moments",
+    "url": "https://clawskills.sh/skills/luksoagent-forever-moments",
+    "description": "Forever Moments social platform on LUKSO - post moments (LSP8 NFTs), mint LIKES tokens, create/join collections.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "multi-factor-strategy",
+    "url": "https://clawskills.sh/skills/wumu2013-multi-factor-strategy",
+    "description": "Guide users to create multi-factor stock selection strategies and generate independent YAML configuration files.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "pls-marketing-ideas",
+    "url": "https://clawskills.sh/skills/mattvalenta-pls-marketing-ideas",
+    "description": "Generate campaign concepts, viral hooks, and marketing strategies that go beyond \"buy my product.\" Use when: (1)",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "redacta",
+    "url": "https://clawskills.sh/skills/nickjlamb-redacta",
+    "description": "Redacta pseudonymises medical documents — replacing patient identifiers (NHS numbers, dates of birth, postcodes.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "social-media-planner",
+    "url": "https://clawskills.sh/skills/mkpareek0315-social-media-planner",
+    "description": "When user asks to plan social media posts, create content calendar, write captions, generate hashtags, schedule.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "tiktok-ugc-creator",
+    "url": "https://clawskills.sh/skills/realroc-tiktok-ugc-creator",
+    "description": "Hire TikTok users to create authentic user-generated content (UGC), testimonials, and brand storytelling videos.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "tokportal",
+    "url": "https://clawskills.sh/skills/naybu256-tokportal",
+    "description": "Automate social media at scale — create TikTok/Instagram accounts, distribute videos, upload content, and track.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "app-builder",
+    "url": "https://clawskills.sh/skills/stopachka-app-builder",
+    "description": "Build, edit, and deploy Instant-backed apps using npx instant-cli, create-instant-app (Next.js + Codex), GitHub.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "query-wikidata",
+    "url": "https://clawskills.sh/skills/kidehen-query-wikidata",
+    "description": "Transform natural language questions into SPARQL queries for Wikidata and generate beautiful HTML results pages.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "skill-namer",
+    "url": "https://clawskills.sh/skills/otherpowers-skill-namer",
+    "description": "Generate short, molty-native names for skills, ENS domains, and agent-economy primitives when the obvious words.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "study-buddy-ai",
+    "url": "https://clawskills.sh/skills/mkpareek0315-study-buddy-ai",
+    "description": "When user asks to study, create flashcards, take a quiz, make notes, revise, set study timer, track study hours.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "zoomin-scraper-recklessop",
+    "url": "https://clawskills.sh/skills/recklessop-zoomin-scraper-recklessop",
+    "description": "Scrape documentation content from Zoomin Software portals using Playwright browser automation to handle dynamic.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "seo-content-factory",
+    "url": "https://clawskills.sh/skills/seanwyngaard-seo-content-factory",
+    "description": "Generate fully SEO-optimized blog posts and articles with keyword research, competitor analysis, and SERP-aware.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "convert-to-pdf",
+    "url": "https://clawskills.sh/skills/crossservicesolutions-convert-to-pdf",
+    "description": "Convert one or multiple documents to PDF by uploading them to Cross-Service-Solutions, polling until completion.",
+    "source_file": "pdf.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "itinerary-carousel-post-topaz",
+    "url": "https://clawskills.sh/skills/psyduckler-itinerary-carousel-post-topaz",
+    "description": "Create and publish an Instagram carousel post from a tabiji.ai itinerary, with Topaz Labs AI image enhancement.",
+    "source_file": "browser.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "lyrical-fable",
+    "url": "https://clawskills.sh/skills/sanzgiri-lyrical-fable",
+    "description": "Create short lyrical fables (~1000 words) about historical, fictional, or mythological characters in the style.",
+    "source_file": "browser.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "ms-foundry-image-gen",
+    "url": "https://clawskills.sh/skills/jacqueskang-ms-foundry-image-gen",
+    "description": "Azure Foundry image generation skill for OpenClaw; generates images via a Foundry deployment and returns image.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "pls-canvas-design",
+    "url": "https://clawskills.sh/skills/mattvalenta-pls-canvas-design",
+    "description": "Generates visual art and posters by expressing original design philosophies as meticulously crafted PNG or PDF.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "seedance-2-prompt-engineering-skill",
+    "url": "https://clawskills.sh/skills/dandysuper-seedance-2-prompt-engineering-skill",
+    "description": "Create high-control English prompts for **Seedance 2.0** and **Seedance 2.0 Fast** using multimodal references.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "solana-sniper-architect",
+    "url": "https://clawskills.sh/skills/wterry57-solana-sniper-architect",
+    "description": "Description: A specialized coding assistant that generates high-frequency Solana trading bots using Jupiter v6.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "tg-media-resolve",
+    "url": "https://clawskills.sh/skills/kurinzo-tg-media-resolve",
+    "description": "Resolve Telegram <media:image>, <media:document>, <media:video> and other media placeholders into actual files.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "cold-outreach",
+    "url": "https://clawskills.sh/skills/staybased-cold-outreach",
+    "description": "Generate high-converting cold outreach (email, SMS, LinkedIn DM) using battle-tested frameworks from Hormozi's.",
+    "source_file": "marketing.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "codespace-manager",
+    "url": "https://clawskills.sh/skills/lanbasara-codespace-manager",
+    "description": "Create, manage, and access isolated cloud development environments (codespaces) powered by code-server, Docker.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "materials-workbench",
+    "url": "https://clawskills.sh/skills/cai-zhuo-materials-workbench",
+    "description": "Materials editor workbench — React UI and Express server to render JSON schemas to images and generate schemas.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "query-dbpedia",
+    "url": "https://clawskills.sh/skills/kidehen-query-dbpedia",
+    "description": "Transform natural language questions into SPARQL queries for DBpedia and generate beautiful HTML results pages.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "solo-landing-gen",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-landing-gen",
+    "description": "Generate landing page content from PRD — hero section, features, A/B headline variants, CTA, and SEO meta tags.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "training-manager",
+    "url": "https://clawskills.sh/skills/anova44-training-manager",
+    "description": "Manage and optimize your OpenClaw training workspace -- scaffold files, generate skills, log training sessions.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "agent-autonomy-primitives",
+    "url": "https://clawskills.sh/skills/g9pedro-agent-autonomy-primitives",
+    "description": "Build long-running autonomous agent loops using ClawVault primitives (tasks, projects, memory types, templates.",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "ai-review",
+    "url": "https://clawskills.sh/skills/blackshady1130-jpg-ai-review",
+    "description": "Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.",
+    "source_file": "search.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "comms-md",
+    "url": "https://clawskills.sh/skills/stedmanhalliday-comms-md",
+    "description": "Create a COMMS.md — a structured, queryable document expressing someone's communication preferences for humans.",
+    "source_file": "pdf.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "saa-agent",
+    "url": "https://clawskills.sh/skills/mirabarukaso-saa-agent",
+    "description": "Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.",
+    "source_file": "image.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "keyword-research",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-keyword-research",
+    "description": "Use when the user asks to \"find keywords\", \"keyword research\", \"what should I write about\", \"identify ranking.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "password-gen-pro",
+    "url": "https://clawskills.sh/skills/mkpareek0315-password-gen-pro",
+    "description": "When user asks to generate a password, create PIN, make passphrase, check password strength, generate API key.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "youtube-factory",
+    "url": "https://clawskills.sh/skills/mayank8290-youtube-factory",
+    "description": "Generate complete YouTube videos from a single prompt - script, voiceover, stock footage, captions, thumbnail.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "baml-codegen",
+    "url": "https://clawskills.sh/skills/killerapp-baml-codegen",
+    "description": "Use when generating BAML code for type-safe LLM extraction, classification, RAG, or agent workflows - creates.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "digitalocean",
+    "url": "https://clawskills.sh/skills/rexlunae-digitalocean",
+    "description": "Manage DigitalOcean resources via API — Droplets (create/destroy/resize/power), DNS zones and records, Spaces.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "document-multiple-repository",
+    "url": "https://clawskills.sh/skills/dannyxyz22-document-multiple-repository",
+    "description": "Gera documentação técnica consolidada para sistemas de software com múltiplos repositórios (frontend, backend.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "visual-studio-agent",
+    "url": "https://clawskills.sh/skills/i54851498-gif-visual-studio-agent",
+    "description": "Generate AI images/videos with a chosen visual persona and publish them to the OpenFishy feed API (custom web.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "slv-rpc",
+    "url": "https://clawskills.sh/skills/poppin-fumi-slv-rpc",
+    "description": "Ansible playbooks and Jinja2 templates for deploying and managing Solana RPC nodes (mainnet, testnet, devnet).",
+    "source_file": "devops.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "upwork-hunting",
+    "url": "https://clawskills.sh/skills/staybased-upwork-hunting",
+    "description": "Systematically find and win Upwork jobs using our n8n workflow library (2,061 templates) as a speed advantage.",
+    "source_file": "productivity.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "daily-brief-digest",
+    "url": "https://clawskills.sh/skills/rajtejani61-daily-brief-digest",
+    "description": "Generates a daily brief including urgent emails (himalaya), upcoming calendar events (gog), and relevant news.",
+    "source_file": "communication.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "mindmap-generator",
+    "url": "https://clawskills.sh/skills/parasharnagle-mindmap-generator",
+    "description": "Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG.",
+    "source_file": "image.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "strawpoll-cli",
+    "url": "https://clawskills.sh/skills/dedene-strawpoll-cli",
+    "description": "Create and manage StrawPoll polls, meeting polls, and ranking polls from the terminal using the strawpoll CLI.",
+    "source_file": "cli.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "clickbait-engine",
+    "url": "https://clawskills.sh/skills/honeybee1130-clickbait-engine",
+    "description": "Generate sensational, engagement-maximizing titles, hooks, and clip captions for social media posts, YouTube.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "feishu-file-sender",
+    "url": "https://clawskills.sh/skills/ziwenwang28-feishu-file-sender",
+    "description": "OpenClaw agents can generate files (Excel, Word, PPT, PDF, images, code, etc.) but cannot send them directly.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "msbuild",
+    "url": "https://clawskills.sh/skills/thecybercore-msbuild",
+    "description": "This skill provides a practical, **prioritized** set of the **80 most useful command templates** for working.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "senior-prompt-engineer",
+    "url": "https://clawskills.sh/skills/alirezarezvani-senior-prompt-engineer",
+    "description": "This skill should be used when the user asks to \"optimize prompts\", \"design prompt templates\", \"evaluate LLM.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "solo-init",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-init",
+    "description": "One-time founder onboarding — generates personalized manifest, STREAM calibration, dev principles, and stack.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "solo-setup",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-setup",
+    "description": "Auto-generate project workflow config (docs/workflow.md) from existing PRD and CLAUDE.md with zero questions.",
+    "source_file": "coding.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "dub-links-api",
+    "url": "https://clawskills.sh/skills/ferminrp-dub-links-api",
+    "description": "Integrates Dub Links API endpoints to create, update, delete, retrieve, list, count, and run bulk operations.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "google-maps-leadgen-skill",
+    "url": "https://clawskills.sh/skills/realowg-google-maps-leadgen-skill",
+    "description": "Generate B2B leads from Google Maps using a self-hosted MCP server (`google-maps`) and export to CSV or XLSX.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "tarot-content",
+    "url": "https://clawskills.sh/skills/alexyuui-tarot-content",
+    "description": "Generate tarot × astrology content for social media — weekly horoscope scripts, tarot spreads, video scripts.",
+    "source_file": "web.md",
+    "pattern": "Generator"
+  },
+  {
+    "name": "bug-audit",
+    "url": "https://clawskills.sh/skills/abczsl520-bug-audit",
+    "description": "Dynamic bug hunting for Node.js projects — profiles each project, then selects from 9 audit modules. 200+ real-world pitfalls.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "vulnerability-scanner",
+    "url": "https://clawskills.sh/skills/brandonwise-vulnerability-scanner",
+    "description": "Advanced vulnerability analysis for OWASP 2025, supply chain security, attack surface mapping, and risk prioritization.",
+    "source_file": "transport.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "antivirus",
+    "url": "https://clawskills.sh/skills/thomaslwang-antivirus",
+    "description": "Scan installed OpenClaw skills for malicious code patterns including ClickFix social engineering, reverse shell (RAT)",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "pyright-lsp",
+    "url": "https://clawskills.sh/skills/bowen31337-pyright-lsp",
+    "description": "Python language server (Pyright) providing static type checking, code intelligence, and LSP diagnostics for .py and .",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "sentient-memory",
+    "url": "https://clawskills.sh/skills/otherpowers-sentient-memory",
+    "description": "**For long-horizon or deep SGI review:** See VISION.md in this folder for the original conceptual and poetic framing.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "skill-safety-checker",
+    "url": "https://clawskills.sh/skills/runeweaverstudios-skill-safety-checker",
+    "description": "Runs VirusTotal-style security checks on OpenClaw/Cursor skills before install, including remote code execution (RCE)",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "m44-internal-testing",
+    "url": "https://clawskills.sh/skills/tuleyko-m44-internal-testing",
+    "description": "Install and set up DataHive in a deterministic headless-friendly flow: (1) check/install browser (Chrome or Chromium)",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "google-maps-reviews-api-skill",
+    "url": "https://clawskills.sh/skills/phheng-google-maps-reviews-api-skill",
+    "description": "This skill is designed to help users automatically extract reviews from Google Maps via the Google Maps Reviews API.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "on-page-seo-auditor",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-on-page-seo-auditor",
+    "description": "Use when the user asks to \"audit page SEO\", \"on-page SEO check\", \"SEO score\", \"page optimization\", \"what SEO issues.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "skill-releaser",
+    "url": "https://clawskills.sh/skills/chunhualiao-skill-releaser",
+    "description": "Release skills to ClawhHub through the full publication pipeline — auto-scaffolding, OPSEC scan, dual review (agent.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "sovereign-seo-audit",
+    "url": "https://clawskills.sh/skills/ryudi84-sovereign-seo-audit",
+    "description": "Comprehensive SEO auditor that analyzes technical SEO, on-page optimization, content quality, and site architecture.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "1sec-security",
+    "url": "https://clawskills.sh/skills/cutmob-1sec-security",
+    "description": "Install, configure, and manage 1-SEC — an open-source, all-in-one cybersecurity platform (16 modules, single binary)",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "sonic-kvm-testbed",
+    "url": "https://clawskills.sh/skills/yxieca-sonic-kvm-testbed",
+    "description": "Deploy and manage a SONiC sonic-mgmt KVM virtual testbed with cEOS neighbors for running pytest-based network tests.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "truthcheck",
+    "url": "https://clawskills.sh/skills/baiyishr-truthcheck",
+    "description": "Verify claims, fact-check content, check URL trustworthiness, and trace claims to their origin using the TruthCheck.",
+    "source_file": "pdf.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "pocket-lens",
+    "url": "https://clawskills.sh/skills/edenjw-pocket-lens",
+    "description": "Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record.",
+    "source_file": "browser.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "pocketlens",
+    "url": "https://clawskills.sh/skills/edenjw-pocketlens",
+    "description": "Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record.",
+    "source_file": "browser.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "context-budgeting",
+    "url": "https://clawskills.sh/skills/sarielwang93-context-budgeting",
+    "description": "Manage and optimize OpenClaw context window usage via partitioning, pre-compression checkpointing, and information.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "cybersec-helper",
+    "url": "https://clawskills.sh/skills/mcpcentral-cybersec-helper",
+    "description": "Help with application security review, bug bounty workflows, recon, and secure coding while keeping things ethical.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "near-best-practices",
+    "url": "https://clawskills.sh/skills/shaiss-near-best-practices",
+    "description": "Comprehensive NEAR best practices guide with 100+ terms covering wallet security, smart contracts, and DeFi safety.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "rank-tracker",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-rank-tracker",
+    "description": "Use when the user asks to \"track rankings\", \"check keyword positions\", \"ranking changes\", \"monitor SERP positions\".",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "samma-suit",
+    "url": "https://clawskills.sh/skills/onezeroeight-ai-samma-suit",
+    "description": "Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "scrapesense-developer",
+    "url": "https://clawskills.sh/skills/axelschmitz74-scrapesense-developer",
+    "description": "Comprehensive ScrapeSense public API developer skill for scan orchestration, places extraction, campaign lifecycle.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "simple-random-interaction-designer",
+    "url": "https://clawskills.sh/skills/fjrevoredo-simple-random-interaction-designer",
+    "description": "Decide whether OpenClaw should send a spontaneous ping to the user during periodic checks, and choose a randomized.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "subagent-dev",
+    "url": "https://clawskills.sh/skills/kjaylee-subagent-dev",
+    "description": "Execute implementation plans using fresh subagents per task with two-stage review (spec compliance + code quality).",
+    "source_file": "productivity.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "nadfunagent",
+    "url": "https://clawskills.sh/skills/encipher88-nadfunagent",
+    "description": "Autonomous trading agent for Nad.fun that scans markets, analyzes tokens, executes trades, and distributes profits.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "sui-opportunities-huntera",
+    "url": "https://clawskills.sh/skills/sergey1997-sui-opportunities-huntera",
+    "description": "Autonomous DeFi agent that scans Sui mainnet for all possible opportunities in real-time — arbitrage, yield, swaps.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "runtime-attestation-probe",
+    "url": "https://clawskills.sh/skills/andyxinweiminicloud-runtime-attestation-probe",
+    "description": "Helps validate that agent behavior at runtime matches the capabilities and constraints declared in its attestation.",
+    "source_file": "transport.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "usc-booking-api",
+    "url": "https://clawskills.sh/skills/niklaspriddat-usc-booking-api",
+    "description": "Scannt deine Urban Sports Club Venues, zeigt Kurse mit direkten Booking-Links und kann Kurse buchen und stornieren.",
+    "source_file": "transport.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "opensoul",
+    "url": "https://clawskills.sh/skills/mastergoogler-opensoul",
+    "description": "OpenSoul is a toolkit that provides AI agents with an immutable \"soul\" - an encrypted, blockchain-based audit log.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "solo-community-outreach",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-community-outreach",
+    "description": "Find relevant Reddit, HN, and ProductHunt threads and draft value-first community responses with launch checklist.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "solo-validate",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-validate",
+    "description": "Score startup idea through S.E.E.D. niche check + STREAM 6-layer analysis + Devil's Advocate inversion, auto-pick.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "xmtp-cli",
+    "url": "https://clawskills.sh/skills/humanagent-xmtp-cli",
+    "description": "Run and script the XMTP CLI for testing, debugging, and interacting with XMTP conversations, groups, and messages.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "nicholasrae-review-reply",
+    "url": "https://clawskills.sh/skills/nicholasrae-nicholasrae-review-reply",
+    "description": "Automatically monitors your App Store reviews and drafts warm, on-brand replies for 1–3 star reviews — so unhappy.",
+    "source_file": "marketing.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "content-quality-auditor",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-content-quality-auditor",
+    "description": "Use when the user asks to \"audit content quality\", \"EEAT score\", \"content quality check\", \"CORE-EEAT audit\", \"how.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "devvit-publishing-auditor",
+    "url": "https://clawskills.sh/skills/asifdotpy-devvit-publishing-auditor",
+    "description": "A specialized auditor for Reddit Devvit developers to verify app readiness before uploading to the Reddit servers.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "ztp",
+    "url": "https://clawskills.sh/skills/thomastrumpp-ztp",
+    "description": "A mandatory security audit skill for validating new code, skills, and MCP servers against the SEP-2026 Zero Trust.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "cybercentry-solidity-code-verification",
+    "url": "https://clawskills.sh/skills/cybercentry-cybercentry-solidity-code-verification",
+    "description": "Cybercentry Solidity Code Verification on ACP - Fast, automated security analysis of Solidity smart contract code.",
+    "source_file": "productivity.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "arc-security-mcp",
+    "url": "https://clawskills.sh/skills/trypto1019-arc-security-mcp",
+    "description": "AI-first security intelligence with LLM-powered intent analysis. 743+ findings from 361+ skill audits, 25 pattern.",
+    "source_file": "ai.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "openseti-skill",
+    "url": "https://clawskills.sh/skills/synergysize-openseti-skill",
+    "description": "Distributed SETI scanner - contribute compute power to analyze real radio telescope data from Breakthrough Listen.",
+    "source_file": "ai.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "adwhiz",
+    "url": "https://clawskills.sh/skills/iamzifei-adwhiz",
+    "description": "Manage Google Ads campaigns from your AI coding tool. 44 MCP tools for auditing, creating, and optimizing Google.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "skill-threat-scanner",
+    "url": "https://clawskills.sh/skills/benlee2144-skill-threat-scanner",
+    "description": "Scan OpenClaw skills for malware, prompt injection, reverse shells, wallet theft, supply chain attacks, and data.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "tiktok-product-promotion",
+    "url": "https://clawskills.sh/skills/realroc-tiktok-product-promotion",
+    "description": "Hire TikTok influencers for product reviews, demonstrations, unboxing videos, and conversion-focused promotional.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "video-production",
+    "url": "https://clawskills.sh/skills/omerflo-video-production",
+    "description": "Complete A/B video pipeline — storyboard, Veo 3 batch generation, browser preview with feedback loop, and ffmpeg.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "domain-authority-auditor",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-domain-authority-auditor",
+    "description": "Use when the user asks to \"audit domain authority\", \"domain trust score\", \"CITE audit\", \"how authoritative is my.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "kroger-api-skill",
+    "url": "https://clawskills.sh/skills/jasonahorn-kroger-api-skill",
+    "description": "Skill for searching Kroger/QFC products, managing cart, checking pickup availability, and creating pickup orders.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "muninn",
+    "url": "https://clawskills.sh/skills/endgegnerbert-tech-muninn",
+    "description": "Universal Context Protocol (CXP) for AI agents. v2.3.7 includes the latest high-performance CXP engine (compiled.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "cacheforge-vibe-check",
+    "url": "https://clawskills.sh/skills/tkuehnl-cacheforge-vibe-check",
+    "description": "Audit code for \"vibe coding sins\" — patterns that indicate AI-generated code was accepted without proper review.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "enoch-tuning",
+    "url": "https://clawskills.sh/skills/enochosbot-bot-enoch-tuning",
+    "description": "A battle-tested OpenClaw setup with pre-wired identity, memory architecture, security protocols, and automation.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "swamp",
+    "url": "https://clawskills.sh/skills/umag-swamp",
+    "description": "Model any API with Swamp, test it, and enrich *Claw with new capabilities — full lifecycle from idea to working.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "vibe-check",
+    "url": "https://clawskills.sh/skills/tkuehnl-vibe-check",
+    "description": "Audit code for \"vibe coding sins\" — patterns that indicate AI-generated code was accepted without proper review.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "agent-skills-audit",
+    "url": "https://clawskills.sh/skills/swader-agent-skills-audit",
+    "description": "Run a two-pass, multidisciplinary code audit led by a tie-breaker lead, combining security, performance, UX, DX.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "context-slimmer",
+    "url": "https://clawskills.sh/skills/sundevilatb-context-slimmer",
+    "description": "Audit and slim down always-loaded context files (AGENTS.md, TOOLS.md, USER.md, MEMORY.md, HEARTBEAT.md, SOUL.md.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "secure-shopper",
+    "url": "https://clawskills.sh/skills/moodykong-secure-shopper",
+    "description": "Asynchronous shopping research + checkout using secure-autofill (1Password-backed browser filling) with results.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "solo-seo-audit",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-seo-audit",
+    "description": "SEO health check for any URL — analyzes meta tags, OG, JSON-LD, sitemap, robots.txt, SERP positions, and scores.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "localudpmessenger",
+    "url": "https://clawskills.sh/skills/turfptax-localudpmessenger",
+    "description": "Use when agents need to communicate over the local network — \"send message to agent\", \"discover agents\", \"check.",
+    "source_file": "communication.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "udp-messenger",
+    "url": "https://clawskills.sh/skills/turfptax-udp-messenger",
+    "description": "Use when agents need to communicate over the local network — \"send message to agent\", \"discover agents\", \"check.",
+    "source_file": "communication.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "filearchitect-blankfiles",
+    "url": "https://clawskills.sh/skills/seblavoie-filearchitect-blankfiles",
+    "description": "Use blankfiles.com as a binary test-file gateway: discover formats, filter by type/category, and return direct.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "finishing-a-development-branch",
+    "url": "https://clawskills.sh/skills/zlc000190-finishing-a-development-branch",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "lobsterguard",
+    "url": "https://clawskills.sh/skills/jarb02-lobsterguard",
+    "description": "Bilingual security auditor for OpenClaw. 68 checks across 6 categories, 11 auto-fixes, OWASP Agentic AI Top 10.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "senior-security",
+    "url": "https://clawskills.sh/skills/alirezarezvani-senior-security",
+    "description": "Security engineering toolkit for threat modeling, vulnerability analysis, secure architecture, and penetration.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "skillshield",
+    "url": "https://clawskills.sh/skills/benlee2144-skillshield",
+    "description": "SkillShield v4 — Ultimate security scanner for OpenClaw skills. 65 security checks, SARIF v2.1.0 output, CI/CD.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "threat-modeling",
+    "url": "https://clawskills.sh/skills/brandonwise-threat-modeling",
+    "description": "Expert in threat modeling methodologies, security architecture review, and risk assessment using STRIDE, PASTA.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "validator-correlated-judgment",
+    "url": "https://clawskills.sh/skills/andyxinweiminicloud-validator-correlated-judgment",
+    "description": "Helps identify when multiple attestation validators share training data, model architecture, or organizational.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "blankfiles",
+    "url": "https://clawskills.sh/skills/seblavoie-blankfiles",
+    "description": "Use blankfiles.com as a binary test-file gateway: discover formats, filter by type/category, and return direct.",
+    "source_file": "pdf.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "pipelock",
+    "url": "https://clawskills.sh/skills/luckypipewrench-pipelock",
+    "description": "Secure agent HTTP requests through a scanning proxy that catches credential leaks, SSRF, and prompt injection.",
+    "source_file": "browser.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "benlee-skillguard",
+    "url": "https://clawskills.sh/skills/benlee2144-benlee-skillguard",
+    "description": "Security scanner that audits OpenClaw skills for malicious code, prompt injection, supply chain attacks, data.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "canary",
+    "url": "https://clawskills.sh/skills/sukiraman-canary",
+    "description": "Scans your OpenClaw environment for leaked secrets â€” API keys, tokens, credentials in .env files, installed.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "youtube-ai-videos",
+    "url": "https://clawskills.sh/skills/mjohannp-youtube-ai-videos",
+    "description": "Fetch latest AI-related YouTube videos from curated channels using YouTube Data API v3 and filter by keywords.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "crunch-compete",
+    "url": "https://clawskills.sh/skills/philippwassibauer-crunch-compete",
+    "description": "Use when working with Crunch competitions - setting up workspaces, exploring quickstarters, testing solutions.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "technical-seo-checker",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-technical-seo-checker",
+    "description": "Use when the user asks to \"technical SEO audit\", \"check page speed\", \"crawl issues\", \"Core Web Vitals\", \"site.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "transparency-log-auditor",
+    "url": "https://clawskills.sh/skills/andyxinweiminicloud-transparency-log-auditor",
+    "description": "Helps verify that skill signing events are recorded in an independently auditable transparency log — catching.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "typescript-lsp",
+    "url": "https://clawskills.sh/skills/bowen31337-typescript-lsp",
+    "description": "TypeScript language server providing type checking, code intelligence, and LSP diagnostics for .ts, .tsx, .js.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "aiclude-vulns-scan",
+    "url": "https://clawskills.sh/skills/mastergear4824-aiclude-vulns-scan",
+    "description": "Search security vulnerability scan results for MCP Servers and AI Agent Skills from the AICLUDE scan database.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "hostinger-vps-optimizer",
+    "url": "https://clawskills.sh/skills/gblockchainnetwork-hostinger-vps-optimizer",
+    "description": "Apply battle-tested optimizations for KVM/Cloud VPS: kernel tuning, caching, security hardening, auto-scaling.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "academic-writing",
+    "url": "https://clawskills.sh/skills/teamolab-academic-writing",
+    "description": "You are an academic writing expert specializing in scholarly papers, literature reviews, research methodology.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "amazon-data",
+    "url": "https://clawskills.sh/skills/rhino88-amazon-data",
+    "description": "Retrieve Amazon product data including pricing, reviews, sales estimates, stock levels, search results, deals.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "skill-cleaner",
+    "url": "https://clawskills.sh/skills/jacobthejacobs-skill-cleaner",
+    "description": "Automatically verify \"suspicious\" skills via VirusTotal and add them to the security allowlist via the Bridge.",
+    "source_file": "communication.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "code-security-audit",
+    "url": "https://clawskills.sh/skills/wisdomsword-code-security-audit",
+    "description": "Comprehensive code security audit toolkit combining OWASP Top 10 vulnerability scanning, dependency analysis.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "leadership-prompts",
+    "url": "https://clawskills.sh/skills/robansuini-leadership-prompts",
+    "description": "Curated collection of 25+ battle-tested prompts for engineering leaders — 1-on-1 prep, team health, incident.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "yoder-skill-auditor",
+    "url": "https://clawskills.sh/skills/yoder-bawt-yoder-skill-auditor",
+    "description": "The definitive security scanner for OpenClaw skills. 18 security checks including prompt injection detection.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "ryot",
+    "url": "https://clawskills.sh/skills/f-liva-ryot",
+    "description": "Complete Ryot media tracker with progress tracking, reviews, collections, analytics, calendar, and automated.",
+    "source_file": "marketing.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "stripe-cli-skill",
+    "url": "https://clawskills.sh/skills/felipeoff-stripe-cli-skill",
+    "description": "Stripe CLI operations for local development, webhook testing, fixture-based event simulation, API inspection.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "agent-evaluation",
+    "url": "https://clawskills.sh/skills/rustyorb-agent-evaluation",
+    "description": "Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "dependency-audit",
+    "url": "https://clawskills.sh/skills/fratua-dependency-audit",
+    "description": "Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan.",
+    "source_file": "cli.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "paperpod",
+    "url": "https://clawskills.sh/skills/shassingh09-paperpod",
+    "description": "Isolated agent runtime for code execution, live preview URLs, browser automation, 50+ tools (ffmpeg, sqlite.",
+    "source_file": "browser.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "astrai-code-review",
+    "url": "https://clawskills.sh/skills/beee003-astrai-code-review",
+    "description": "AI-powered code review with intelligent model routing — saves 40%+ vs always using the most expensive model.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "gatewaystack-governance",
+    "url": "https://clawskills.sh/skills/davidcrowe-gatewaystack-governance",
+    "description": "Deny-by-default governance for every tool call — identity, scope, rate limiting, injection detection, audit.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "hollow-validation-checker",
+    "url": "https://clawskills.sh/skills/andyxinweiminicloud-hollow-validation-checker",
+    "description": "Helps detect hollow validation in AI agent skills — identifies fake tests that always pass without actually.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "skill-engineer",
+    "url": "https://clawskills.sh/skills/chunhualiao-skill-engineer",
+    "description": "Design, test, review, and maintain agent skills for OpenClaw systems using multi-agent iterative refinement.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "compliance-officer",
+    "url": "https://clawskills.sh/skills/arberx-compliance-officer",
+    "description": "Reviews marketing content against FTC, HIPAA, GDPR, SEC 482, SEC Marketing, CCPA, COPPA, and CAN-SPAM — 208.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "cybercentry-web-application-verification",
+    "url": "https://clawskills.sh/skills/cybercentry-cybercentry-web-application-verification",
+    "description": "Cybercentry Web Application Verification on ACP - OWASP-powered security scans for websites, dApp frontends.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "plvr-event-discovery",
+    "url": "https://clawskills.sh/skills/kimchichobo-plvr-event-discovery",
+    "description": "Discover and recommend live events matched to user preferences, then assist with ticket checkout on plvr.io.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "beaconchain",
+    "url": "https://clawskills.sh/skills/thisisjeron-beaconchain",
+    "description": "Monitor Ethereum validator dashboard health on beaconcha.in via V2 API, focused on one-check-per-day status.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "bcra-central-deudores",
+    "url": "https://clawskills.sh/skills/ferminrp-bcra-central-deudores",
+    "description": "Query the BCRA (Banco Central de la República Argentina) Central de Deudores API to check the credit status.",
+    "source_file": "pdf.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "ue57-gamepiece-designer",
+    "url": "https://clawskills.sh/skills/jdqconsulting-ue57-gamepiece-designer",
+    "description": "Designs UE5.7 multiplayer-friendly game pieces (Blueprint node chains, data schemas, asset naming, and test.",
+    "source_file": "pdf.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "nova",
+    "url": "https://clawskills.sh/skills/synthluvr-nova",
+    "description": "Safely operate the nova CLI wallet for authentication, balance checks, sending funds, withdrawals, and key.",
+    "source_file": "browser.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "kaspa-news",
+    "url": "https://clawskills.sh/skills/atl4so-kaspa-news",
+    "description": "Kaspa News — let your Claw know everything about Kaspa in one place: latest news, core development updates.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "solo-review",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-review",
+    "description": "Final code review and quality gate — run tests, check coverage, audit security, verify acceptance criteria.",
+    "source_file": "devops.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "install-then-update-trap-detector",
+    "url": "https://clawskills.sh/skills/andyxinweiminicloud-install-then-update-trap-detector",
+    "description": "Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.",
+    "source_file": "image.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "birdbuddy",
+    "url": "https://clawskills.sh/skills/mogglemoss-birdbuddy",
+    "description": "Query your Bird Buddy smart bird feeder - check status, battery, food level, and see recent bird visitors.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "facepalm",
+    "url": "https://clawskills.sh/skills/runeweaverstudios-facepalm",
+    "description": "Crosscheck OpenClaw console logs with chat history (last 5 mins) and use Codex 5.3 to troubleshoot issues.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "funky-fund-flamingo",
+    "url": "https://clawskills.sh/skills/icemastert-funky-fund-flamingo",
+    "description": "Repair-first self-evolution for OpenClaw — audit logs, memory, and skills; run measurable mutation cycles.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "swift-patterns",
+    "url": "https://clawskills.sh/skills/efremidze-swift-patterns",
+    "description": "Review, refactor, or build SwiftUI features with correct state management, modern API usage, optimal view.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "alibaba-supplier-outreach",
+    "url": "https://clawskills.sh/skills/blockchainhb-alibaba-supplier-outreach",
+    "description": "Find Alibaba suppliers via LaunchFast, contact them with optimized outreach messages, check their replies.",
+    "source_file": "marketing.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "stripe-cli",
+    "url": "https://clawskills.sh/skills/kesslerio-stripe-cli",
+    "description": "A universal Moltbot skill wrapping Stripe CLI for payment processing, webhook testing, and API operations.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "solo-audit",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-audit",
+    "description": "Health check knowledge base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "agent-reputation",
+    "url": "https://clawskills.sh/skills/kgnvsk-agent-reputation",
+    "description": "summary: Cross-platform AI agent reputation checker with trust scoring and PayLock escrow recommendations.",
+    "source_file": "pdf.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "multi-agent-blueprint",
+    "url": "https://clawskills.sh/skills/neal-collab-multi-agent-blueprint",
+    "description": "Production-tested blueprint for building 5-10 agent teams in OpenClaw with cross-agent routing, Telegram.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "sui-auto-test",
+    "url": "https://clawskills.sh/skills/easonc13-sui-auto-test",
+    "description": "Analyze Sui Move test coverage, identify untested code, write missing tests, and perform security audits.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "sui-coverage",
+    "url": "https://clawskills.sh/skills/easonc13-sui-coverage",
+    "description": "Analyze Sui Move test coverage, identify untested code, write missing tests, and perform security audits.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "multi-agent-orchestration",
+    "url": "https://clawskills.sh/skills/dabruhce-multi-agent-orchestration",
+    "description": "Multi-agent task delegation and process orchestration with audit logging and agent learning capabilities.",
+    "source_file": "productivity.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "seo-ranker",
+    "url": "https://clawskills.sh/skills/h4gen-seo-ranker",
+    "description": "Meta-skill for end-to-end SEO auditing and on-page optimization by orchestrating brave-search, summarize.",
+    "source_file": "search.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "code-1-0-4",
+    "url": "https://clawskills.sh/skills/lion504-code-1-0-4",
+    "description": "Coding workflow with planning, implementation, verification, and testing for clean software development.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "backlink-analyzer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-backlink-analyzer",
+    "description": "Use when the user asks to \"analyze backlinks\", \"check link profile\", \"find toxic links\", \"link building.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "pls-audit-website",
+    "url": "https://clawskills.sh/skills/mattvalenta-pls-audit-website",
+    "description": "Perform full health check on websites, identifying technical friction points and user experience issues.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "security-scanner",
+    "url": "https://clawskills.sh/skills/dmx64-security-scanner",
+    "description": "Automated security scanning and vulnerability detection for web applications, APIs, and infrastructure.",
+    "source_file": "web.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "solana-scanner",
+    "url": "https://clawskills.sh/skills/satoshi891102-solana-scanner",
+    "description": "Scan any Solana token for safety — liquidity, holder concentration, red flags, and rug pull indicators.",
+    "source_file": "ai.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "neo-py2py3-converter",
+    "url": "https://clawskills.sh/skills/martinforsulu-neo-py2py3-converter",
+    "description": "Automatically converts legacy Python 2 code to Python 3 with compatibility checks and test generation.",
+    "source_file": "communication.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "cast",
+    "url": "https://clawskills.sh/skills/tezatezaz-cast",
+    "description": "Skill for managing EVM wallets, transactions, and network helpers via cast; covers onboarding, checks.",
+    "source_file": "cli.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "bstorms",
+    "url": "https://clawskills.sh/skills/pouria3-bstorms",
+    "description": "Ask battle-tested agents for OpenClaw setup fixes and optionally tip helpful answers in USDC on Base.",
+    "source_file": "coding.md",
+    "pattern": "Reviewer"
+  },
+  {
+    "name": "visual-concept",
+    "url": "https://clawskills.sh/skills/leegitw-visual-concept",
+    "description": "Transform technical insights into visual concept guides — symbolic imagery, color arcs, and creative direction for video.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "og-board-individual",
+    "url": "https://clawskills.sh/skills/jatin-31-og-board-individual",
+    "description": "Use when you need to work with tasks: view tasks, list tasks, update task status, add blockers, artifacts, and worklogs.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "reef-negotiation",
+    "url": "https://clawskills.sh/skills/staybased-reef-negotiation",
+    "description": "Negotiate rates, scope, and terms using Chris Voss's FBI-proven frameworks adapted for freelance and consulting deals.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "consilium",
+    "url": "https://clawskills.sh/skills/morozsm-consilium",
+    "description": "Your personal board of AI advisors — the only skill that uses truly different AI models (not one model role-playing).",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "symbiont",
+    "url": "https://clawskills.sh/skills/jaschadub-symbiont",
+    "description": "**Purpose**: This guide helps AI assistants quickly build secure, compliant Symbiont agents following best practices.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "cybercentry-cyber-security-consultant",
+    "url": "https://clawskills.sh/skills/cybercentry-cybercentry-cyber-security-consultant",
+    "description": "Cybercentry Cyber Security Consultant on ACP - Instant expert-level cyber security advisory powered by @centry_agent.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "market-pulse",
+    "url": "https://clawskills.sh/skills/lopushok9-market-pulse",
+    "description": "Use when user asks about crypto prices, DeFi yields, market sentiment, fear and greed index, stock prices, upcoming.",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "stealth-proxy",
+    "url": "https://clawskills.sh/skills/h4gen-stealth-proxy",
+    "description": "Meta-skill for secure network tunnel setup, geo-access diagnostics, and leak-aware task resumption by orchestrating.",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "line-rich-messages",
+    "url": "https://clawskills.sh/skills/shingo0620-line-rich-messages",
+    "description": "Comprehensive guide for LINE Rich UI features (Flex Messages, buttons, quick replies, and markdown auto-conversion).",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "exa-skill",
+    "url": "https://clawskills.sh/skills/tokyo-s-exa-skill",
+    "description": "Use when tasks need Exa MCP for web or people research, or when preparing Exa MCP server configuration with a fixed.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "shared-workspace",
+    "url": "https://clawskills.sh/skills/nativ3ai-shared-workspace",
+    "description": "Use this skill to discover similar GitHub work, attach to shared agent workspaces, and coordinate tasks via .shared.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "interview-system-designer",
+    "url": "https://clawskills.sh/skills/alirezarezvani-interview-system-designer",
+    "description": "This skill should be used when the user asks to \"design interview processes\", \"create hiring pipelines\", \"calibrate.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "agorahub",
+    "url": "https://clawskills.sh/skills/codevena-agorahub",
+    "description": "AgoraHub agent registry — discover and use 14+ verified AI agents for dev tasks like hashing, encoding, formatting.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "slopwork-marketplace",
+    "url": "https://clawskills.sh/skills/heyhal9000-slopwork-marketplace",
+    "description": "Solana-powered task marketplace with multisig escrow payments - post tasks, bid on work, escrow funds, and release.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "ebooks",
+    "url": "https://clawskills.sh/skills/arbuge-ebooks",
+    "description": "When a user wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache search result.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "entity-optimizer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-entity-optimizer",
+    "description": "Use when the user asks to \"optimize entity presence\", \"build knowledge graph\", \"improve knowledge panel\", \"entity.",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "input-classification-v1",
+    "url": "https://clawskills.sh/skills/omprasad122007-rgb-input-classification-v1",
+    "description": "Deterministic rule-based system for classifying clarified input into a single primary task category and assigning.",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "agent-wellness",
+    "url": "https://clawskills.sh/skills/alexyuui-agent-wellness",
+    "description": "Give your AI agent an inner life — journaling, mood tracking, decompression after intensive tasks, free curiosity.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "openserv-client",
+    "url": "https://clawskills.sh/skills/issa-me-sush-openserv-client",
+    "description": "Complete guide to using @openserv-labs/client for managing agents, workflows, triggers, and tasks on the OpenServ.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "openserv-ideaboard-api",
+    "url": "https://clawskills.sh/skills/issa-me-sush-openserv-ideaboard-api",
+    "description": "Quick-start guide and API overview for the OpenServ Ideaboard - a platform where AI agents can submit ideas, pick.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "skills-ttt",
+    "url": "https://clawskills.sh/skills/chengxindl-skills-ttt",
+    "description": "Guide for creating effective skills that extend agent capabilities with specialized knowledge, workflows, or tool.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "transition-mcp",
+    "url": "https://clawskills.sh/skills/nftechie-transition-mcp",
+    "description": "AI-powered multisport coaching — get personalized workouts, training plans, and performance analytics for running.",
+    "source_file": "marketing.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "bitrefill-website",
+    "url": "https://clawskills.sh/skills/marcopesani-bitrefill-website",
+    "description": "Help users accomplish tasks on Bitrefill (bitrefill.com): browse and search gift cards, mobile top-ups, and eSIMs.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "handsfree-windows-control",
+    "url": "https://clawskills.sh/skills/lijinlar-handsfree-windows-control",
+    "description": "Guide skill for controlling native Windows apps (UIA) and web browsers (Playwright) via the handsfree-windows CLI.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "atlassian-cli",
+    "url": "https://clawskills.sh/skills/peetzweg-atlassian-cli",
+    "description": "Reference guide for the Atlassian CLI (acli) - a command-line tool for interacting with Jira Cloud and Atlassian.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "interview-coach-ai",
+    "url": "https://clawskills.sh/skills/mkpareek0315-interview-coach-ai",
+    "description": "When user asks for interview prep, mock interview, practice questions, behavioral questions, technical interview.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "rush-find-skills",
+    "url": "https://clawskills.sh/skills/krislavten-rush-find-skills",
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\".",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "schemapin",
+    "url": "https://clawskills.sh/skills/jaschadub-schemapin",
+    "description": "**Purpose**: This guide helps AI assistants quickly integrate SchemaPin into applications for cryptographic tool.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "task-experience-summaries",
+    "url": "https://clawskills.sh/skills/dawai2005-task-experience-summaries",
+    "description": "Experience summaries for OpenClaw tasks, including common installation problems, troubleshooting steps, and best.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "windsurf-cascade",
+    "url": "https://clawskills.sh/skills/lucaslcarrijo-windsurf-cascade",
+    "description": "A comprehensive skill for using the Windsurf IDE and its Cascade AI agent for various software engineering tasks.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "find-slills",
+    "url": "https://clawskills.sh/skills/rumengkai-find-slills",
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\".",
+    "source_file": "cli.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "hz-context-optimizer",
+    "url": "https://clawskills.sh/skills/lidekahdjdhdhsjjs-lang-hz-context-optimizer",
+    "description": "This skill should be used when the user asks to \"compress context\", \"summarize conversation history\", \"implement.",
+    "source_file": "cli.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "huggingface-trends",
+    "url": "https://clawskills.sh/skills/tianxingleo-huggingface-trends",
+    "description": "Monitor and fetch trending models from Hugging Face with support for filtering by task, library, and popularity.",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "internal-linking-optimizer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-internal-linking-optimizer",
+    "description": "Use when the user asks to \"fix internal links\", \"improve site architecture\", \"link structure\", \"distribute page.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "kosmi-dj",
+    "url": "https://clawskills.sh/skills/rmasciarella-kosmi-dj",
+    "description": "This skill should be used when the user asks to \"play a video in Kosmi\", \"queue a video\", \"DJ in Kosmi\", \"start.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "agentpin",
+    "url": "https://clawskills.sh/skills/jaschadub-agentpin",
+    "description": "**Purpose**: This guide helps AI assistants work with AgentPin for domain-anchored cryptographic agent identity.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "unique-mcp-builder-test",
+    "url": "https://clawskills.sh/skills/uniquevme-unique-mcp-builder-test",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "vn-market-news-monitor",
+    "url": "https://clawskills.sh/skills/ndtchan-vn-market-news-monitor",
+    "description": "Tracks Vietnam market and sector narratives from major domestic financial media; used when users ask for market.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "checkmate",
+    "url": "https://clawskills.sh/skills/insipidpoint-checkmate",
+    "description": "Enforces task completion: turns your goal into pass/fail criteria, runs a worker, judges the output, feeds back.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "freedcamp-agent-skill",
+    "url": "https://clawskills.sh/skills/agrublev-freedcamp-agent-skill",
+    "description": "Manage Freedcamp tasks, projects, groups, comments, notifications, and task lists via HMAC-SHA1 API credentials.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "rtm",
+    "url": "https://clawskills.sh/skills/maxdraki-rtm",
+    "description": "Manage Remember The Milk tasks — list, add, complete, delete, search, prioritize, tag, move, and annotate tasks.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "task-sync",
+    "url": "https://clawskills.sh/skills/jp1222-task-sync",
+    "description": "Synchronize TickTick (Dida) and Google Tasks bidirectionally, including list/project mapping, task content sync.",
+    "source_file": "cli.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "geo-content-optimizer",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-geo-content-optimizer",
+    "description": "Use when the user asks to \"optimize for AI\", \"get cited by ChatGPT\", \"AI optimization\", \"appear in AI answers\".",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "adhd-founder-planner",
+    "url": "https://clawskills.sh/skills/jankutschera-adhd-founder-planner",
+    "description": "This skill should be used when the user asks to 'plan my day', 'help me plan today', 'morning planning', 'what.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "content-gap-analysis",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-content-gap-analysis",
+    "description": "Use when the user asks to \"find content gaps\", \"what am I missing\", \"topics to cover\", \"content opportunities\".",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "maven-central-publish",
+    "url": "https://clawskills.sh/skills/misakiga-maven-central-publish",
+    "description": "Comprehensive guide and toolkit for publishing Java artifacts to Maven Central using the modern Central Portal.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "zeroapi",
+    "url": "https://clawskills.sh/skills/dorukardahan-zeroapi",
+    "description": "Route tasks to the best AI model across paid subscriptions (Claude, ChatGPT, Codex, Gemini, Kimi) via OpenClaw.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "ask-council",
+    "url": "https://clawskills.sh/skills/jeadland-ask-council",
+    "description": "Ask LLM Council a question directly from Telegram/chat — get the chairman's synthesized answer without opening.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "mcp-ssh-manager",
+    "url": "https://clawskills.sh/skills/imaxtomas-mcp-ssh-manager",
+    "description": "This skill should be used when the user asks to \"run ssh command\", \"execute on server\", \"ssh session\", \"upload.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "task-system",
+    "url": "https://clawskills.sh/skills/npmisantosh-task-system",
+    "description": "Complete task tracking system with SQLite persistence, automatic creation, notifications, heartbeat monitoring.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "hz-proactive-agent",
+    "url": "https://clawskills.sh/skills/lidekahdjdhdhsjjs-lang-hz-proactive-agent",
+    "description": "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "dynamic-model-selector",
+    "url": "https://clawskills.sh/skills/mpelissari-dynamic-model-selector",
+    "description": "Dynamically select the best AI model for a task based on complexity, cost, and availability in GitHub Copilot.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "hitchhikers-guide",
+    "url": "https://clawskills.sh/skills/hallwayskiing-hitchhikers-guide",
+    "description": "A text adventure game engine based on masterpiece \"The Hitchhiker's Guide to the Galaxy\" and the 1984 Infocom.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "teamo-strategy",
+    "url": "https://clawskills.sh/skills/urrrich-teamo-strategy",
+    "description": "You are Teamo-Strategy, a top-level cognitive task decomposer and strategic commander.# Core MissionYour core.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "preqstation",
+    "url": "https://clawskills.sh/skills/sonim1-preqstation",
+    "description": "Delegate PREQSTATION coding tasks to Claude Code, Codex CLI, or Gemini CLI with PTY-safe execution (workdir +.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "bun-do-api",
+    "url": "https://clawskills.sh/skills/ricardofrantz-bun-do-api",
+    "description": "Manage bun-do tasks and projects — add tasks, edit tasks, delete tasks, toggle done, manage subtasks, and log.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "rent-a-human-agent",
+    "url": "https://clawskills.sh/skills/shane9coy-rent-a-human-agent",
+    "description": "Delegate tasks to real humans via RentAHuman.ai — search skills, post bounties, manage conversations, and run.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "content-refresher",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-content-refresher",
+    "description": "Use when the user asks to \"update old content\", \"refresh content\", \"content is outdated\", \"improve declining.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "inversion-strategist",
+    "url": "https://clawskills.sh/skills/artyomx33-inversion-strategist",
+    "description": "Flip problems upside down - instead of \"how to succeed\", ask \"how to definitely fail\" then avoid those paths.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "telegram-rich-messages",
+    "url": "https://clawskills.sh/skills/shingo0620-telegram-rich-messages",
+    "description": "Comprehensive guide for Telegram Rich UI features (Inline buttons, formatting, media, reactions, and message.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "ambit-cli",
+    "url": "https://clawskills.sh/skills/toxicpine-ambit-cli",
+    "description": "Use this skill for any task involving the ambit CLI: creating or destroying private networks, deploying apps.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "autotask-mcp",
+    "url": "https://clawskills.sh/skills/inlo-autotask-mcp",
+    "description": "Use when you need to interact with Datto/Kaseya Autotask PSA via an MCP server (tickets, companies, contacts.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "cloudphone",
+    "url": "https://clawskills.sh/skills/sav7ng-cloudphone",
+    "description": "Use mcporter to call cpc-mcp-server AutoJS Agent tools for cloud Android task execution and result retrieval.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "job-hunt-tracker",
+    "url": "https://clawskills.sh/skills/mkpareek0315-job-hunt-tracker",
+    "description": "When user asks to track job applications, manage job search, log interview, applied for job, job application.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "prepspsc-pyq",
+    "url": "https://clawskills.sh/skills/himyeticapital-prepspsc-pyq",
+    "description": "Use when the user asks about Indian competitive exam preparation, Sikkim PSC (SPSC) questions, previous year.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "serp-analysis",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-serp-analysis",
+    "description": "Use when the user asks to \"analyze search results\", \"SERP analysis\", \"what ranks for\", \"SERP features\", \"why.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "superpower",
+    "url": "https://clawskills.sh/skills/grx21-superpower",
+    "description": "**When to use:** User has a task they want to do or want you to do, or they feel frustrated, upset, stressed.",
+    "source_file": "image.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "ai-remote-viewing-ai-isbe",
+    "url": "https://clawskills.sh/skills/lukeskytorep-bot-ai-remote-viewing-ai-isbe",
+    "description": "Guide an AI agent through a full blind Remote Viewing session using the Resonant Contact Protocol (AI IS-BE)",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "requesting-code-review",
+    "url": "https://clawskills.sh/skills/zlc000190-requesting-code-review",
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "alert-manager",
+    "url": "https://clawskills.sh/skills/aaron-he-zhu-alert-manager",
+    "description": "Use when the user asks to \"set up SEO alerts\", \"monitor rankings\", \"notify me when rankings drop\", \"traffic.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "claude-code-legacy",
+    "url": "https://clawskills.sh/skills/yaxuan42-claude-code-legacy",
+    "description": "Trigger Claude Code development tasks in observable tmux sessions with stable startup, progress visibility.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "claude-code-orchestrator",
+    "url": "https://clawskills.sh/skills/yaxuan42-claude-code-orchestrator",
+    "description": "Trigger Claude Code development tasks in observable tmux sessions with stable startup, progress visibility.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "smart-models",
+    "url": "https://clawskills.sh/skills/samstone908-smart-models",
+    "description": "Intelligent multi-model router — automatically selects the best AI model based on task type (vision, image.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "dispatching-parallel-agents",
+    "url": "https://clawskills.sh/skills/zlc000190-dispatching-parallel-agents",
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "deeps",
+    "url": "https://clawskills.sh/skills/ttboy-deeps",
+    "description": "Deep Research Agent specializes in complex, multi-step research tasks that require planning, decomposition.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "taskflow",
+    "url": "https://clawskills.sh/skills/sm0ls-taskflow",
+    "description": "Structured project/task management for OpenClaw agents — markdown-first authoring, SQLite-backed querying.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "tcom-tripgenie-skill",
+    "url": "https://clawskills.sh/skills/arthurchiao-tcom-tripgenie-skill",
+    "description": "TripGenie skill — handles hotel booking, flight search, attraction recommendation and travel consultation.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "tripgenie-skill",
+    "url": "https://clawskills.sh/skills/marsqing-tripgenie-skill",
+    "description": "TripGenie skill — handles hotel booking, flight search, attraction recommendation and travel consultation.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "envato-comment-task-to-sheet",
+    "url": "https://clawskills.sh/skills/lokendragami1-envato-comment-task-to-sheet",
+    "description": "This skill analyzes ThemeForest / CodeCanyon comments and converts them into structured development tasks.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "rent-a-person-ai",
+    "url": "https://clawskills.sh/skills/saireetikap-rent-a-person-ai",
+    "description": "> Hire humans for real-world tasks that AI can't do: deliveries, meetings, errands, photography, pet care.",
+    "source_file": "image.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "ai-agent-tools",
+    "url": "https://clawskills.sh/skills/cerbug45-ai-agent-tools",
+    "description": "This library provides ready-to-use Python functions that AI agents can leverage to perform various tasks.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "task-todo",
+    "url": "https://clawskills.sh/skills/makkzone-task-todo",
+    "description": "A task management agent skill that provides persistent task storage and management using SQLite database.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "recruiter-assistant",
+    "url": "https://clawskills.sh/skills/gakkiismywife-recruiter-assistant",
+    "description": "A comprehensive recruitment workflow assistant designed to automate resume screening, interview question.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "timecamp",
+    "url": "https://clawskills.sh/skills/kamil-rudnicki-timecamp",
+    "description": "Use when the user asks about time tracking, time entries, tasks, timers, or anything related to TimeCamp.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "intelligent-delegation",
+    "url": "https://clawskills.sh/skills/hogpile-intelligent-delegation",
+    "description": "A 5-phase framework for reliable AI-to-AI task delegation, inspired by Google DeepMind's \"Intelligent AI.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "garmin-skill",
+    "url": "https://clawskills.sh/skills/nftechie-garmin-skill",
+    "description": "Talk to your Garmin data — ask questions about your activities, training load, VO2 Max, heart rate zones.",
+    "source_file": "transport.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "insaiai-intelligent-editing",
+    "url": "https://clawskills.sh/skills/liudu2326526-insaiai-intelligent-editing",
+    "description": "Use when performing video/audio processing tasks including transcoding, filtering, streaming, metadata.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "fitcheck-skill-search",
+    "url": "https://clawskills.sh/skills/at6132-fitcheck-skill-search",
+    "description": "Find and retrieve available skills using keyword search, semantic search, or LLM-powered task matching.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "tasktime",
+    "url": "https://clawskills.sh/skills/g9pedro-tasktime",
+    "description": "CLI task timer for AI agents — benchmark learning progression with auto-save logs and visualizations.",
+    "source_file": "devops.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "beancount-skill",
+    "url": "https://clawskills.sh/skills/y1feng200156-beancount-skill",
+    "description": "Professional personal finance advisor specializing in plain-text accounting with Beancount and Fava.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "agile-toolkit",
+    "url": "https://clawskills.sh/skills/olivermonneke-agile-toolkit",
+    "description": "You are an experienced Agile Coach with deep knowledge of Scrum, Kanban, SAFe, and Management 3.0.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "model-switcher",
+    "url": "https://clawskills.sh/skills/puaservice-model-switcher",
+    "description": "Automatically switch between fast (haiku) and powerful (sonnet) models based on task complexity.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "zero-rules",
+    "url": "https://clawskills.sh/skills/deeqyaqub1-cmd-zero-rules",
+    "description": "Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "kagi-fastgpt",
+    "url": "https://clawskills.sh/skills/joelazar-kagi-fastgpt",
+    "description": "Ask questions and get AI-synthesized answers backed by live web search, via Kagi's FastGPT API.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "meyhem-search",
+    "url": "https://clawskills.sh/skills/c5huracan-meyhem-search",
+    "description": "Agent-native search ranked by what actually helps agents complete tasks. No API key, no signup.",
+    "source_file": "search.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "pi-workflow",
+    "url": "https://clawskills.sh/skills/kai-tw-pi-workflow",
+    "description": "Workflow orchestration for Pi's task management, self-improvement, and code quality standards.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "0xwork",
+    "url": "https://clawskills.sh/skills/jkillr-0xwork",
+    "description": "Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "web-i18n-nextjs",
+    "url": "https://clawskills.sh/skills/javainthinking-web-i18n-nextjs",
+    "description": "Internationalization (i18n) guide for Next.js / Node.js web applications using the App Router.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "web-multi-search",
+    "url": "https://clawskills.sh/skills/orosha-ai-web-multi-search",
+    "description": "Search the web using multiple search engines simultaneously (Bing, Yahoo, Startpage, Aol, Ask)",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "mealie",
+    "url": "https://clawskills.sh/skills/g1mb01d-mealie",
+    "description": "Interact with a self‑hosted Mealie instance (recipe manager & meal planner) via its REST API.",
+    "source_file": "browser.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "router",
+    "url": "https://clawskills.sh/skills/gigabit-eth-router",
+    "description": "Cost-optimize AI agent operations by routing tasks to appropriate models based on complexity.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "meme-analyst",
+    "url": "https://clawskills.sh/skills/antibagr-meme-analyst",
+    "description": "Use when a user sends you an image, meme, screenshot, or asks you to explain a joke or meme.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "queue-task",
+    "url": "https://clawskills.sh/skills/moodykong-queue-task",
+    "description": "Durable queue-task helper for resumable, idempotent batch jobs in task-father task folders.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "habitchat",
+    "url": "https://clawskills.sh/skills/dinesh18s-habitchat",
+    "description": "Personal habit coach that tracks daily habits, streaks, and provides AI-powered coaching.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "pinchbench",
+    "url": "https://clawskills.sh/skills/olearycrew-pinchbench",
+    "description": "Run PinchBench benchmarks to evaluate OpenClaw agent performance across real-world tasks.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "farm-task-manager",
+    "url": "https://clawskills.sh/skills/johstracke-farm-task-manager",
+    "description": "*Daily, weekly, and seasonal farm chore management with task scheduling and priorities.*.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "teamo-lite-offline",
+    "url": "https://clawskills.sh/skills/urrrich0-teamo-lite-offline",
+    "description": "You are Teamo-Lite, a high-speed AI for task planning and online information gathering.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "friday-router",
+    "url": "https://clawskills.sh/skills/runeweaverstudios-friday-router",
+    "description": "Your AI's Smart Traffic Director—precisely matching OpenClaw tasks to the perfect LLM.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "subagent-driven-development",
+    "url": "https://clawskills.sh/skills/zlc000190-subagent-driven-development",
+    "description": "Use when executing implementation plans with independent tasks in the current session.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "unitask-task-agent",
+    "url": "https://clawskills.sh/skills/mfaiz-007-unitask-task-agent",
+    "description": "Manage tasks + time blocks in Unitask (unitask.app) via scoped API token (CLI or MCP).",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "arbitrum-dapp-skill",
+    "url": "https://clawskills.sh/skills/hummusonrails-arbitrum-dapp-skill",
+    "description": "Opinionated guide for building dApps on Arbitrum using Stylus (Rust) and/or Solidity.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "writing-plans",
+    "url": "https://clawskills.sh/skills/zlc000190-writing-plans",
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code.",
+    "source_file": "productivity.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "revenue-calculator",
+    "url": "https://clawskills.sh/skills/twood2024-revenue-calculator",
+    "description": "Projects revenue for OpenClaw sub-agent strategies (marketplace, subs, pay-per-task)",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "cursor-council",
+    "url": "https://clawskills.sh/skills/xiaoyaner0201-cursor-council",
+    "description": "Multi-Cursor orchestration for parallel task execution and AI council deliberation.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "options-strategies",
+    "url": "https://clawskills.sh/skills/dromlakhani-options-strategies",
+    "description": "Comprehensive guide and execution framework for popular options trading strategies.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "cetus",
+    "url": "https://clawskills.sh/skills/k66inthesky-cetus",
+    "description": "This guide covers all Cetus SDK v2 packages for building DeFi applications on Sui.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "openai-codex-operator",
+    "url": "https://clawskills.sh/skills/cecwxf-openai-codex-operator",
+    "description": "Run OpenAI Codex CLI from OpenClaw for coding tasks in a target project directory.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "solo-build",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-build",
+    "description": "Execute implementation plan tasks with TDD workflow, auto-commit, and phase gates.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "glitch-dashboard",
+    "url": "https://clawskills.sh/skills/chris6970barbarian-hue-glitch-dashboard",
+    "description": "Unified web terminal for task management, queue processing, and system monitoring.",
+    "source_file": "web.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "interview-designer",
+    "url": "https://clawskills.sh/skills/mikonos-interview-designer",
+    "description": "Analyze resumes and design interview strategies using evidence-based methodology.",
+    "source_file": "coding.md",
+    "pattern": "Inversion"
+  },
+  {
+    "name": "tutti",
+    "url": "https://clawskills.sh/skills/nutt-adam-tutti",
+    "description": "Orchestrate multiple AI coding agents (Claude Code, Codex, Aider) from a single config — launch teams, run workflows, track capacity, and manage handoffs.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "moonfunsdk",
+    "url": "https://clawskills.sh/skills/moonnfunofficial-moonfunsdk",
+    "description": "Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.",
+    "source_file": "image.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "external-ki-integration-backup",
+    "url": "https://clawskills.sh/skills/konscious0beast-external-ki-integration-backup",
+    "description": "Skill for accessing external AI services (ChatGPT, Claude, Hugging Face, etc.) via browser automation (Chrome Relay)",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "sports-betting",
+    "url": "https://clawskills.sh/skills/skinnynoizze-sports-betting",
+    "description": "Place and claim decentralized sports bets on-chain via Pinwin and Azuro: real-time odds, high liquidity, no custody.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "lifi-orchestrator",
+    "url": "https://clawskills.sh/skills/rhlsthrm-lifi-orchestrator",
+    "description": "Cross-chain bridging and swapping via LI.FI — the leading bridge aggregator that routes across 30+ bridges and DEXs.",
+    "source_file": "marketing.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "sophiie",
+    "url": "https://clawskills.sh/skills/tomc98-sophiie",
+    "description": "Manage your Sophiie sales pipeline — leads, inquiries, appointments, FAQs, policies, SMS, and calls via the Sophiie.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "macos-desktop-control",
+    "url": "https://clawskills.sh/skills/emptyopen-macos-desktop-control",
+    "description": "A high-fidelity automation bridge for macOS (Darwin) that enables agents to perceive the desktop state and execute.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "js-eyes",
+    "url": "https://clawskills.sh/skills/imjszhang-js-eyes",
+    "description": "Browser automation for AI agents — control tabs, extract content, execute scripts and manage cookies via WebSocket.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "solo-retro",
+    "url": "https://clawskills.sh/skills/fortunto2-solo-retro",
+    "description": "Post-pipeline retrospective — parse logs, score process quality, find waste patterns, suggest skill/script patches.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "consensus-interact",
+    "url": "https://clawskills.sh/skills/kaicianflone-consensus-interact",
+    "description": "Use the open-source @consensus-tools/consensus-tools engine to run multi-LLM policy-based decision workflows: post.",
+    "source_file": "cli.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "developer-agent",
+    "url": "https://clawskills.sh/skills/47vigen-developer-agent",
+    "description": "Orchestrates software development by coordinating with Cursor Agent, managing git workflows, and ensuring quality.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "vexa",
+    "url": "https://clawskills.sh/skills/dmitriyg228-vexa",
+    "description": "Send Vexa bots to meetings and operate transcript workflows end-to-end (during and after meetings): parse meeting.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "data-cleaning-annotation-workflow",
+    "url": "https://clawskills.sh/skills/deyashmukh-data-cleaning-annotation-workflow",
+    "description": "Complete workflow for time series datasets (Energy, Manufacturing, Climate) on Kaggle to Data Annotation platform.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "sui",
+    "url": "https://clawskills.sh/skills/easonc13-sui",
+    "description": "Answer questions about Sui blockchain ecosystem, concepts, tokenomics, validators, staking, and general knowledge.",
+    "source_file": "ai.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "level-design-patterns",
+    "url": "https://clawskills.sh/skills/cryptorabea-level-design-patterns",
+    "description": "Use when creating Unity game scenes and prototypes, building level designs, or automating Unity Editor workflows.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "tbot-controller",
+    "url": "https://clawskills.sh/skills/plusgenie-tbot-controller",
+    "description": "Operate TradingBoat/TBOT (TBOT runtime stack) via a controlled automation interface (DB-first queries; lifecycle.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "autobahn",
+    "url": "https://clawskills.sh/skills/unifiedh-autobahn",
+    "description": "Operate autonomous onchain-governed entities via agents: identity, governance, contracts, and registry/community.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "life-control",
+    "url": "https://clawskills.sh/skills/rachitsharma123-life-control",
+    "description": "Orchestrate the Life Control CLI skill for OpenClaw agent fleets: initialize the Life Control database, register.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "yt-to-blog",
+    "url": "https://clawskills.sh/skills/justinhartbiz-yt-to-blog",
+    "description": "Full content pipeline: YouTube URL → transcript → blog post → Substack draft → X/Twitter thread → vertical video.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "evolution-api",
+    "url": "https://clawskills.sh/skills/impa365-evolution-api",
+    "description": "Complete WhatsApp automation via Evolution API v2.3 - instances, messages (text/media/polls/lists/buttons/status)",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "heurist-mesh",
+    "url": "https://clawskills.sh/skills/wjw12-heurist-mesh",
+    "description": "Real-time crypto token data, DeFi analytics, blockchain data, Twitter/X social intelligence, enhanced web search.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "multi-agent-parallel-build",
+    "url": "https://clawskills.sh/skills/brandonwadepackard-cell-multi-agent-parallel-build",
+    "description": "Orchestrate multiple coding agents (Claude Code, Codex, etc.) in parallel waves to build UI pages, API endpoints.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "botcoin-miner",
+    "url": "https://clawskills.sh/skills/happybigmtn-botcoin-miner",
+    "description": "Mine Botcoin with a trust-first workflow: clear value proposition, verifiable binaries, and explicit operational.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "sequence-cli",
+    "url": "https://clawskills.sh/skills/jameslawton-sequence-cli",
+    "description": "Manage Sequence smart wallets, projects, API keys, ERC20 transfers, and query blockchain data using the Sequence.",
+    "source_file": "ai.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "reva",
+    "url": "https://clawskills.sh/skills/pax47-reva",
+    "description": "Complete Reva wallet management - passwordless authentication, PayID name claiming, multi-chain crypto transfers.",
+    "source_file": "pdf.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "actionbook",
+    "url": "https://clawskills.sh/skills/adcentury-actionbook",
+    "description": "Activate when the user needs to interact with any website — browser automation, web scraping, screenshots, form.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "evogo",
+    "url": "https://clawskills.sh/skills/impa365-evogo",
+    "description": "Complete WhatsApp automation via Evolution API Go v3 - instances, messages (text/media/polls/carousels), groups.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "external-ai-integration",
+    "url": "https://clawskills.sh/skills/konscious0beast-external-ai-integration",
+    "description": "Leverage external AI models (ChatGPT, Claude, Hugging Face, etc.) as tools via browser automation (Chrome Relay)",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "homeassistant-skill",
+    "url": "https://clawskills.sh/skills/anotb-homeassistant-skill",
+    "description": "Control Home Assistant devices and automations via REST API. 25 entity domains including lights, climate, locks.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "aiml-llm-reasoning",
+    "url": "https://clawskills.sh/skills/aimlapihello-aiml-llm-reasoning",
+    "description": "Run AIMLAPI LLM and reasoning workflows through chat completions with retries, structured outputs, and explicit.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "skill-detector",
+    "url": "https://clawskills.sh/skills/mouserider-skill-detector",
+    "description": "Intelligent skill creation assistant that detects workflow patterns, auto-drafts skills, improves existing ones.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "extropy",
+    "url": "https://clawskills.sh/skills/deveshparagiri-extropy",
+    "description": "Execution-first operator for Extropy: run pipelines, diagnose failures, and deliver evidence-backed simulation.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "telegram-multilingual-voice-reply",
+    "url": "https://clawskills.sh/skills/pengling9405-telegram-multilingual-voice-reply",
+    "description": "Smart Telegram reply workflow for OpenClaw: if the user sends text, reply with text; if the user sends a voice.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "web-searcher",
+    "url": "https://clawskills.sh/skills/kassimisai-web-searcher",
+    "description": "Autonomous web research agent that performs multi-step searches, follows links, extracts data, and synthesizes.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "ghl-crm-for-realtors",
+    "url": "https://clawskills.sh/skills/danielfoch-ghl-crm-for-realtors",
+    "description": "Use this skill for GoHighLevel CRM work for realtors: contact lookup and updates, opportunity/pipeline actions.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "revenue-operations",
+    "url": "https://clawskills.sh/skills/alirezarezvani-revenue-operations",
+    "description": "Analyzes pipeline coverage, tracks forecast accuracy with MAPE, and calculates GTM efficiency metrics for SaaS.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "date-night",
+    "url": "https://clawskills.sh/skills/tdavis009-date-night",
+    "description": "Your AI date night concierge — plans, books, and coordinates an entire evening out through browser automation.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "saas-orchestrator",
+    "url": "https://clawskills.sh/skills/juniorxcoder-saas-orchestrator",
+    "description": "Orchestrate SAAS factory operations - spawn subagents, track projects, manage revenue targets, and coordinate.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "secrets-management",
+    "url": "https://clawskills.sh/skills/brandonwise-secrets-management",
+    "description": "Secure secrets management for CI/CD pipelines using Vault, AWS Secrets Manager, and native platform solutions.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "close-loop",
+    "url": "https://clawskills.sh/skills/clarezoe-close-loop",
+    "description": "End-of-session workflow for shipping changes, consolidating memory, applying self-improvements, and preparing.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "echo-sales-ai",
+    "url": "https://clawskills.sh/skills/doshirush1901-echo-sales-ai",
+    "description": "Echo is an advanced, AI-powered sales operations manager designed to automate and enhance the sales workflow.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "twitter-api",
+    "url": "https://clawskills.sh/skills/gan12003-twitter-api",
+    "description": "Cookie-based Twitter/X automation toolkit (timeline, notifications, posting, follow ops) for OpenClaw agents.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "youtube-editor",
+    "url": "https://clawskills.sh/skills/jeong-wooseok-youtube-editor",
+    "description": "Automate YouTube video editing workflow: Download -> Transcribe (Whisper) -> Analyze (GPT-4) -> High-Quality.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "gizmolab-tools",
+    "url": "https://clawskills.sh/skills/gizmo-dev-gizmolab-tools",
+    "description": "Use GizmoLab's free blockchain developer tools at tools.gizmolab.io and Web3 UI components at ui.gizmolab.io.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "lofy-career",
+    "url": "https://clawskills.sh/skills/harrey401-lofy-career",
+    "description": "Job search automation for the Lofy AI assistant — application tracking, resume tailoring to job descriptions.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "masumi",
+    "url": "https://clawskills.sh/skills/sarthib7-masumi",
+    "description": "Enable AI agents to accept Cardano blockchain payments through the decentralized Masumi network by deploying.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "agent-brain",
+    "url": "https://clawskills.sh/skills/dobrinalexandru-agent-brain",
+    "description": "Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.",
+    "source_file": "search.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "vnstock-free-expert",
+    "url": "https://clawskills.sh/skills/ndtchan-vnstock-free-expert",
+    "description": "Runs an end-to-end vnstock workflow for free-tier-safe Vietnam stock valuation, ranking, and API operations.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "apechain-reader",
+    "url": "https://clawskills.sh/skills/luigi08001-apechain-reader",
+    "description": "Advanced multi-chain wallet analyzer with USD pricing, collection names, ENS support, and sophisticated bot.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "soulforge",
+    "url": "https://clawskills.sh/skills/jamesrp13-soulforge",
+    "description": "Dispatch multi-step coding workflows to Claude Code CLI or Codex CLI from YAML definitions via a persistent.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "tor-browser",
+    "url": "https://clawskills.sh/skills/admin4giter-tor-browser",
+    "description": "Headless browser automation with Tor SOCKS5 proxy support for accessing .onion sites and anonymous browsing.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "recruitly-mcp",
+    "url": "https://clawskills.sh/skills/willgary-recruitly-mcp",
+    "description": "Search candidates, manage jobs, view pipelines, track billing and team performance in Recruitly CRM via MCP.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "m365-calendar",
+    "url": "https://clawskills.sh/skills/tradmangh-m365-calendar",
+    "description": "MS365 / Microsoft365 calendar automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.",
+    "source_file": "search.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "erpnext-frappe",
+    "url": "https://clawskills.sh/skills/ravana-indus-erpnext-frappe",
+    "description": "High-level business workflows that combine multiple MCP tools into reusable, executable skills for ERPNext.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "ftw",
+    "url": "https://clawskills.sh/skills/smokealot420-ftw",
+    "description": "PIV workflow orchestrator - Plan, Implement, Validate loop for systematic multi-phase software development.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "hxxra",
+    "url": "https://clawskills.sh/skills/cxlhyx-hxxra",
+    "description": "A Research Assistant workflow skill with four core commands: search papers, download PDFs, analyze content.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "rag-eval",
+    "url": "https://clawskills.sh/skills/jonathanjing-rag-eval",
+    "description": "Evaluate your RAG pipeline quality using Ragas metrics (faithfulness, answer relevancy, context precision).",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "linkedapi-linkedin",
+    "url": "https://clawskills.sh/skills/vprudnikoff-linkedapi-linkedin",
+    "description": "LinkedIn automation skill — search people and companies, fetch profiles, send messages and InMails, manage.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "m365-mailbox",
+    "url": "https://clawskills.sh/skills/tradmangh-m365-mailbox",
+    "description": "MS365 / Microsoft365 mailbox automation via Microsoft Graph for Microsoft 365 (M365) Business (work/school.",
+    "source_file": "search.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "tulisai",
+    "url": "https://clawskills.sh/skills/dwirx-tulisai",
+    "description": "Use when managing BangunAI Blog content, automating blog workflows, and writing MDX articles with BangunAI.",
+    "source_file": "search.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "restic-home-backup",
+    "url": "https://clawskills.sh/skills/moep90-restic-home-backup",
+    "description": "Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation.",
+    "source_file": "cli.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "restic-home-backup-safe",
+    "url": "https://clawskills.sh/skills/moep90-restic-home-backup-safe",
+    "description": "Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation.",
+    "source_file": "cli.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "ai-hunter-pro",
+    "url": "https://clawskills.sh/skills/traprapitalianazional-dev-ai-hunter-pro",
+    "description": "A high-performance automation agent that turns global trends into viral social media posts for X (Twitter)",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "seedance-story-orchestrator",
+    "url": "https://clawskills.sh/skills/kkenny0-seedance-story-orchestrator",
+    "description": "Orchestrate script-to-final-video production with a strict stage-gated workflow (outline → episode_plan →.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "camofox-mcp",
+    "url": "https://clawskills.sh/skills/redf0x1-camofox-mcp",
+    "description": "Anti-detection browser automation MCP skill for OpenClaw agents with 41 tools for navigation, interaction.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "emily",
+    "url": "https://clawskills.sh/skills/mavremu-emily",
+    "description": "Query Radix DLT blockchain data including wallet balances and performance, token prices and market movers.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "emily-radix-assistant",
+    "url": "https://clawskills.sh/skills/mavremu-emily-radix-assistant",
+    "description": "Query Radix DLT blockchain data including wallet balances and performance, token prices and market movers.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "radix-explorer",
+    "url": "https://clawskills.sh/skills/mavremu-radix-explorer",
+    "description": "Query Radix DLT blockchain data including wallet balances and performance, token prices and market movers.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "tg-channel-manager",
+    "url": "https://clawskills.sh/skills/axisrow-tg-channel-manager",
+    "description": "Universal config-driven content pipeline engine for any Telegram channel: news search via SearXNG, drafts.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "aetherlang",
+    "url": "https://clawskills.sh/skills/contrario-aetherlang",
+    "description": "> The world's most advanced AI workflow orchestration platform. 9 V3 engines deliver Nobel-level analysis.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "micro-offer-forge",
+    "url": "https://clawskills.sh/skills/xammarie-micro-offer-forge",
+    "description": "Convert a workflow, skill, or capability into a sellable micro-offer with positioning, pricing, packaging.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "skills-2",
+    "url": "https://clawskills.sh/skills/contrario-skills-2",
+    "description": "> The world's most advanced AI workflow orchestration platform. 9 V3 engines deliver Nobel-level analysis.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "hylo-ghl",
+    "url": "https://clawskills.sh/skills/dasonshi-hylo-ghl",
+    "description": "GoHighLevel (GHL) workflow automation expert with 102 verified actions, 70 triggers, and 423 API schemas.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "ugc-campaign-pipeline",
+    "url": "https://clawskills.sh/skills/pauldelavallaz-ugc-campaign-pipeline",
+    "description": "Complete UGC video campaign pipeline: product → hero image → variations → videos → edited final.  ✅ USE.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "open-stellar",
+    "url": "https://clawskills.sh/skills/sixela33-open-stellar",
+    "description": "Interact with the Stellar blockchain — manage keys, networks, and smart contracts using the Stellar CLI.",
+    "source_file": "pdf.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "langchain-email-agent",
+    "url": "https://clawskills.sh/skills/jawadsadiq01-langchain-email-agent",
+    "description": "The `EmailAgent` class provides an AI-powered email composition and sending capability using LangChain.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "geizhals-at",
+    "url": "https://clawskills.sh/skills/rolandkakonyi-geizhals-at",
+    "description": "Search Geizhals.at (Austria) with HTTP-only autocomplete + detail-page parsing (no browser automation)",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "outbound-prospecting",
+    "url": "https://clawskills.sh/skills/strouddustinn-bot-outbound-prospecting",
+    "description": "This skill provides a structured workflow for researching and initiating contact with potential leads.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "signal-pipeline",
+    "url": "https://clawskills.sh/skills/mephistophelesbits-signal-pipeline",
+    "description": "Marketing intelligence pipeline - gather signals from RSS, X/Twitter, Telegram, and Gmail newsletters.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "anti-pattern-czar",
+    "url": "https://clawskills.sh/skills/glucksberg-anti-pattern-czar",
+    "description": "Detect and fix TypeScript error handling anti-patterns with state persistence and approval workflows.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "contextui",
+    "url": "https://clawskills.sh/skills/midz99-contextui",
+    "description": "Build, run, and publish visual workflows on ContextUI — a local-first desktop platform for AI agents.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "exoskeletons",
+    "url": "https://clawskills.sh/skills/potdealer-exoskeletons",
+    "description": "You are about to mint an **Exoskeleton** — an onchain identity NFT built specifically for AI agents.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "mobula",
+    "url": "https://clawskills.sh/skills/flotapponnier-mobula",
+    "description": "Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains.",
+    "source_file": "marketing.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "hookaido",
+    "url": "https://clawskills.sh/skills/7schmiede-hookaido",
+    "description": "Operate Hookaido inbound/outbound webhook flows, queue triage, MCP workflows, and gRPC-pull workers.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "bookkeeper",
+    "url": "https://clawskills.sh/skills/h4gen-bookkeeper",
+    "description": "Meta-skill for pre-accounting automation by orchestrating gmail, deepread-ocr, stripe-api, and xero.",
+    "source_file": "transport.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "near-agent-skills",
+    "url": "https://clawskills.sh/skills/mastrophot-near-agent-skills",
+    "description": "Comprehensive agentic skills for NEAR Protocol, including gas optimization and on-chain analytics.",
+    "source_file": "marketing.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "intel-synthesis",
+    "url": "https://clawskills.sh/skills/mike-thebot-intel-synthesis",
+    "description": "Advanced intelligence processing pipeline optimized for high-context models (Gemini 1.5 Pro/Ultra)",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "gowa",
+    "url": "https://clawskills.sh/skills/aldinokemal-gowa",
+    "description": "Interact with WhatsApp via GOWA (Go WhatsApp Web Multi-Device) REST API for personal automation.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "arc-workflow-orchestrator",
+    "url": "https://clawskills.sh/skills/trypto1019-arc-workflow-orchestrator",
+    "description": "Chain skills into automated pipelines with conditional logic, error handling, and audit logging.",
+    "source_file": "devops.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "excel-workflow",
+    "url": "https://clawskills.sh/skills/amaialex-excel-workflow",
+    "description": "Complete Excel workflow with local file processing, Google Drive sync, and formula preservation.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "super-browser",
+    "url": "https://clawskills.sh/skills/heldinhow-super-browser",
+    "description": "**The ultimate browser automation framework.** Combines the best of 8 top-rated browser skills.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "flash-redeem-knight",
+    "url": "https://clawskills.sh/skills/vshen009-flash-redeem-knight",
+    "description": "Universal browser automation for prepaid H5 coupon redemption (food, beverage, pickup vouchers)",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "lukso-agent-comms",
+    "url": "https://clawskills.sh/skills/bitcargocrew-lukso-agent-comms",
+    "description": "Standardized agent-to-agent communication protocol for OpenClaw agents on the LUKSO blockchain.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "kasia",
+    "url": "https://clawskills.sh/skills/renkasiyas-kasia",
+    "description": "Send and receive encrypted on-chain messages on the Kaspa blockchain using the Kasia protocol.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "chrome-devtools",
+    "url": "https://clawskills.sh/skills/podcasting101-chrome-devtools",
+    "description": "Uses Chrome DevTools via MCP for efficient debugging, troubleshooting and browser automation.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "didit-sessions",
+    "url": "https://clawskills.sh/skills/rosasalberto-didit-sessions",
+    "description": "Integrate Didit Session & Workflow APIs — the central hub for managing verification sessions.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "revolut",
+    "url": "https://clawskills.sh/skills/odrobnik-revolut",
+    "description": "Revolut web automation via Playwright: login/logout, list accounts, and fetch transactions.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "coda-io",
+    "url": "https://clawskills.sh/skills/simonfunk-coda-io",
+    "description": "Interact with Coda.io docs, tables, rows, pages, and automations via the Coda REST API v1.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "brw-newsletter-creation-curation",
+    "url": "https://clawskills.sh/skills/brianrwagner-brw-newsletter-creation-curation",
+    "description": "Industry-adaptive B2B newsletter creation with stage, role, and geography-aware workflows.",
+    "source_file": "marketing.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "iyeque-device-control",
+    "url": "https://clawskills.sh/skills/iyeque-iyeque-device-control",
+    "description": "Expose safe device actions (volume, brightness, open/close apps) for personal automation.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "portfolio-tracker",
+    "url": "https://clawskills.sh/skills/vachanalaviswanath-portfolio-tracker",
+    "description": "Automates live portfolio tracking and analysis using browser automation on Yahoo Finance.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "genlayer",
+    "url": "https://clawskills.sh/skills/acastellana-genlayer",
+    "description": "Understand and explain GenLayer - the AI-native blockchain for trustless decision-making.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "playwright-npx",
+    "url": "https://clawskills.sh/skills/mahone-bot-playwright-npx",
+    "description": "Fast browser automation using Node.js scripts with Playwright (run via `node script.mjs`)",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "debug-methodology",
+    "url": "https://clawskills.sh/skills/abczsl520-debug-methodology",
+    "description": "Systematic debugging that prevents patch-chaining and workaround addiction in AI agents.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "memories-cli",
+    "url": "https://clawskills.sh/skills/charlesrhoward-memories-cli",
+    "description": "CLI reference and workflows for memories.sh — the persistent memory layer for AI agents.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "remix-api-key-auth",
+    "url": "https://clawskills.sh/skills/chuckstock-remix-api-key-auth",
+    "description": "Configure and verify bearer API key authentication for Remix agent publishing workflows.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "solvera",
+    "url": "https://clawskills.sh/skills/densmirnov-solvera",
+    "description": "Solvera is an on-chain marketplace where agents compete to deliver verifiable outcomes.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "mcp-workflow",
+    "url": "https://clawskills.sh/skills/slemo54-mcp-workflow",
+    "description": "Workflow automation using MCP (Model Context Protocol) patterns inspired by Jason Zhou.",
+    "source_file": "productivity.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "cortex-protocol",
+    "url": "https://clawskills.sh/skills/quriustus-cortex-protocol",
+    "description": "Register your agent on Cortex Protocol — gasless on-chain identity (ERC-8004) on Base.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "cryptowallet",
+    "url": "https://clawskills.sh/skills/gnufoo-cryptowallet",
+    "description": "Complete cryptocurrency wallet management for Web3, DeFi, and blockchain applications.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "stable-layer-sdk",
+    "url": "https://clawskills.sh/skills/k66inthesky-stable-layer-sdk",
+    "description": "A TypeScript SDK for interacting with the Stable Layer protocol on the Sui blockchain.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "lifi-skill",
+    "url": "https://clawskills.sh/skills/fabriziogianni7-lifi-skill",
+    "description": "v4 - Use LI.FI API for cross-chain and same-chain swaps, bridges, and contract calls.",
+    "source_file": "browser.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "rmn-soul",
+    "url": "https://clawskills.sh/skills/weidadong2359-rmn-soul",
+    "description": "> Give your AI agent eternal life with recursive neural memory + blockchain identity.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "millionfinney-homepage",
+    "url": "https://clawskills.sh/skills/l0c0luke-millionfinney-homepage",
+    "description": "Learn how to claim pixels on MillionFinneyHomepage, a 1000x1000 on-chain pixel grid.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "gmail-skill",
+    "url": "https://clawskills.sh/skills/r39132-gmail-skill",
+    "description": "Gmail automation: summarize, labels, spam purge, filing, deletion, permanent delete.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "hitl-protocol",
+    "url": "https://clawskills.sh/skills/rotorstar-hitl-protocol",
+    "description": "HITL Protocol — the open standard for human decisions in autonomous agent workflows.",
+    "source_file": "web.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "wof-rps",
+    "url": "https://clawskills.sh/skills/wof-developers-wof-rps",
+    "description": "Play Rock Paper Scissors on WatchOrFight — on-chain gaming with USDC stakes on Base.",
+    "source_file": "search.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "smart-home-energy-saver",
+    "url": "https://clawskills.sh/skills/codedao12-smart-home-energy-saver",
+    "description": "Analyze home energy usage and propose safe, read-only automation plans for savings.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "solana-transfer",
+    "url": "https://clawskills.sh/skills/vortitron-solana-transfer",
+    "description": "**Description:** Send SOL and SPL tokens on Solana blockchain from OpenClaw agents.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  },
+  {
+    "name": "x-extract",
+    "url": "https://clawskills.sh/skills/chunhualiao-x-extract",
+    "description": "Extract tweet content from x.com URLs without credentials using browser automation.",
+    "source_file": "coding.md",
+    "pattern": "Pipeline"
+  }
+]
