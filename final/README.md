@@ -1,5 +1,7 @@
 # ClawHub 500 精选技能集
 
+> **一念万相科技** (CittaVerse Labs) 开源项目
+
 > 从 13,729 个 ClawHub 技能中精选 500 个高质量技能，按 Google 5 Agent Skill Design Patterns 分类优化
 
 **版本**: v1.0  
