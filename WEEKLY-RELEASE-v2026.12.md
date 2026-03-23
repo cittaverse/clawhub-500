@@ -77,7 +77,7 @@ No skills were removed this week.
 | Service | Status | Notes |
 |---------|--------|-------|
 | **Alibaba Cloud Bailian** | ⚠️ Needs Update | API key validation failed |
-| **Tavily Search** | ✅ Configured | `[REDACTED]` |
+| **Tavily Search** | ✅ Configured | `[REDACTED - use GitHub Secrets]` |
 | **VirusTotal** | ⚠️ Not Configured | Required for security scans |
 | **GitHub API** | ✅ Available | For PR/Issue automation |
 

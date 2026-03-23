@@ -300,7 +300,7 @@ ClawHub 500 健康检查
 **当前配置**:
 - Base URL: `https://dashscope.aliyuncs.com/compatible-mode/v1`
 - Model: `qwen-plus` / `qwen3-coder-plus`
-- API Key: `[REDACTED]`
+- API Key: `[REDACTED - use GitHub Secrets]`
 
 **错误**: `Incorrect API key provided`
 
@@ -343,7 +343,7 @@ git push origin main
 
 | Secret | 值 |
 |--------|-----|
-| `TAVILY_API_KEY` | `[REDACTED]` |
+| `TAVILY_API_KEY` | `[REDACTED - use GitHub Secrets]` |
 | `VIRUSTOTAL_API_KEY` | [获取](https://www.virustotal.com/) |
 | `OPENAI_API_KEY` | [获取](https://platform.openai.com/) |
 

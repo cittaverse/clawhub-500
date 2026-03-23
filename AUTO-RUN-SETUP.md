@@ -54,7 +54,7 @@ gh repo view --json hasIssuesEnabled,hasWikiEnabled,hasProjectsEnabled
 
 | Secret 名称 | 值 | 用途 |
 |-----------|-----|------|
-| `TAVILY_API_KEY` | `[REDACTED]` | 技能监控/搜索 |
+| `TAVILY_API_KEY` | `[REDACTED - use GitHub Secrets]` | 技能监控/搜索 |
 | `VIRUSTOTAL_API_KEY` | [获取](https://www.virustotal.com/) | 安全扫描 |
 | `OPENAI_API_KEY` | [获取](https://platform.openai.com/) | AI 质量评估 |
 | `GITHUB_TOKEN` | (自动提供) | GitHub API 访问 |
