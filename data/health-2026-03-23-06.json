@@ -1,0 +1,7213 @@
+{
+  "timestamp": "2026-03-23T06:17:27.785681Z",
+  "api_status": {
+    "tavily": "\u2705 \u5df2\u914d\u7f6e",
+    "openai": "\u2705 \u5df2\u914d\u7f6e (bailian/qwen3-coder-plus)"
+  },
+  "total_skills": 600,
+  "avg_health_score": 45.0,
+  "watchlist_count": 0,
+  "downgrade_count": 600,
+  "skills": [
+    {
+      "name": "neo-graphql-ts-generator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "talkspresso",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "fatsecret",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "evomap-gep",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "minimax-cli-web-search",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "stashdog",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "credential-scanner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "nirwan-secret-scanner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pattern-analyst",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "platform-api-connector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "truth-frist",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "shadcn-theme-default",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "amernet-ai-saas",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "composio-connect",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "settld-mcp-payments",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ghost-cms",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "windsor-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mslearn-mcp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "facticity-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "calendar-reminders",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "shrimp-plaza",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zededa",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "governance-wrapper",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bitrix24-apiskill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "the-next-big-thing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "thenextbigthing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "unipile-linkedin",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "grok-imagine-video",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "jabrium",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "token-counter",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "smart-content-repurposer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "social-media-platform",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "makex",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "soul-memory",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hashbox-plugin",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "nofx",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "key-expiry-tracker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "quickbooks-direct",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "prusalink-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "unitask-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "anti-injection-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "v2ex",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "client-communication-engine",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "interactive-leetcode",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "odoo-connector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "odoo-erp-connector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "google-workspace-byok",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ai-lead-generator-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "gamifyhost",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "office365-connector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "laravel-forge",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "control4-home",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "yield-farming-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "coworker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "0protocol",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "miro-workshop-assistant",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tyt",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "greek-compliance-aade",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "microsoft365",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "nas-agent-sync",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "aa",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sap-integration",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "omnicogg",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "honcho",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "honcho-setup",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "creative-ops-copilot",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "message-injector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lnget",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solana-connect",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "fosmvvm-serverrequest-generator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "runpod",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agentmanager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "client-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cerebrun",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zynd-network",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "postavel",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rocketchat",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "claude-mem",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "clawos",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kj-evoweb-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lemlist-official",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sparkle-vpn",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "plex-ctl",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "secure-autofill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "relationships",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "aoi-triple-memory-lite",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "airc",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "contract-generator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "norman-manage-clients",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "garmin-pulse",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "manifest",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "coala",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "orgo-desktop-control",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skills-4",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "vscode-node",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "presage",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lunara-voice",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "chia-walletconnect",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ogment-agentic-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "auto-test-generator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "exchange-2010-ews",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "exchange2010",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "seedstr",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ha-integration-patterns",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "client-reporting",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "esri-smells-consumer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kaspi-autopay",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "anycrawl",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "attio-apikey",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mol-instant-messenger",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "highlevel",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "klutch",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "37soul-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lightning-mcp-server",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bookameeting",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "babyconnect",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "strapi",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zulip",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "client-project-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "exa-tool",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solana-skills",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "betbud-prediction-market-creation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lelamp-room",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lead-storage",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sell-evoweb-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sam-tts",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "charts",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sharepoint-by-altf1be",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "clean-pytest",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "academic-research-hub",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "deterministic-controller",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "visual-prompt-engine",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "meta-tags-optimizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "asdasdas123",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lb-motion-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-auto-attach",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-scaffold",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "web2labs-studio",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "email-manager-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lofy-life-coach",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "idx-cma-report",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "multishot-ugc",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "renderful-generation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sovereign-codebase-onboarding",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "static-network",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ugc-manual",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "volcengine-video-generate",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "foxreach",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "foxreach-io",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "social-media-lead-generation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "apple-developer-toolkit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "briefing-room",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "calibre-catalog-read",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "klientenportal",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "migma",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "neo-docker-to-k8s-manifests",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "smart-daily-assistant",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "summarize-pro",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-autopilot",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "seo-content-writer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pls-office-docs",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "feishu-meeting-assistant",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "atris",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "indexy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "jk-archivist-tiktok-packager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "voice-matched-content-system",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zoom-calendar",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "performance-reporter",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "docling",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "para-proactive-workspace",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "porteden",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-soul-crafter",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "internet-marketing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "scamper",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-video-promo",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "awwwards-design",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "fullbackup",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "business-writing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "neo-tf-module-generator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "smart-expense-tracker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "arxiv-batch-reporter",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "boof",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "competitor-analysis-report",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sun-path",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ak-rss-24h-brief",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "paper-notion-summarizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "benderstack-integration",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "creative-toolkit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "forever-moments",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "multi-factor-strategy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pls-marketing-ideas",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "redacta",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "social-media-planner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tiktok-ugc-creator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tokportal",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "app-builder",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "query-wikidata",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-namer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "study-buddy-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zoomin-scraper-recklessop",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "seo-content-factory",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "convert-to-pdf",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "itinerary-carousel-post-topaz",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lyrical-fable",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ms-foundry-image-gen",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pls-canvas-design",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "seedance-2-prompt-engineering-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solana-sniper-architect",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tg-media-resolve",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cold-outreach",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "codespace-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "materials-workbench",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "query-dbpedia",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-landing-gen",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "training-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-autonomy-primitives",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ai-review",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "comms-md",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "saa-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "keyword-research",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "password-gen-pro",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "youtube-factory",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "baml-codegen",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "digitalocean",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "document-multiple-repository",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "visual-studio-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "slv-rpc",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "upwork-hunting",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "daily-brief-digest",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mindmap-generator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "strawpoll-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "clickbait-engine",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "feishu-file-sender",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "msbuild",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "senior-prompt-engineer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-init",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-setup",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "dub-links-api",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "google-maps-leadgen-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tarot-content",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bug-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "vulnerability-scanner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "antivirus",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pyright-lsp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sentient-memory",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-safety-checker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "m44-internal-testing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "google-maps-reviews-api-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "on-page-seo-auditor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-releaser",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sovereign-seo-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "1sec-security",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sonic-kvm-testbed",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "truthcheck",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pocket-lens",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pocketlens",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "context-budgeting",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cybersec-helper",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "near-best-practices",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rank-tracker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "samma-suit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "scrapesense-developer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "simple-random-interaction-designer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "subagent-dev",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "nadfunagent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sui-opportunities-huntera",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "runtime-attestation-probe",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "usc-booking-api",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "opensoul",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-community-outreach",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-validate",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "xmtp-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "nicholasrae-review-reply",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "content-quality-auditor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "devvit-publishing-auditor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ztp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cybercentry-solidity-code-verification",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "arc-security-mcp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "openseti-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "adwhiz",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-threat-scanner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tiktok-product-promotion",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "video-production",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "domain-authority-auditor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kroger-api-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "muninn",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cacheforge-vibe-check",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "enoch-tuning",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "swamp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "vibe-check",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-skills-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "context-slimmer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "secure-shopper",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-seo-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "localudpmessenger",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "udp-messenger",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "filearchitect-blankfiles",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lobsterguard",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "senior-security",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skillshield",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "threat-modeling",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "validator-correlated-judgment",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "blankfiles",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pipelock",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "benlee-skillguard",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "canary",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "youtube-ai-videos",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "crunch-compete",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "technical-seo-checker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "transparency-log-auditor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "typescript-lsp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "aiclude-vulns-scan",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hostinger-vps-optimizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "academic-writing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "amazon-data",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-cleaner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "code-security-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "leadership-prompts",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "yoder-skill-auditor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ryot",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "stripe-cli-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-evaluation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "dependency-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "paperpod",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "astrai-code-review",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "gatewaystack-governance",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hollow-validation-checker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-engineer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "compliance-officer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cybercentry-web-application-verification",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "plvr-event-discovery",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "beaconchain",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bcra-central-deudores",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ue57-gamepiece-designer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "nova",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kaspa-news",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-review",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "install-then-update-trap-detector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "birdbuddy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "facepalm",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "funky-fund-flamingo",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "swift-patterns",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "alibaba-supplier-outreach",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "stripe-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-audit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-reputation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "multi-agent-blueprint",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sui-auto-test",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sui-coverage",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "multi-agent-orchestration",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "seo-ranker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "code-1-0-4",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "backlink-analyzer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pls-audit-website",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "security-scanner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solana-scanner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "neo-py2py3-converter",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cast",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bstorms",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "visual-concept",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "og-board-individual",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "reef-negotiation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "consilium",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "symbiont",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cybercentry-cyber-security-consultant",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "market-pulse",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "stealth-proxy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "line-rich-messages",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "exa-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "shared-workspace",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "interview-system-designer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agorahub",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "slopwork-marketplace",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ebooks",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "entity-optimizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "input-classification-v1",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-wellness",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "openserv-client",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "openserv-ideaboard-api",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skills-ttt",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "transition-mcp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bitrefill-website",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "handsfree-windows-control",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "atlassian-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "interview-coach-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rush-find-skills",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "schemapin",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "task-experience-summaries",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "windsurf-cascade",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "find-slills",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hz-context-optimizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "huggingface-trends",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "internal-linking-optimizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kosmi-dj",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agentpin",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "unique-mcp-builder-test",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "vn-market-news-monitor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "checkmate",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "freedcamp-agent-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rtm",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "task-sync",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "geo-content-optimizer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "adhd-founder-planner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "content-gap-analysis",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "maven-central-publish",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zeroapi",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ask-council",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mcp-ssh-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "task-system",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hz-proactive-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "dynamic-model-selector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hitchhikers-guide",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "teamo-strategy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "preqstation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bun-do-api",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rent-a-human-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "content-refresher",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "inversion-strategist",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "telegram-rich-messages",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ambit-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "autotask-mcp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cloudphone",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "job-hunt-tracker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "prepspsc-pyq",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "serp-analysis",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "superpower",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ai-remote-viewing-ai-isbe",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "requesting-code-review",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "alert-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "claude-code-legacy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "claude-code-orchestrator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "smart-models",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "deeps",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "taskflow",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tcom-tripgenie-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tripgenie-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "envato-comment-task-to-sheet",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rent-a-person-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ai-agent-tools",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "task-todo",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "recruiter-assistant",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "timecamp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "intelligent-delegation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "garmin-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "insaiai-intelligent-editing",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "fitcheck-skill-search",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tasktime",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "beancount-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agile-toolkit",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "model-switcher",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "zero-rules",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kagi-fastgpt",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "meyhem-search",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pi-workflow",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "0xwork",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "web-i18n-nextjs",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "web-multi-search",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mealie",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "router",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "meme-analyst",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "queue-task",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "habitchat",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "pinchbench",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "farm-task-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "teamo-lite-offline",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "friday-router",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "subagent-driven-development",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "unitask-task-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "arbitrum-dapp-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "writing-plans",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "revenue-calculator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cursor-council",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "options-strategies",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cetus",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "openai-codex-operator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-build",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "glitch-dashboard",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "interview-designer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tutti",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "moonfunsdk",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "external-ki-integration-backup",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sports-betting",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lifi-orchestrator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sophiie",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "macos-desktop-control",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "js-eyes",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solo-retro",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "consensus-interact",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "developer-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "vexa",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "data-cleaning-annotation-workflow",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sui",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "level-design-patterns",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tbot-controller",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "autobahn",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "life-control",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "yt-to-blog",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "evolution-api",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "heurist-mesh",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "multi-agent-parallel-build",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "botcoin-miner",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "sequence-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "reva",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "actionbook",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "evogo",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "external-ai-integration",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "homeassistant-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "aiml-llm-reasoning",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skill-detector",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "extropy",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "telegram-multilingual-voice-reply",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "web-searcher",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ghl-crm-for-realtors",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "revenue-operations",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "date-night",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "saas-orchestrator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "secrets-management",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "close-loop",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "echo-sales-ai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "twitter-api",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "youtube-editor",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "gizmolab-tools",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lofy-career",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "masumi",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "agent-brain",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "vnstock-free-expert",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "apechain-reader",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "soulforge",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tor-browser",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "recruitly-mcp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "m365-calendar",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "erpnext-frappe",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ftw",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hxxra",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rag-eval",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "linkedapi-linkedin",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "m365-mailbox",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tulisai",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "restic-home-backup",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "restic-home-backup-safe",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ai-hunter-pro",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "seedance-story-orchestrator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "camofox-mcp",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "emily",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "emily-radix-assistant",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "radix-explorer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "tg-channel-manager",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "aetherlang",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "micro-offer-forge",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "skills-2",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hylo-ghl",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "ugc-campaign-pipeline",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "open-stellar",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "langchain-email-agent",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "geizhals-at",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "outbound-prospecting",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "signal-pipeline",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "anti-pattern-czar",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "contextui",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "exoskeletons",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mobula",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hookaido",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "bookkeeper",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "near-agent-skills",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "intel-synthesis",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "gowa",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "arc-workflow-orchestrator",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "excel-workflow",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "super-browser",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "flash-redeem-knight",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lukso-agent-comms",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "kasia",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "chrome-devtools",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "didit-sessions",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "revolut",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "coda-io",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "brw-newsletter-creation-curation",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "iyeque-device-control",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "portfolio-tracker",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "genlayer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "playwright-npx",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "debug-methodology",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "memories-cli",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "remix-api-key-auth",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solvera",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "mcp-workflow",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cortex-protocol",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "cryptowallet",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "stable-layer-sdk",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "lifi-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "rmn-soul",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "millionfinney-homepage",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "gmail-skill",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "hitl-protocol",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "wof-rps",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "smart-home-energy-saver",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "solana-transfer",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    },
+    {
+      "name": "x-extract",
+      "slug": "",
+      "health_score": 45.0,
+      "recommendation": "downgrade",
+      "components": {
+        "download": 50,
+        "star": 0.0,
+        "activity": 50.0,
+        "security": 100
+      }
+    }
+  ]
+}
