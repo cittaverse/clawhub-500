@@ -1,0 +1,26 @@
+# API Keys & Secrets
+.env
+.env.*
+*.env
+API-KEYS.md
+*secret*
+*credential*
+
+# Private keys
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
