@@ -1,7 +1,8 @@
 # ClawHub 500 质量仪表板
 
-**最后更新**: 2026-03-22 00:22 UTC  
-**当前版本**: v2026.12
+**最后更新**: 2026-03-25 07:29 UTC
+**评估模型**: qwen3-coder-plus (阿里云百炼)
+**当前版本**: v2026.13
 
 ---
 
@@ -9,12 +10,13 @@
 
 | 指标 | 数值 | 状态 |
 |------|------|------|
-| **技能总数** | 600 | ✅ 稳定 |
-| **平均 AI 评分** | 45.0 | ⚠️ 模拟数据 |
-| **升级候选** | 0 | - |
-| **保持精选** | 0 | - |
-| **观察列表** | 600 | 100% |
-| **降级候选** | 0 | - |
+| **技能总数** | 600 | ✅ |
+| **平均 AI 评分** | 62.3 | ⚠️ 需改进 |
+| **升级候选** | 3 | 🎉 |
+| **保持精选** | 234 | ✅ |
+| **观察列表** | 228 | ⚠️ |
+| **降级候选** | 135 | 🔴 |
+| **API 成功率** | 60/60 batches | ✅ |
 
 ---
 
@@ -22,68 +24,48 @@
 
 | 分数段 | 数量 | 占比 |
 |--------|------|------|
-| ≥90 (升级) | 0 | 0.0% |
-| 70-89 (保持) | 0 | 0.0% |
-| 50-69 (观察) | 600 | 100.0% |
-| <50 (降级) | 0 | 0.0% |
+| ≥90 (升级) | 3 | 0.5% |
+| 70-89 (保持) | 234 | 39.0% |
+| 50-69 (观察) | 228 | 38.0% |
+| <50 (降级) | 135 | 22.5% |
 
 ---
 
 ## 升级候选 (Top 10)
 
-*暂无升级候选*
+| 排名 | 技能名 | AI 评分 | 模式 | 推荐原因 |
+|------|--------|--------|------|---------|
+| 1 | pyright-lsp | 88 | Reviewer | Essential development tool with excellent implementation and |
+| 2 | clean-pytest | 85 | Generator | Best practices for testing with fake-based testing and depen |
+| 3 | skill-releaser | 85 | Reviewer | Critical infrastructure tool for skill distribution with str |
 
 ---
 
 ## 降级候选 (Top 10)
 
-*暂无降级候选*
-
----
-
-## 本周变更 (v2026.12)
-
-| 变更类型 | 数量 |
-|---------|------|
-| **新增技能** | 0 |
-| **移除技能** | 0 |
-| **质量升级** | 0 |
-| **质量降级** | 0 |
-
-**发布原因**: 每周例行发布 (Week 12, 2026)
-
----
-
-## 健康检查状态
-
-| 检查项 | 状态 | 最后运行 |
-|--------|------|---------|
-| **自动化健康监控** | ✅ 通过 | 2026-03-21 18:04 UTC |
-| **GitHub Actions 工作流** | ✅ 已配置 | - |
-| **OpenClaw 本地 Cron** | ✅ 运行中 (3 任务) | - |
-| **数据管道** | ✅ 正常 | - |
+| 排名 | 技能名 | AI 评分 | 模式 | 主要问题 |
+|------|--------|--------|------|---------|
+| 1 | ai-remote-viewing-ai-isbe | 20 | Inversion | Based on pseudoscientific concepts; extremely low practical  |
+| 2 | aetherlang | 25 | Pipeline | Overhyped marketing claims with 'Nobel-level' analysis indic |
+| 3 | business-writing | 30 | Generator | Business writing assistant without clear technical implement |
+| 4 | zoomin-scraper-recklessop | 30 | Generator | Scraping tools raise legal/ethical concerns and 'recklessop' |
+| 5 | agent-wellness | 30 | Inversion | Anthropomorphizing agents is gimmicky, lacks practical utili |
+| 6 | prepspsc-pyq | 30 | Inversion | Very niche focus on specific regional exam; limited general  |
+| 7 | evomap-gep | 35 | Tool Wrapper | Very low scores, unclear purpose and implementation quality  |
+| 8 | lelamp-room | 35 | Generator | Highly experimental concept with '3D lobster room' suggestin |
+| 9 | asdasdas123 | 35 | Generator | Poor naming convention, unprofessional appearance, low score |
+| 10 | static-network | 35 | Generator | Poor description suggests incomplete implementation, social  |
 
 ---
 
 ## 历史趋势
 
-| 日期 | 版本 | 平均评分 | 升级数 | 降级数 | 备注 |
-|------|------|---------|--------|--------|------|
-| 2026-03-22 | v2026.12 | 45.0 | 0 | 0 | 基础设施发布 |
-| 2026-03-21 | v2026.11 | 45.0 | 0 | 0 | 初始设置 |
+| 日期 | 平均评分 | 升级数 | 降级数 | 模型 |
+|------|---------|--------|--------|------|
+| 2026-03-25 | 62.3 | 3 | 135 | qwen3-coder-plus |
+| 2026-03-22 | 45.0 | 0 | 0 | N/A |
 
 ---
 
-## API 配置状态
-
-| 服务 | 状态 | 说明 |
-|------|------|------|
-| **阿里云百炼** | ⚠️ 需更新 | API Key 验证失败 |
-| **Tavily Search** | ✅ 已配置 | 搜索服务正常 |
-| **VirusTotal** | ⚠️ 未配置 | 安全扫描待启用 |
-| **GitHub API** | ✅ 可用 | PR/Issue 自动化 |
-
----
-
-*自动生成 | Hulk 🟢 — ClawHub 500 质量自动化*  
-**下次发布**: v2026.13 (2026-03-29)
+*自动生成 | Hulk 🟢 — ClawHub 500 Weekly Reevaluation*
+**下次评估**: 2026-W13
