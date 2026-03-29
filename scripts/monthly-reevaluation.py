@@ -26,7 +26,7 @@ DASHBOARD_FILE = DATA_DIR.parent / "quality-dashboard.md"
 # API 配置
 DASHSCOPE_API_KEY = os.environ.get('DASHSCOPE_API_KEY', os.environ.get('OPENAI_API_KEY', ''))
 BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://coding.dashscope.aliyuncs.com/v1')
-MODEL = os.environ.get('OPENAI_MODEL', 'bailian/qwen3-coder-plus')
+MODEL = os.environ.get('OPENAI_MODEL', 'qwen3-coder-plus')
 
 
 def load_skills() -> List[Dict]:

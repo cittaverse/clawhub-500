@@ -1,7 +1,7 @@
 # ClawHub 500 Weekly Status - W13/2026
 
-**Report Date**: 2026-03-27 (Week 13, 2026)
-**Reporting Period**: 2026-03-23 to 2026-03-27
+**Report Date**: 2026-03-29 (Week 13, 2026)
+**Reporting Period**: 2026-03-23 to 2026-03-29
 **Current Version**: v2026.13
 **Release Decision**: ❌ No new release this week
 
@@ -23,12 +23,13 @@
 
 | Metric | Count | Notes |
 |--------|-------|-------|
-| **Git Commits** | 4 | Evaluation + documentation |
+| **Git Commits** | 12 | Security + evaluation + documentation |
 | **New Skills Added** | 0 | No new skills |
-| **Skills Evaluated** | 600 | Full reevaluation completed |
-| **Health Checks** | 14+ | All passing |
-| **API Calls** | 60 | 100% success rate |
+| **Skills Evaluated** | 600 | Full reevaluation completed (2026-03-25) |
+| **Health Checks** | 17+ | All passing |
+| **API Calls** | 60+ | 100% success rate (reevaluation) |
 | **Evaluation Model** | qwen3-coder-plus | Alibaba Cloud Bailian |
+| **Security Fixes** | 3 | Credential remediation complete |
 
 ---
 
@@ -47,20 +48,38 @@
 
 ## 📝 Key Changes This Week
 
-1. **Weekly Reevaluation**: 600 skills evaluated via qwen3-coder-plus (100% API success)
-2. **Health Monitoring**: 14+ automated health checks, all passing
-3. **Quality Dashboard**: Updated and verified
+### Security Remediation (2026-03-23)
+- **Issue**: API credentials accidentally committed to documentation
+- **Action**: Removed `API-KEYS.md`, redacted all keys from docs, added `.gitignore` rules
+- **Status**: ✅ Complete — git history cleaned, no credentials in repository
+
+### Quality & Evaluation
+1. **Weekly Reevaluation** (2026-03-25): 600 skills evaluated via qwen3-coder-plus (100% API success)
+2. **Health Monitoring**: 17+ automated health checks, all passing
+3. **Quality Dashboard**: Updated with real AI evaluation data (avg score: 62.3)
 4. **Release v2026.13**: Documentation completed on 2026-03-25
+
+### Infrastructure
+- New scripts: `weekly-reevaluation-fast.py`, `health-check-v2.py`, `generate-watchlist.py`
+- Auto-upgrade candidate review completed (2026-03-27)
 
 ---
 
 ## 📋 Commits This Week
 
 ```
+2f3e5b9 Merge branch 'main' of https://github.com/cittaverse/clawhub-500
+420ca02 docs: weekly status W13 complete + health check data
+3b2c1b0 docs: weekly status report W13 (no new release - 0 skills < 5 threshold)
+be1c7dc Merge pull request #2 from cittaverse/auto-upgrade-20260327
+55cf1ac Auto-upgrade 2 skills (2026-03-27)
 18c2eba docs: mark v2026.13 release verification complete
 b52ca06 release: v2026.13 — first real AI evaluation (qwen3-coder-plus)
 e464c3d Weekly reevaluation 2026-03-25: 600 skills evaluated via qwen3-coder-plus
 7b10dcb health-check 2026-03-23 18:10 UTC — v1 fallback (API keys not injected)
+da25d0f Add .gitignore to prevent future credential leaks
+2dbf1b0 SECURITY: Redact all exposed API keys from documentation
+e22d0d2 SECURITY: Remove API-KEYS.md with exposed credentials
 ```
 
 ---
