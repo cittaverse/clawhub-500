@@ -4,15 +4,16 @@ ClawHub 500 健康检查脚本
 每 6 小时自动运行，检查所有技能健康状态
 """
 
+import argparse
 import json
 import os
 import sys
-from datetime import datetime, timedelta
+from datetime import UTC, datetime
 from pathlib import Path
 
 # 配置
 DATA_DIR = Path(os.environ.get('DATA_DIR', 'data'))
-OUTPUT_FILE = DATA_DIR / f"health-{datetime.now().strftime('%Y-%m-%d-%H')}.json"
+DEFAULT_OUTPUT_FILE = DATA_DIR / f"health-{datetime.now(UTC).strftime('%Y-%m-%d-%H')}.json"
 
 def load_skills():
     """加载精选技能列表"""
@@ -84,11 +85,22 @@ def get_recommendation(score):
     else:
         return "downgrade"  # 降级/移除
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Run ClawHub 500 health checks.")
+    parser.add_argument("--output", default=str(DEFAULT_OUTPUT_FILE), help="Path to write the health JSON report.")
+    parser.add_argument("--tavily-key", default="", help="Reserved for future Tavily API checks.")
+    parser.add_argument("--virustotal-key", default="", help="Reserved for future VirusTotal checks.")
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
+    output_file = Path(args.output)
+
     print("=" * 60)
     print("ClawHub 500 健康检查")
     print("=" * 60)
-    print(f"时间：{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
+    print(f"时间：{datetime.now(UTC).strftime('%Y-%m-%d %H:%M UTC')}")
     print()
     
     # 加载技能
@@ -118,7 +130,7 @@ def main():
     
     # 保存结果
     output_data = {
-        'timestamp': datetime.utcnow().isoformat() + 'Z',
+        'timestamp': datetime.now(UTC).isoformat().replace('+00:00', 'Z'),
         'total_skills': total,
         'avg_health_score': round(avg_score, 1),
         'watchlist_count': watchlist_count,
@@ -126,10 +138,11 @@ def main():
         'skills': results
     }
     
-    with open(OUTPUT_FILE, 'w') as f:
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_file, 'w') as f:
         json.dump(output_data, f, indent=2)
     
-    print(f"已保存：{OUTPUT_FILE}")
+    print(f"已保存：{output_file}")
     print()
     print("统计摘要:")
     print(f"  平均健康分：{avg_score:.1f}")

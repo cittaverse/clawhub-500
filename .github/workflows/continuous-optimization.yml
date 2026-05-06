@@ -21,6 +21,10 @@ on:
           - release
           - skill-iteration
 
+permissions:
+  contents: read
+  issues: write
+
 env:
   PYTHON_VERSION: '3.11'
   PIP_CACHE_DIR: ${{ github.workspace }}/.cache/pip
@@ -42,38 +46,34 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r scripts/requirements.txt
+
+      - name: Set run paths
+        id: paths
+        run: |
+          run_hour="$(date -u +%Y-%m-%d-%H)"
+          echo "health_json=data/health-${run_hour}.json" >> "$GITHUB_OUTPUT"
+          echo "watchlist_md=data/watchlist-${run_hour}.md" >> "$GITHUB_OUTPUT"
+          echo "issue_title=Health Check $(date -u '+%Y-%m-%d %H:00 UTC')" >> "$GITHUB_OUTPUT"
       
       - name: Run health check
         run: |
           python scripts/health-check.py \
-            --output data/health-$(date +%Y-%m-%d-%H).json \
-            --tavily-key ${{ secrets.TAVILY_API_KEY }} \
-            --virustotal-key ${{ secrets.VIRUSTOTAL_API_KEY }}
+            --output "${{ steps.paths.outputs.health_json }}" \
+            --tavily-key "${{ secrets.TAVILY_API_KEY }}" \
+            --virustotal-key "${{ secrets.VIRUSTOTAL_API_KEY }}"
       
       - name: Generate watchlist
         run: |
           python scripts/generate-watchlist.py \
-            --input data/health-$(date +%Y-%m-%d-%H).json \
-            --output data/watchlist-$(date +%Y-%m-%d).md
+            --input "${{ steps.paths.outputs.health_json }}" \
+            --output "${{ steps.paths.outputs.watchlist_md }}"
       
       - name: Create/Update Issue
         uses: peter-evans/create-issue-from-file@v4
         with:
-          title: 'Health Check $(date +%Y-%m-%d %H:00 UTC)'
-          content-filepath: data/watchlist-$(date +%Y-%m-%d).md
+          title: ${{ steps.paths.outputs.issue_title }}
+          content-filepath: ${{ steps.paths.outputs.watchlist_md }}
           labels: automated, health-check
-      
-      - name: Auto-fix common issues
-        run: |
-          python scripts/auto-fix.py \
-            --input data/health-$(date +%Y-%m-%d-%H).json \
-            --output data/auto-fix-$(date +%Y-%m-%d).md
-      
-      - name: Commit auto-fixes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: '[Auto-Fix] $(date +%Y-%m-%d %H:00 UTC)'
-          file_pattern: 'data/*.md skills/**/*.md'
 
   # 每周日质量重评
   quality-reevaluation:
